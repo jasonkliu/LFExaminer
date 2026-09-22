@@ -1,0 +1,1618 @@
+Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Size,Opened,Type
+1,ANGOLA,Luanda,,ZAP Cinemas & IMAX,IMAX,D,3D,F,,39.2 x 70.7 ft./ 12.0 x 21.6 m.,2016/01/25,CM
+2,ARGENTINA,Buenos Aires,,IMAX Theatre Showcase,IMAX,D,3D,F,383,65.6 x 85.6 ft./ 20.0 x 26.1 m.,2006/05/12,CM
+3,ARGENTINA,Posadas,,Parque del Conocimiento,IMAX,D,3D,F,,39.4 x 69.4 ft./ 12.0 x 21.2 m.,2016/09/14,C
+4,AUSTRIA,Graz,,CineplexX Graz & IMAX,IMAX,DL,3D,F,340,30.2 x 57.1 ft./ 9.2 x 17.4 m.,2009/06/24,CM
+5,AUSTRIA,Hartberg,,Oekopark Hartberg,BALL,870,2D,F,256,53.5 x 74.1 ft./ 16.3 x 22.6 m.,2003/06,C
+6,AUSTRIA,Hohenems,,Cineplexx Hohenems IMAX,IMAX,D,3D,F,364,30.0 x 55.8 ft./ 9.1 x 17.0 m.,2011/05/19,CM
+7,AUSTRIA,Innsbruck,,CineplexX Innsbruck & IMAX,IMAX,D,3D,F,,,2017/12/13,CM
+8,AUSTRIA,Pasching,,Hollywood Megaplex Plus City & IMAX,IMAX,D,3D,F,,45.1 x 79.3 ft./ 13.8 x 24.2 m.,2016/07,CM
+9,AUSTRIA,Salzburg,,CineplexX Salzburg City & IMAX,IMAX,D,3D,F,,28.9 x 54.6 ft./ 8.8 x 16.6 m.,2013/12/11,CM
+10,AUSTRIA,St. Polten,,Hollywood Megaplex St. Pölten,IMAX,D,3D,F,,31.8 x 56.6 ft./ 9.7 x 17.3 m.,2015/06/12,CM
+11,AUSTRIA,Vienna,,CineplexX Apollo Vienna & IMAX,IMAX,DL,3D,F,380,31.2 x 57.8 ft./ 9.5 x 17.6 m.,2009/06/24,CM
+12,AUSTRIA,Vienna,,CineplexX Donau Plex IMAX Vienna,IMAX,DL,3D,F,478,36.1 x 67.3 ft./ 11.0 x 20.5 m.,2012/10/31,CM
+13,AZERBAIJAN,Astrakhan,,Kinomax IMAX,IMAX,D,3D,F,298,31.2 x 56.2 ft./ 9.5 x 17.1 m.,2012/03/06,CM
+14,AZERBAIJAN,Baku,,Azercell & IMAX,IMAX,D,3D,F,,39.3 x 69.3 ft./ 12.0 x 21.1 m.,2014/12/13,CM
+15,BAHAMAS,Nassau,,Fusion Superplex & IMAX,IMAX,DL2,3D,F,,,2018,CM
+16,BAHRAIN,Manama,,VOX Cineco & IMAX,IMAX,D,3D,F,,38.8 x 70.0 ft./ 11.8 x 21.3 m.,2017/11,CM
+17,BAHRAIN,Muharraq,,Novo Cinemas & IMAX,IMAX,D,3D,F,,31.5 x 58.8 ft./ 9.6 x 17.9 m.,2015/07/30,CM
+18,BANGLADESH,Dhaka,,Bhasani Novo Theatre,GOTO,1070+D,2D,D,275,76.0 ft./ 23.2 m.,2004/09/25,N
+19,BELGIUM,Antwerp,,Kinepolis Mega NV Antwerpen & IMAX,IMAX,DL,3D,F,,36.1 x 65.6 ft./ 11.0 x 20.0 m.,2020/06,CM
+20,BELGIUM,Brussels,,Kinepolis IMAX Theatre,IMAX,DL2,3D,F,400,63.3 x 90.5 ft./ 19.3 x 27.6 m.,1988/03/28,CM
+21,BELGIUM,Charleroi,,Pathe Charleroi & IMAX,IMAX,DL2,3D,F,,52.5 x 72.2 ft./ 16.0 x 22.0 m.,2018/02/06,CM
+22,BRAZIL,Belo Horizonte,,Cineart Boulevard & IMAX,IMAX,D,3D,F,,34.3 x 60.8 ft./ 10.5 x 18.5 m.,2015/12/17,CM
+23,BRAZIL,Campinas,,Kinoplex D. Pedro & IMAX,IMAX,D,3D,F,,31.6 x 57.4 ft./ 9.6 x 17.5 m.,2015/02/12,CM
+24,BRAZIL,Curitiba,,IMAX Palladium,IMAX,D,3D,F,340,40.0 x 69.9 ft./ 12.2 x 21.3 m.,2009/07/24,CM
+25,BRAZIL,Fortaleza,,UCI Ribeiro Shopping Iguatemi Fortaleza,IMAX,D,3D,F,,36.3 x 66.4 ft./ 11.1 x 20.2 m.,2014/01/23,CM
+26,BRAZIL,Porto Alegre,,Bourbon Shopping Wallig IMAX,IMAX,D,3D,F,,39.0 x 68.7 ft./ 11.9 x 20.9 m.,2013/05/24,CM
+27,BRAZIL,Recife,,UCI Kinoplex De Lux Shopping Recife & IMAX,IMAX,D,3D,F,,35.1 x 63.2 ft./ 10.7 x 19.3 m.,2014/04/03,CM
+28,BRAZIL,Ribeirao Preto,,UCI Ribeirao Shopping & IMAX,IMAX,D,3D,F,,26.0 x 48.4 ft./ 7.9 x 14.8 m.,2014/06/12,CM
+29,BRAZIL,Rio de Janeiro,,UCI 18 Cinemas New York City Center IMAX,IMAX,D,3D,F,350,33.8 x 61.3 ft./ 10.3 x 18.7 m.,2011/07/22,CM
+30,BRAZIL,Sao Paulo,,Cinepolis IMAX Theatre,IMAX,D,3D,F,370,34.8 x 62.5 ft./ 10.6 x 19.1 m.,2012/06/22,CM
+31,BRAZIL,Sao Paulo,,"Espaço Itau de Cinema IMAX, Bourbon Shopping Centre",IMAX,D,3D,F,326,39.7 x 68.2 ft./ 12.1 x 20.8 m.,2009/01/14,CM
+32,BULGARIA,Plovdiv,,Kino Arena IMAX Plovdiv,IMAX,D,3D,F,,36.2 x 64.3 ft./ 11.0 x 19.6 m.,2016/10/28,CM
+33,BULGARIA,Sofia,,"Cinema City IMAX, Mall of Sofia",IMAX,D,3D,F,397,60.3 x 78.6 ft./ 18.4 x 24.0 m.,2006/07/13,CM
+34,BULGARIA,Sofia,,Kino Arena Mladost Sofia & IMAX,IMAX,D,3D,F,,39.0 x 72.1 ft./ 11.9 x 22.0 m.,2014/05/16,CM
+35,BULGARIA,Varna,,Kino Arena Grand Mall Varna & IMAX,IMAX,D,3D,F,,45.8 x 80.0 ft./ 14.0 x 24.4 m.,2015/12/18,CM
+36,CAMBODIA,Phnom Penh,,Major Cineplex by Smart & IMAX,IMAX,D,3D,F,,44.9 x 79.3 ft./ 13.7 x 24.2 m.,2018/05/30,CM
+37,CHILE,Santiago,,Cine Hoyts & IMAX,IMAX,D,3D,F,,38.5 x 69.4 ft./ 11.7 x 21.2 m.,2015/05/02,CM
+38,CHINA,Anqing,,Anqing SFC Bailian & IMAX,IMAX,D,3D,F,,45.2 x 78.2 ft./ 13.8 x 23.8 m.,2017/11/10,CM
+39,CHINA,Anyang,,Anyang Wanda & IMAX,IMAX,D,3D,F,,36.9 x 66.1 ft./ 11.3 x 20.2 m.,2015/07/25,CM
+40,CHINA,Baotou,,Baotou Jiuyuan Wanda 239,IMAX,D,3D,F,,35.8 x 64.5 ft./ 10.9 x 19.7 m.,2018/08/17,CM
+41,CHINA,Baotou,,Baotou Qingshan Wanda & IMAX,IMAX,D,3D,F,310,37.4 x 68.9 ft./ 11.4 x 21.0 m.,2011/11/08,CM
+42,CHINA,Beihai,,Beihai Dadi,IMAX,D,3D,F,,33.3 x 59.7 ft./ 10.2 x 18.2 m.,2017/10/28,CM
+43,CHINA,Beijing,,Beijing CBD Wanda & IMAX,IMAX,D,3D,F,357,28.1 x 54.1 ft./ 8.6 x 16.5 m.,2011/01/10,CM
+44,CHINA,Beijing,,Beijing Civil Aviation,IMAX,1570,3D,F,,52.7 x 70.0 ft./ 16.1 x 21.3 m.,2010,N
+45,CHINA,Beijing,,Beijing Emperor Centre & IMAX,IMAX,D,3D,F,,38.6 x 68.1 ft./ 11.8 x 20.8 m.,2018/04/29,CM
+46,CHINA,Beijing,,Beijing Hexie Hengye & IMAX,IMAX,D,3D,F,,28.2 x 50.8 ft./ 8.6 x 15.5 m.,2016/12/16,CM
+47,CHINA,Beijing,,Beijing Huaifang Wanda & IMAX,IMAX,D,3D,F,,35.5 x 63.8 ft./ 10.8 x 19.5 m.,2016/12/22,CM
+48,CHINA,Beijing,,Beijing Huairou Wanda,IMAX,D,3D,F,,36.6 x 65.6 ft./ 11.2 x 20.0 m.,2017,CM
+49,CHINA,Beijing,,Beijing Huiju Jinyi & IMAX,IMAX,D,3D,F,,40.1 x 72.2 ft./ 12.2 x 22.0 m.,2014/12/19,CM
+50,CHINA,Beijing,,Beijing Jinyi Cinema & IMAX,IMAX,D,3D,F,298,29.9 x 53.5 ft./ 9.1 x 16.3 m.,2012/12/20,CM
+51,CHINA,Beijing,,Beijing Jinyuan Stellar IMAX,IMAX,D,3D,F,,32.9 x 61.8 ft./ 10.0 x 18.8 m.,2013/07/04,CM
+52,CHINA,Beijing,,Beijing Miyun Bona & IMAX,IMAX,D,3D,F,,35.7 x 64.1 ft./ 10.9 x 19.5 m.,2017/11/26,CM
+53,CHINA,Beijing,,Beijing RIJDOJ & IMAX,IMAX,D,3D,F,,40.0 x 71.9 ft./ 12.2 x 21.9 m.,2017/07,CM
+54,CHINA,Beijing,,Beijing Shijingshan Wanda & IMAX,IMAX,D,3D,F,417,41.7 x 69.9 ft./ 12.7 x 21.3 m.,2008,CM
+55,CHINA,Beijing,,Beijing Tiantongyuan Wanda & IMAX,IMAX,D,3D,F,268,27.7 x 53.4 ft./ 8.5 x 16.3 m.,2012/07/27,CM
+56,CHINA,Beijing,,Beijing Times Paradise Walk Lumiere & IMAX,IMAX,D,3D,F,,44.8 x 78.4 ft./ 13.7 x 23.9 m.,2015/10/12,CM
+57,CHINA,Beijing,,Beijing Tongzhou Wanda & IMAX,IMAX,D,3D,F,,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2014/11/29,CM
+58,CHINA,Beijing,,Beijing UME & IMAX,IMAX,D,3D,F,390,45.5 x 74.1 ft./ 13.9 x 22.6 m.,2006/03,CM
+59,CHINA,Beijing,,Beijing U-Town Bona & IMAX,IMAX,D,3D,F,,27.0 x 49.2 ft./ 8.2 x 15.0 m.,2014/12/18,CM
+60,CHINA,Beijing,,Beijing Xitieying Wanda & IMAX,IMAX,D,3D,F,,36.9 x 65.6 ft./ 11.3 x 20.0 m.,2017,CM
+61,CHINA,Beijing,,Beijing Yangqiao Huayi Brothers & IMAX,IMAX,D,3D,F,,35.0 x 62.0 ft./ 10.7 x 18.9 m.,2015/08/15,CM
+62,CHINA,Beijing,,China National Film Museum,IMAX,DL2,3D,F,402,68.1 x 88.6 ft./ 20.5 x 27.2 m.,2006/08/25,N
+63,CHINA,Beijing,,"IMAX 3D Theater, China Science and Technology Museum",IMAX,1570,3D,F,632,72.2 x 98.4 ft./ 22.0 x 30.0 m.,2009/10,N
+64,CHINA,Beijing,,"IMAX Dome, China Science and Technology Museum",IMAX,1570,2D,D,632,89.0 ft./ 27.1 m.,1995,N
+65,CHINA,Bejing,,Beijing Daxing Longfor SFC & IMAX,IMAX,D,3D,F,,40.5 x 73.6 ft./ 12.3 x 22.4 m.,2016/07,CM
+66,CHINA,Bengbu,,Bengbu Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.2 ft./ 11.6 x 20.8 m.,2013/11/29,CM
+67,CHINA,Benxi,,Benxi Wanda & IMAX,IMAX,D,3D,F,,37.8 x 67.6 ft./ 11.5 x 20.6 m.,2018,CM
+68,CHINA,Binzhou,,Binzhou Wanda & IMAX,IMAX,D,3D,F,,34.4 x 62.0 ft./ 10.5 x 18.9 m.,2016/12/30,CM
+69,CHINA,Bozhou,,Bozhou Wanda & IMAX,IMAX,D,3D,F,,44.2 x 76.8 ft./ 13.5 x 23.4 m.,2016/08/12,CM
+70,CHINA,Changchun,,Changchun Checheng Wanda,IMAX,D,3D,F,,37.1 x 66.5 ft./ 11.3 x 20.3 m.,2017/09/08,CM
+71,CHINA,Changchun,,Changchun Chongqing Road Wanda & IMAX,IMAX,D,3D,F,372,39.8 x 70.9 ft./ 12.1 x 21.6 m.,2011/12/15,CM
+72,CHINA,Changchun,,Changchun Kuancheng Wanda & IMAX,IMAX,D,3D,F,,37.7 x 68.9 ft./ 11.5 x 21.0 m.,2013/08/16,CM
+73,CHINA,Changchun,,Changchun Ouya Wanda & IMAX,IMAX,D,3D,F,553,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2008/07/10,CM
+74,CHINA,Changchun,,Changchun Qianjin Street Liwang Wanda & IMAX,IMAX,D,3D,F,,40.7 x 71.9 ft./ 12.4 x 21.9 m.,2016/06/08,CM
+75,CHINA,Changchun,,Changchun Red Flag Street Wanda & IMAX,IMAX,D,3D,F,380,39.7 x 72.1 ft./ 12.1 x 22.0 m.,2011/11/08,CM
+76,CHINA,Changchun,,Changchun Wanda,IMAX,D,3D,F,,40.7 x 72.5 ft./ 12.4 x 22.1 m.,2017/09/02,CM
+77,CHINA,Changchun,,Changchun Wanda 303,IMAX,D,3D,F,,38.5 x 69.7 ft./ 11.7 x 21.3 m.,2018/12/13,CM
+78,CHINA,Changde,,Changde Wanda & IMAX,IMAX,D,3D,F,,37.1 x 66.4 ft./ 11.3 x 20.2 m.,2016/09/16,CM
+79,CHINA,Changsha,,CGV Changsha & IMAX,IMAX,D,3D,F,,38.3 x 68.9 ft./ 11.7 x 21.0 m.,2013/08/08,CM
+80,CHINA,Changsha,,CGV Changsha Desiqing & IMAX,IMAX,D,3D,F,,36.4 x 64.8 ft./ 11.1 x 19.8 m.,2015/08/06,CM
+81,CHINA,Changsha,,Changsha CGV Xingsha & IMAX,IMAX,D,3D,F,,38.2 x 67.7 ft./ 11.6 x 20.6 m.,2015/11/13,CM
+82,CHINA,Changsha,,Changsha Kaifu Wanda & IMAX,IMAX,D,3D,F,,38.4 x 67.3 ft./ 11.7 x 20.5 m.,2013/09/27,CM
+83,CHINA,Changsha,,Changsha Meixi Lake BBG Wanda & IMAX,IMAX,D,3D,F,,39.6 x 71.2 ft./ 12.1 x 21.7 m.,2016/07/08,CM
+84,CHINA,Changsha,,Changsha Meixi Lake CGV & IMAX,IMAX,D,3D,F,,40.9 x 71.9 ft./ 12.5 x 21.9 m.,2016/11/25,CM
+85,CHINA,Changsha,,Changsha U.you Town Hengdian & IMAX,IMAX,D,3D,F,,34.5 x 61.4 ft./ 10.5 x 18.7 m.,2018/08/18,CM
+86,CHINA,Changsha,,Changsha Wanda & IMAX,IMAX,D,3D,F,454,40.4 x 69.9 ft./ 12.3 x 21.3 m.,2009/03/31,CM
+87,CHINA,Changshu,,Changshu Wanda & IMAX,IMAX,D,3D,F,,37.2 x 66.6 ft./ 11.3 x 20.3 m.,2017/07/20,CM
+88,CHINA,Changzhi,,Changzhi Wanda & IMAX,IMAX,D,3D,F,,34.8 x 62.5 ft./ 10.6 x 19.1 m.,2018/09/22,CM
+89,CHINA,Changzhou,,Changzhou Global Harbor SFC & IMAX,IMAX,D,3D,F,,44.8 x 79.9 ft./ 13.7 x 24.4 m.,2016/01/09,CM
+90,CHINA,Changzhou,,Changzhou Jintan InJoy Bestar & IMAX,IMAX,D,3D,F,,44.1 x 77.1 ft./ 13.4 x 23.5 m.,2016/12/08,CM
+91,CHINA,Changzhou,,Changzhou Omnijoi & IMAX,IMAX,D,3D,F,,36.8 x 65.9 ft./ 11.2 x 20.1 m.,2015/09/26,CM
+92,CHINA,Changzhou,,Changzhou OSGH Cinema & IMAX,IMAX,D,3D,F,552,44.6 x 78.7 ft./ 13.6 x 24.0 m.,2012/12/25,CM
+93,CHINA,Changzhou,,Changzhou Wujin Wanda & IMAX,IMAX,D,3D,F,,37.9 x 67.7 ft./ 11.6 x 20.6 m.,2014/08/14,CM
+94,CHINA,Changzhou,,Changzhou Xinbei Wanda & IMAX,IMAX,D,3D,F,335,36.1 x 65.0 ft./ 11.0 x 19.8 m.,2011/12/15,CM
+95,CHINA,Chaoyang,,Chaoyang Wanda & IMAX,IMAX,D,3D,F,,35.0 x 63.0 ft./ 10.7 x 19.2 m.,2016/11/26,CM
+96,CHINA,Chengdu,,CGV Chengdu Shihao & IMAX,IMAX,D,3D,F,,42.6 x 74.6 ft./ 13.0 x 22.7 m.,2014/08/26,CM
+97,CHINA,Chengdu,,Chengdu Bravo Shuangliu & IMAX,IMAX,D,3D,F,,42.9 x 75.3 ft./ 13.1 x 23.0 m.,2013/12/25,CM
+98,CHINA,Chengdu,,Chengdu CGV & IMAX,IMAX,D,3D,F,,38.4 x 68.4 ft./ 11.7 x 20.9 m.,2013/12/30,CM
+99,CHINA,Chengdu,,Chengdu Chengzhongcheng Wanda,IMAX,D,3D,F,,29.7 x 53.1 ft./ 9.1 x 16.2 m.,2018/01/06,CM
+100,CHINA,Chengdu,,Chengdu Chongzhou Wanda & IMAX,IMAX,D,3D,F,,35.5 x 64.0 ft./ 10.8 x 19.5 m.,2017/09,CM
+101,CHINA,Chengdu,,Chengdu CRCC Zose & IMAX,IMAX,D,3D,F,,36.3 x 65.3 ft./ 11.1 x 19.9 m.,2017/12/23,CM
+102,CHINA,Chengdu,,Chengdu Huanqiu Stellar & IMAX,IMAX,D,3D,F,,41.2 x 74.1 ft./ 12.6 x 22.6 m.,2013/08/16,CM
+103,CHINA,Chengdu,,Chengdu Jinhua Wanda & IMAX,IMAX,D,3D,F,277,27.6 x 51.5 ft./ 8.4 x 15.7 m.,2011/09/26,CM
+104,CHINA,Chengdu,,Chengdu Jinnan Longfor CGV & IMAX,IMAX,D,3D,F,,36.9 x 65.6 ft./ 11.3 x 20.0 m.,2015/10/23,CM
+105,CHINA,Chengdu,,Chengdu Jinniu Wanda & IMAX,IMAX,D,3D,F,426,37.4 x 68.6 ft./ 11.4 x 20.9 m.,2012/12/22,CM
+106,CHINA,Chengdu,,Chengdu Jinyi & IMAX,IMAX,D,3D,F,,41.1 x 73.8 ft./ 12.5 x 22.5 m.,2014/10/28,CM
+107,CHINA,Chengdu,,Chengdu Joy City Stellar & IMAX,IMAX,D,3D,F,,40.5 x 72.0 ft./ 12.3 x 22.0 m.,2016/01/09,CM
+108,CHINA,Chengdu,,Chengdu Kehua SFC & IMAX,IMAX,D,3D,F,,42.9 x 74.8 ft./ 13.1 x 22.8 m.,2015/12/18,CM
+109,CHINA,Chengdu,,Chengdu Longfor SFC & IMAX,IMAX,D,3D,F,,39.0 x 68.7 ft./ 11.9 x 20.9 m.,2014/09/30,CM
+110,CHINA,Chengdu,,Chengdu Longquan Yiduhui CGV & IMAX,IMAX,D,3D,F,,35.0 x 62.5 ft./ 10.7 x 19.1 m.,2018/12/21,CM
+111,CHINA,Chengdu,,Chengdu Lumiere & IMAX,IMAX,D,3D,F,,40.7 x 70.5 ft./ 12.4 x 21.5 m.,2014/01/10,CM
+112,CHINA,Chengdu,,Chengdu Shudu Wanda & IMAX,IMAX,D,3D,F,,42.4 x 74.0 ft./ 12.9 x 22.6 m.,2016/04/29,CM
+113,CHINA,Chengdu,,Chengdu Wanda 205,IMAX,D,3D,F,,29.9 x 53.0 ft./ 9.1 x 16.2 m.,2018/12/13,CM
+114,CHINA,Chengdu,,Chengdu Yinglifang 773 IMAX,IMAX,D,3D,F,488,40.7 x 72.5 ft./ 12.4 x 22.1 m.,2012/11/29,CM
+115,CHINA,Chenzhou,,Chenzhou Wanda & IMAX,IMAX,D,3D,F,,38.4 x 68.7 ft./ 11.7 x 20.9 m.,2014/01/16,CM
+116,CHINA,Chifeng,,Chifeng Wanda Plaza & IMAX,IMAX,D,3D,F,,38.8 x 68.2 ft./ 11.8 x 20.8 m.,2014/06/20,CM
+117,CHINA,Chongqing,,Chongqing Baiyi Stellar & IMAX,IMAX,D,3D,F,,41.5 x 72.8 ft./ 12.7 x 22.2 m.,2014/12/18,CM
+118,CHINA,Chongqing,,Chongqing Banan Wanda & IMAX,IMAX,D,3D,F,,41.0 x 72.3 ft./ 12.5 x 22.0 m.,2015/10/30,CM
+119,CHINA,Chongqing,,Chongqing Beibei Wanda & IMAX,IMAX,D,3D,F,,35.4 x 63.7 ft./ 10.8 x 19.4 m.,2017/08/25,CM
+120,CHINA,Chongqing,,Chongqing Broadway & IMAX,IMAX,D,3D,F,,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2014/12/02,CM
+121,CHINA,Chongqing,,Chongqing Children's Palace,IMAX,1570,2D,D,175,59.0 ft./ 18.0 m.,2007/06,N
+122,CHINA,Chongqing,,Chongqing College Town Cross Cinema & IMAX,IMAX,D,3D,F,,39.1 x 70.4 ft./ 11.9 x 21.5 m.,2015/01/18,CM
+123,CHINA,Chongqing,,Chongqing Cross Qibo & IMAX,IMAX,D,3D,F,,37.6 x 68.0 ft./ 11.5 x 20.7 m.,2015/11/27,CM
+124,CHINA,Chongqing,,Chongqing Cross Shiqiaopu & IMAX,IMAX,D,3D,F,,40.8 x 73.2 ft./ 12.4 x 22.3 m.,2015/11/13,CM
+125,CHINA,Chongqing,,Chongqing Dadukou Wanda & IMAX,IMAX,D,3D,F,249,32.0 x 60.2 ft./ 9.8 x 18.4 m.,2012/12/24,CM
+126,CHINA,Chongqing,,Chongqing Daping Wanda & IMAX,IMAX,D,3D,F,,33.1 x 59.1 ft./ 10.1 x 18.0 m.,2016/11/04,CM
+127,CHINA,Chongqing,,Chongqing IMIX Park Wanda & IMAX,IMAX,D,3D,F,,24.6 x 48.0 ft./ 7.5 x 14.6 m.,2016/08/12,CM
+128,CHINA,Chongqing,,Chongqing Jiangbeizui Cross Cinema & IMAX,IMAX,D,3D,F,,35.0 x 63.0 ft./ 10.7 x 19.2 m.,2016/01,CM
+129,CHINA,Chongqing,,ChongQing Millionstar era Jinyi Int'l IMAX Cinema,IMAX,D,3D,F,248,39.7 x 70.2 ft./ 12.1 x 21.4 m.,2012/03/28,CM
+130,CHINA,Chongqing,,Chongqing Qijiang Wanda & IMAX,IMAX,D,3D,F,,35.8 x 64.2 ft./ 10.9 x 19.6 m.,2017/10/27,CM
+131,CHINA,Chongqing,,Chongqing Science and Technology Museum,IMAX,1570,3D,F,278,52.5 x 72.1 ft./ 16.0 x 22.0 m.,2009/09/10,N
+132,CHINA,Chongqing,,Chongqing Wanda 306,IMAX,D,3D,F,,36.0 x 63.8 ft./ 11.0 x 19.5 m.,2018/12/13,CM
+133,CHINA,Chongqing,,Chongqing Wanda 308,IMAX,D,3D,F,,38.8 x 68.6 ft./ 11.8 x 20.9 m.,2018/12/13,CM
+134,CHINA,Chongqing,,Chongqing Yongchuan Wanda & IMAX,IMAX,D,3D,F,,36.9 x 66.2 ft./ 11.3 x 20.2 m.,2016/09/16,CM
+135,CHINA,Chongqing,,Chonqqing Stellar & IMAX,IMAX,D,3D,F,,40.9 x 72.2 ft./ 12.5 x 22.0 m.,2015/02/07,CM
+136,CHINA,Chongqing,,Lumiere CQ Jinyuan Plaza IMAX,IMAX,D,3D,F,423,,2010/12,CM
+137,CHINA,Cixi,,Cixi Poly China Film Stellar & IMAX,IMAX,D,3D,F,,46.1 x 80.0 ft./ 14.1 x 24.4 m.,2016/12/24,CM
+138,CHINA,Dali,,Dali Bona & IMAX,IMAX,D,3D,F,,34.3 x 61.7 ft./ 10.5 x 18.8 m.,2017/10,CM
+139,CHINA,Dalian,,CGV Chongqing Longfor U City,IMAX,D,3D,F,,42.7 x 74.1 ft./ 13.0 x 22.6 m.,2017/09/15,CM
+140,CHINA,Dalian,,Dalian Central Avenue Bona & IMAX,IMAX,D,3D,F,,44.6 x 77.8 ft./ 13.6 x 23.7 m.,2017/01/31,CM
+141,CHINA,Dalian,,Dalian Donggang CGV & IMAX,IMAX,D,3D,F,,39.9 x 71.2 ft./ 12.2 x 21.7 m.,2015/03/13,CM
+142,CHINA,Dalian,,Dalian Ganjingzi Wanda & IMAX,IMAX,D,3D,F,,36.1 x 64.9 ft./ 11.0 x 19.8 m.,2017/09/29,CM
+143,CHINA,Dalian,,Dalian Gaoxin Wanda & IMAX,IMAX,D,3D,F,,39.2 x 71.9 ft./ 12.0 x 21.9 m.,2013/05/25,CM
+144,CHINA,Dalian,,Dalian Huafu Wanda & IMAX,IMAX,D,3D,F,347,32.6 x 64.0 ft./ 9.9 x 19.5 m.,2011/12/15,CM
+145,CHINA,Dalian,,Dalian Jingkai Wanda & IMAX,IMAX,D,3D,F,,37.8 x 67.5 ft./ 11.5 x 20.6 m.,2015/08/29,CM
+146,CHINA,Dalian,,Dalian Pulandian Wanda & IMAX,IMAX,D,3D,F,,28.1 x 49.9 ft./ 8.6 x 15.2 m.,2017/07/29,CM
+147,CHINA,Dalian,,Dalian Zhuanghe Wanda & IMAX,IMAX,D,3D,F,,28.3 x 50.9 ft./ 8.6 x 15.5 m.,2017/08/18,CM
+148,CHINA,Dalian,,Jinzhou Brilliant Plaza Wanda,IMAX,D,3D,F,,35.4 x 63.6 ft./ 10.8 x 19.4 m.,2017,CM
+149,CHINA,Dalian,,SFG Dalian Harbour & IMAX,IMAX,D,3D,F,,36.0 x 65.1 ft./ 11.0 x 19.8 m.,2015/12/29,CM
+150,CHINA,Dandong,,Dandong Wanda & IMAX,IMAX,D,3D,F,,37.6 x 67.3 ft./ 11.5 x 20.5 m.,2013/12/24,CM
+151,CHINA,Danyang,,Danyang Babaiban Omnijoi & IMAX,IMAX,D,3D,F,,45.6 x 79.1 ft./ 13.9 x 24.1 m.,2016/12/09,CM
+152,CHINA,Daqing,,Daqing Omnijoi & IMAX,IMAX,D,3D,F,,39.0 x 71.4 ft./ 11.9 x 21.8 m.,2014/04/12,CM
+153,CHINA,Daqing,,Daqing Saertu Wanda & IMAX,IMAX,D,3D,F,321,37.5 x 66.4 ft./ 11.4 x 20.3 m.,2011/11/25,CM
+154,CHINA,Daqing,,Daqing Science and Technology Museum,IMAX,1570,2D,D,151,59.1 ft./ 18.0 m.,2010/01/15,N
+155,CHINA,Datong,,Datong Wanda & IMAX,IMAX,D,3D,F,,34.8 x 62.8 ft./ 10.6 x 19.1 m.,2017/10/20,CM
+156,CHINA,Dazhou,,Dazhou Luofu Hengdian & IMAX,IMAX,D,3D,F,,32.5 x 58.4 ft./ 9.9 x 17.8 m.,2017/04/30,CM
+157,CHINA,Deyang,,Deyang Wanda & IMAX,IMAX,D,3D,F,,40.8 x 72.5 ft./ 12.4 x 22.1 m.,2016/09/16,CM
+158,CHINA,Dezhou,,Wanda Plaza Dezhou,IMAX,D,3D,F,,41.0 x 72.1 ft./ 12.5 x 22.0 m.,2015/11/06,CM
+159,CHINA,Dongguan,,Dongguan Changan Wanda & IMAX,IMAX,D,3D,F,,40.9 x 75.0 ft./ 12.5 x 22.9 m.,2013/07/20,CM
+160,CHINA,Dongguan,,Dongguan Dongcheng Wanda & IMAX,IMAX,D,3D,F,,35.6 x 63.3 ft./ 10.9 x 19.3 m.,2014/09/12,CM
+161,CHINA,Dongguan,,Dongguan Guomao Center CGV 31,IMAX,D,3D,F,,,2018/12/18,CM
+162,CHINA,Dongguan,,Dongguan Houjie Wanda & IMAX,IMAX,D,3D,F,,41.7 x 73.1 ft./ 12.7 x 22.3 m.,2015/11/06,CM
+163,CHINA,Dongguan,,Dongguan Humen Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.0 ft./ 11.6 x 20.7 m.,2016/12/16,CM
+164,CHINA,Dongguan,,Dongguan Sizhe Cross Cinema & IMAX,IMAX,D,3D,F,,37.6 x 67.4 ft./ 11.5 x 20.5 m.,2015/01/21,CM
+165,CHINA,Dongying,,Dongying Wanda & IMAX,IMAX,D,3D,F,,38.5 x 68.4 ft./ 11.7 x 20.9 m.,2015/08/15,CM
+166,CHINA,Dongying,,Dongying Wanda 259,IMAX,D,3D,F,,33.2 x 60.4 ft./ 10.1 x 18.4 m.,2018/07/12,CM
+167,CHINA,Foshan,,Foshan Aeon CC & IMAX,IMAX,D,3D,F,,34.5 x 62.7 ft./ 10.5 x 19.1 m.,2017,CM
+168,CHINA,Foshan,,Foshan CGV Xingxing & IMAX,IMAX,D,3D,F,,37.7 x 69.3 ft./ 11.5 x 21.1 m.,2015/09/25,CM
+169,CHINA,Foshan,,Foshan Jinyi & IMAX,IMAX,D,3D,F,,35.6 x 63.3 ft./ 10.9 x 19.3 m.,2014/07,CM
+170,CHINA,Foshan,,Foshan Nanhai Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.2 ft./ 11.6 x 20.8 m.,2014/08/29,CM
+171,CHINA,Foshan,,Foshan Sanshui Cross & IMAX,IMAX,D,3D,F,,40.7 x 71.9 ft./ 12.4 x 21.9 m.,2017/01/31,CM
+172,CHINA,Foshan,,Foshan Sanshui Wanda & IMAX,IMAX,D,3D,F,,37.0 x 66.3 ft./ 11.3 x 20.2 m.,2016/11/18,CM
+173,CHINA,Foshan,,Foshan Yuexiu Xinghui Wanda & IMAX,IMAX,D,3D,F,,32.7 x 57.4 ft./ 10.0 x 17.5 m.,2016/12/11,CM
+174,CHINA,Foshan,,Foshan Zose & IMAX,IMAX,D,3D,F,,37.5 x 66.6 ft./ 11.4 x 20.3 m.,2015/12/23,CM
+175,CHINA,Fuqing,,Fuqing Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2014/12/05,CM
+176,CHINA,Fushun,,Fushun Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2013/10/25,CM
+177,CHINA,Fuxin,,Fuxin Wanda 260,IMAX,D,3D,F,,35.0 x 63.0 ft./ 10.7 x 19.2 m.,2018/08/10,CM
+178,CHINA,Fuyang,,Fuyang Wanda & IMAX,IMAX,D,3D,F,,37.3 x 66.7 ft./ 11.4 x 20.3 m.,2015/08/29,CM
+179,CHINA,Fuyang,,Fuyang Yingquan Wanda & IMAX,IMAX,D,3D,F,,34.7 x 69.2 ft./ 10.6 x 21.1 m.,2017/06/16,CM
+180,CHINA,Fuzhou,,Fuzhou Cangshan Wanda & IMAX,IMAX,D,3D,F,258,32.3 x 58.5 ft./ 9.8 x 17.8 m.,2011/12/03,CM
+181,CHINA,Fuzhou,,Fuzhou Great Town Omnijoi & IMAX,IMAX,D,3D,F,,31.3 x 56.4 ft./ 9.5 x 17.2 m.,2016/12/24,CM
+182,CHINA,Fuzhou,,Fuzhou Jiangxi Wanda & IMAX,IMAX,D,3D,F,,44.8 x 78.1 ft./ 13.7 x 23.8 m.,2017/06/16,CM
+183,CHINA,Fuzhou,,Fuzhou Powerlong Plaza & IMAX,IMAX,D,3D,F,445,29.5 x 58.7 ft./ 9.0 x 17.9 m.,2012/04/10,CM
+184,CHINA,Fuzhou,,Fuzhou Stellar & IMAX,IMAX,D,3D,F,,44.5 x 79.1 ft./ 13.6 x 24.1 m.,2015/01/10,CM
+185,CHINA,Fuzhou,,Fuzhou Taihe CGV & IMAX,IMAX,D,3D,F,,35.9 x 63.6 ft./ 10.9 x 19.4 m.,2015/12/30,CM
+186,CHINA,Fuzhou,,Fuzhou Wanda & IMAX,IMAX,D,3D,F,258,35.4 x 64.2 ft./ 10.8 x 19.6 m.,2011/05/20,CM
+187,CHINA,Ganzhou,,Ganzhou CGV & IMAX,IMAX,D,3D,F,,45.2 x 79.1 ft./ 13.8 x 24.1 m.,2015/09/19,CM
+188,CHINA,Guangyuan,,Guangyuan Wanda & IMAX,IMAX,D,3D,F,,38.4 x 68.7 ft./ 11.7 x 20.9 m.,2015/06/05,CM
+189,CHINA,Guangzhou,,Guangzhou Fanyang & IMAX,IMAX,D,3D,F,,40.5 x 71.4 ft./ 12.3 x 21.8 m.,2014/05/02,CM
+190,CHINA,Guangzhou,,Guangzhou Grandview Mall Flying & IMAX,IMAX,D,3D,F,,37.0 x 66.4 ft./ 11.3 x 20.2 m.,2016/06/08,CM
+191,CHINA,Guangzhou,,Guangzhou Hopson Lumiere & IMAX,IMAX,D,3D,F,,38.1 x 66.9 ft./ 11.6 x 20.4 m.,2017/01/31,CM
+192,CHINA,Guangzhou,,Guangzhou IGC Palace & IMAX,IMAX,D,3D,F,,37.5 x 67.3 ft./ 11.4 x 20.5 m.,2016/10/28,CM
+193,CHINA,Guangzhou,,Guangzhou Nansha Wanda & IMAX,IMAX,D,3D,F,,38.7 x 69.1 ft./ 11.8 x 21.1 m.,2015/12/22,CM
+194,CHINA,Guangzhou,,Guangzhou Panyu Shawan Jinyi & IMAX,IMAX,D,3D,F,,39.4 x 69.7 ft./ 12.0 x 21.3 m.,2016/11/21,CM
+195,CHINA,Guangzhou,,Guangzhou Panyu Wanda & IMAX,IMAX,D,3D,F,,39.0 x 71.2 ft./ 11.9 x 21.7 m.,2014/11/08,CM
+196,CHINA,Guangzhou,,Guangzhou R&F Jinyi & IMAX,IMAX,D,3D,F,,34.3 x 64.1 ft./ 10.5 x 19.5 m.,2016/02/05,CM
+197,CHINA,Guangzhou,,Guangzhou Sun City Jinyi & IMAX,IMAX,D,3D,F,,24.8 x 47.4 ft./ 7.6 x 14.5 m.,2016/10/28,CM
+198,CHINA,Guangzhou,,Guangzhou Wanda & IMAX,IMAX,D,3D,F,,38.4 x 69.9 ft./ 11.7 x 21.3 m.,2011/01/10,CM
+199,CHINA,Guangzhou,,Guangzhou Wanda 317,IMAX,D,3D,F,,37.5 x 67.3 ft./ 11.4 x 20.5 m.,2018/12/13,CM
+200,CHINA,Guangzhou,,Guangzhou Wanshengwei Wanda & IMAX,IMAX,D,3D,F,,41.0 x 72.9 ft./ 12.5 x 22.2 m.,2017/01/31,CM
+201,CHINA,Guangzhou,,Guangzhou Yayuncheng Wanda,IMAX,D,3D,F,,38.2 x 68.4 ft./ 11.6 x 20.9 m.,2017,CM
+202,CHINA,Guangzhou,,Guangzhou Zhencheng Wanda & IMAX,IMAX,D,3D,F,,35.4 x 64.1 ft./ 10.8 x 19.5 m.,2014/05/16,CM
+203,CHINA,Guangzhou,,Luogang Wanda & IMAX,IMAX,D,3D,F,,41.0 x 72.2 ft./ 12.5 x 22.0 m.,2015/07/17,CM
+204,CHINA,Guangzhou,,UA Cinemas MoW & IMAX,IMAX,D,3D,F,,,2013/01/21,CM
+205,CHINA,Guangzhou University City,,Guangdong Science Center,IMAX,1570,3D,F,565,72.2 x 95.1 ft./ 22.0 x 29.0 m.,2008/09/27,N
+206,CHINA,Guigang,,Guigang Wanda & IMAX,IMAX,D,3D,F,,35.2 x 63.6 ft./ 10.7 x 19.4 m.,2018,CM
+207,CHINA,Guilin,,Guilin Diecai Wanda & IMAX,IMAX,D,3D,F,,35.3 x 62.5 ft./ 10.8 x 19.1 m.,2017/11/24,CM
+208,CHINA,Guilin,,Guiyang Wanda & IMAX Guilin,IMAX,D,3D,F,,38.4 x 69.1 ft./ 11.7 x 21.1 m.,2015/09/12,CM
+209,CHINA,GUIYANG,,Guiyang Guanshanhu Wanda,IMAX,D,3D,F,,38.2 x 68.2 ft./ 11.6 x 20.8 m.,2018/05/25,CM
+210,CHINA,Guiyang,,Guiyang Stellar International Cinema & IMAX,IMAX,D,3D,F,,45.0 x 77.9 ft./ 13.7 x 23.8 m.,2013/05/31,CM
+211,CHINA,Guiyang,,Guiyang Wanda & IMAX,IMAX,D,3D,F,,34.3 x 61.6 ft./ 10.5 x 18.8 m.,2013/12/27,CM
+212,CHINA,Haikou,,Haikou Bestar & IMAX,IMAX,D,3D,F,,44.8 x 77.8 ft./ 13.7 x 23.7 m.,2016/10/28,CM
+213,CHINA,Haikou,,Haikou Cimen Zose & IMAX,IMAX,D,3D,F,,38.0 x 68.2 ft./ 11.6 x 20.8 m.,2016/12/30,CM
+214,CHINA,Haikou,,Haikou Guomao CGV & IMAX,IMAX,D,3D,F,,46.2 x 80.0 ft./ 14.1 x 24.4 m.,2017/01/31,CM
+215,CHINA,Haikou,,Haikou HNA MOVA Wanda & IMAX,IMAX,D,3D,F,,39.9 x 71.8 ft./ 12.2 x 21.9 m.,2016/12/16,CM
+216,CHINA,Haikou,,Haikou Starbay Jinyi & IMAX,IMAX,D,3D,F,,36.4 x 65.9 ft./ 11.1 x 20.1 m.,2016/12/07,CM
+217,CHINA,Haikou,,Haikou Xiuying Wanda & IMAX,IMAX,D,3D,F,,35.1 x 63.1 ft./ 10.7 x 19.2 m.,2016/12/23,CM
+218,CHINA,Haikou,,Haikou Zose & IMAX,IMAX,D,3D,F,,42.2 x 73.8 ft./ 12.9 x 22.5 m.,2014/01/17,CM
+219,CHINA,Handan,,Handan Cuigong CGV & IMAX,IMAX,D,3D,F,,34.9 x 61.8 ft./ 10.6 x 18.8 m.,2018/07/28,CM
+220,CHINA,Hangzhou,,Hangzhou Binjiang Cinyo & IMAX,IMAX,D,3D,F,,40.8 x 73.0 ft./ 12.4 x 22.3 m.,2016/12/17,CM
+221,CHINA,Hangzhou,,Hangzhou Broadway & IMAX,IMAX,D,3D,F,464,,2010/08/05,CM
+222,CHINA,Hangzhou,,Hangzhou Chongxian Shangyi Plaza,IMAX,D,3D,F,,36.7 x 65.9 ft./ 11.2 x 20.1 m.,2018/11/09,CM
+223,CHINA,Hangzhou,,Hangzhou Life Hub SFC & IMAX,IMAX,D,3D,F,,34.7 x 61.9 ft./ 10.6 x 18.9 m.,2018/07/20,CM
+224,CHINA,Hangzhou,,Hangzhou Linping Bona & IMAX,IMAX,D,3D,F,,36.3 x 64.4 ft./ 11.1 x 19.6 m.,2018/07/20,CM
+225,CHINA,Hangzhou,,Hangzhou Low Carbon Science & Technology Museum,unk,D,3D,F,252,41.0 x 71.2 ft./ 12.5 x 21.7 m.,2012/07,N
+226,CHINA,Hangzhou,,Hangzhou Starry City Aurora & IMAX,IMAX,D,3D,F,,32.0 x 59.4 ft./ 9.8 x 18.1 m.,2017/05/28,CM
+227,CHINA,Hangzhou,,Hangzhou Wanda & IMAX,IMAX,D,3D,F,,40.3 x 66.6 ft./ 12.3 x 20.3 m.,2014/12/12,CM
+228,CHINA,Hangzhou,,Hangzhou Wanda Crystal City & IMAX,IMAX,D,3D,F,,35.9 x 64.7 ft./ 10.9 x 19.7 m.,2014/12/05,CM
+229,CHINA,Hangzhou,,Hangzhou Wuzhou Jiaying & IMAX,IMAX,D,3D,F,,33.4 x 60.8 ft./ 10.2 x 18.5 m.,2015/03/28,CM
+230,CHINA,Hangzhou,,Hangzhou Xiasha Longfor SFC & IMAX,IMAX,D,3D,F,,40.4 x 71.9 ft./ 12.3 x 21.9 m.,2015/09/26,CM
+231,CHINA,Hangzhou,,Hangzhou Xinyo & IMAX,IMAX,D,3D,F,348,35.8 x 64.0 ft./ 10.9 x 19.5 m.,2010/09/21,CM
+232,CHINA,Hangzhou,,Xiaoshan Yinlong Tonight & IMAX,IMAX,D,3D,F,,35.0 x 64.6 ft./ 10.7 x 19.7 m.,2015/11/13,CM
+233,CHINA,Hanzhou,,Hangzhou Xilian Jinyi & IMAX,IMAX,D,3D,F,,35.4 x 64.7 ft./ 10.8 x 19.7 m.,2016/01/29,CM
+234,CHINA,Harbin,,Harbin Central Street Wanda & IMAX,IMAX,D,3D,F,424,29.4 x 56.5 ft./ 9.0 x 17.2 m.,2011/11/19,CM
+235,CHINA,Harbin,,Harbin Exhibition Center CGV & IMAX,IMAX,D,3D,F,,36.9 x 66.4 ft./ 11.3 x 20.2 m.,2016/02/03,CM
+236,CHINA,Harbin,,Harbin Hengshan Wanda & IMAX,IMAX,D,3D,F,335,34.9 x 63.2 ft./ 10.6 x 19.3 m.,2011/11/10,CM
+237,CHINA,Harbin,,Harbin Qunli Wanda & IMAX,IMAX,D,3D,F,,34.5 x 62.3 ft./ 10.5 x 19.0 m.,2017/06/23,CM
+238,CHINA,Harbin,,Harbin Songlei Wanda,IMAX,D,3D,F,,31.7 x 56.3 ft./ 9.7 x 17.2 m.,2017/09/15,CM
+239,CHINA,Harbin,,Harbin Tai Lai Era & IMAX,IMAX,DL2,3D,F,,69.0 x 93.0 ft./ 21.0 x 28.4 m.,2015/01/28,CM
+240,CHINA,Harbin,,Harbin Wanda Mall & IMAX,IMAX,D,3D,F,,,2017/06/30,CM
+241,CHINA,Harbin,,Haxi Wanda Plaza IMAX,IMAX,D,3D,F,,37.7 x 67.4 ft./ 11.5 x 20.5 m.,2013/09/13,CM
+242,CHINA,Harbin,,Heilongjiang Science and Technology Museum,IMAX,1570,2D,D,223,75.5 ft./ 23.0 m.,2003/08/08,N
+243,CHINA,Hebi,,Hebi Wanda 256,IMAX,D,3D,F,,34.7 x 63.3 ft./ 10.6 x 19.3 m.,2018/06/22,CM
+244,CHINA,Hefei,,Hefei Baolifeng Wanda,IMAX,D,3D,F,,39.9 x 70.5 ft./ 12.2 x 21.5 m.,2017,CM
+245,CHINA,Hefei,,Hefei Chaohu Wanda & IMAX,IMAX,D,3D,F,,37.8 x 67.6 ft./ 11.5 x 20.6 m.,2018/11/02,CM
+246,CHINA,Hefei,,Hefei MixC Emperor UA & IMAX,IMAX,D,3D,F,,37.9 x 68.2 ft./ 11.6 x 20.8 m.,2015/10/15,CM
+247,CHINA,Hefei,,Hefei Swan Lake Wanda & IMAX,IMAX,D,3D,F,381,39.5 x 70.0 ft./ 12.1 x 21.3 m.,2012/07/27,CM
+248,CHINA,Hefei,,Hefei Wanda Mall & IMAX,IMAX,D,3D,F,,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2016/09/24,CM
+249,CHINA,Hefei,,Hefei Wanda Plaza IMAX,IMAX,D,3D,F,374,39.4 x 69.9 ft./ 12.0 x 21.3 m.,2011/01/10,CM
+250,CHINA,Hefei,,Hefei Wulishan HBC & IMAX,IMAX,D,3D,F,,37.7 x 67.5 ft./ 11.5 x 20.6 m.,2017/08/18,CM
+251,CHINA,Hefei,,Hefei Yaohai Wanda & IMAX,IMAX,D,3D,F,,,2016/09/10,CM
+252,CHINA,Hengyang,,Hengyang Wanda & IMAX,IMAX,D,3D,F,,,2017/09/29,CM
+253,CHINA,Heze,,Heze Wanda & IMAX,IMAX,D,3D,F,,35.6 x 64.1 ft./ 10.9 x 19.5 m.,2018,CM
+254,CHINA,Hohhot,,Hohhot CGV & IMAX,IMAX,D,3D,F,,35.7 x 68.2 ft./ 10.9 x 20.8 m.,2014/12/27,CM
+255,CHINA,Hohhot,,Hohhot East Xinhua Road Wanda & IMAX,IMAX,D,3D,F,396,35.8 x 65.2 ft./ 10.9 x 19.9 m.,2011/11/08,CM
+256,CHINA,Hohhot,,Hohhot Huis Wanda & IMAX,IMAX,D,3D,F,,42.4 x 74.0 ft./ 12.9 x 22.6 m.,2017/08/25,CM
+257,CHINA,Hohhot,,Hohhot Xiyue Wanda,IMAX,D,3D,F,,36.3 x 64.6 ft./ 11.1 x 19.7 m.,2017,CM
+258,CHINA,Hong Kong,,Hong Kong Space Museum,IMAX,1570+D,2D,D,316,75.5 ft./ 23.0 m.,1980/10/07,N
+259,CHINA,Hong Kong,,Hong Kong Yoho Mall Broadway & IMAX,IMAX,D,3D,F,,36.1 x 66.1 ft./ 11.0 x 20.2 m.,2017/07/21,CM
+260,CHINA,Hong Kong,,UA IMAX Theatre @ Airport,IMAX,D,3D,F,350,45.3 x 73.5 ft./ 13.8 x 22.4 m.,2007/03,CM
+261,CHINA,Hong Kong,,UA i-Square & IMAX,IMAX,D,3D,F,444,,2009/12/17,CM
+262,CHINA,Hong Kong,,UA Megabox & IMAX,IMAX,D,3D,F,256,37.3 x 58.1 ft./ 11.4 x 17.7 m.,2006/01/19,CM
+263,CHINA,Huai'an,,Huai'an Dragon Will Plaza Wanda & IMAX,IMAX,D,3D,F,,34.5 x 61.4 ft./ 10.5 x 18.7 m.,2017,CM
+264,CHINA,Huai'an,,Huai'an Wanda & IMAX,IMAX,D,3D,F,289,36.3 x 61.0 ft./ 11.1 x 18.6 m.,2011/11/18,CM
+265,CHINA,Huaibei,,Huaibai Wanda & IMAX,IMAX,D,3D,F,,35.5 x 64.3 ft./ 10.8 x 19.6 m.,2018/09/28,CM
+266,CHINA,Huainan,,Huainan Wanda & IMAX,IMAX,D,3D,F,,36.0 x 64.8 ft./ 11.0 x 19.8 m.,2018/09/07,CM
+267,CHINA,Huanggang,,Huanggang Wanda & IMAX,IMAX,D,3D,F,,34.2 x 62.0 ft./ 10.4 x 18.9 m.,2018/06/22,CM
+268,CHINA,Huangshi,,Huangshi Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2015/07/03,CM
+269,CHINA,Huizhou,,Huizhou Dayawan Wanda & IMAX,IMAX,D,3D,F,,35.0 x 63.1 ft./ 10.7 x 19.2 m.,2017/11/24,CM
+270,CHINA,Huizhou,,Huizhou Kaishi & IMAX,IMAX,D,3D,F,,39.0 x 69.6 ft./ 11.9 x 21.2 m.,2014/01/31,CM
+271,CHINA,Huzhou,,Huzhou Wanda & IMAX,IMAX,D,3D,F,,36.9 x 66.2 ft./ 11.3 x 20.2 m.,2016/12/23,CM
+272,CHINA,Jiamusi,,Jiamusi Wanda & IMAX,IMAX,D,3D,F,,37.4 x 66.9 ft./ 11.4 x 20.4 m.,2015/09/12,CM
+273,CHINA,Jiangmen,,Jiangmen CGV Cinema & IMAX,IMAX,D,3D,F,,38.0 x 67.3 ft./ 11.6 x 20.5 m.,2014/08/26,CM
+274,CHINA,Jiangmen,,Jiangmen Xinhui Wanda & IMAX,IMAX,D,3D,F,,35.0 x 63.1 ft./ 10.7 x 19.2 m.,2018/08/31,CM
+275,CHINA,Jiangyin,,Jiangyin Meijia City Jinyi & IMAX,IMAX,D,3D,F,,44.1 x 78.1 ft./ 13.4 x 23.8 m.,2017/10/28,CM
+276,CHINA,Jiangyin,,Jiangyin Wanda IMAX,IMAX,D,3D,F,360,38.4 x 69.6 ft./ 11.7 x 21.2 m.,2012/09/22,CM
+277,CHINA,Jianyang,,Jianyang Xuhai Wanda & IMAX,IMAX,D,3D,F,,37.4 x 65.3 ft./ 11.4 x 19.9 m.,2016/09/22,CM
+278,CHINA,Jiaozuo,,Jiaozuo Wanda & IMAX,IMAX,D,3D,F,,34.9 x 63.1 ft./ 10.6 x 19.2 m.,2017/06/30,CM
+279,CHINA,Jiaxing,,Jiaxing Wanda & IMAX,IMAX,D,3D,F,,37.2 x 66.8 ft./ 11.3 x 20.4 m.,2015/06/12,CM
+280,CHINA,Jilin,,Jilin Changyi Wanda,IMAX,D,3D,F,,37.2 x 66.6 ft./ 11.3 x 20.3 m.,2017/09/15,CM
+281,CHINA,Jilin,,Jilin Huaye Wanda & IMAX,IMAX,D,3D,F,,42.3 x 74.1 ft./ 12.9 x 22.6 m.,2015/01/10,CM
+282,CHINA,Jilin,,Jilin Ouya Wanda & IMAX,IMAX,D,3D,F,,38.8 x 68.4 ft./ 11.8 x 20.9 m.,2015/01/04,CM
+283,CHINA,Jinan,,Ji Nan Wanda Place & IMAX,IMAX,D,3D,F,404,36.1 x 65.3 ft./ 11.0 x 19.9 m.,2010/11/19,CM
+284,CHINA,Jinan,,Jinan Gaoxin Wanda & IMAX,IMAX,D,3D,F,,38.9 x 69.4 ft./ 11.9 x 21.2 m.,2016/06/18,CM
+285,CHINA,Jinan,,Jinan Huilong Jinyi & IMAX,IMAX,D,3D,F,,44.0 x 76.7 ft./ 13.4 x 23.4 m.,2017/01/31,CM
+286,CHINA,Jingmen,,Jingmen Wanda & IMAX,IMAX,D,3D,F,,36.6 x 65.9 ft./ 11.2 x 20.1 m.,2016/06/03,CM
+287,CHINA,Jingzhou,,Jingzhou Wanda & IMAX,IMAX,D,3D,F,,37.8 x 67.7 ft./ 11.5 x 20.6 m.,2014/09/20,CM
+288,CHINA,Jinhua,,Jinhua Wanda & IMAX,IMAX,D,3D,F,,38.2 x 68.3 ft./ 11.6 x 20.8 m.,2014/07/25,CM
+289,CHINA,Jining,,Jining Wanda & IMAX,IMAX,D,3D,F,,37.9 x 67.7 ft./ 11.6 x 20.6 m.,2014/07/05,CM
+290,CHINA,Jinjiang,,Jinjiang Wanda & IMAX,IMAX,D,3D,F,354,38.5 x 67.1 ft./ 11.7 x 20.5 m.,2012/08/10,CM
+291,CHINA,Jinzhong,,Jinzhong Wanda & IMAX,IMAX,D,3D,F,,,2017/08/18,CM
+292,CHINA,Jinzhou,,Jinzhou Wanda & IMAX,IMAX,D,3D,F,,35.0 x 63.0 ft./ 10.7 x 19.2 m.,2017/09,CM
+293,CHINA,Jiujiang,,Jiujiang Wanda & IMAX,IMAX,D,3D,F,,38.5 x 68.8 ft./ 11.7 x 21.0 m.,2017/07/08,CM
+294,CHINA,Jiuquan,,Jiuquan Wanda & IMAX,IMAX,D,3D,F,,34.0 x 61.7 ft./ 10.4 x 18.8 m.,2017/11/10,CM
+295,CHINA,Jixi,,Jixi Wanda & IMAX,IMAX,D,3D,F,,38.4 x 69.1 ft./ 11.7 x 21.1 m.,2016/07/15,CM
+296,CHINA,Kaifeng,,Kaifeng Wanda & IMAX,IMAX,D,3D,F,,34.3 x 61.7 ft./ 10.5 x 18.8 m.,2018/09/28,CM
+297,CHINA,Kunming,,Kunming Broadway IMAX,IMAX,D,3D,F,291,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2009/11/02,CM
+298,CHINA,Kunming,,Kunming CGV & IMAX,IMAX,D,3D,F,,36.4 x 64.8 ft./ 11.1 x 19.8 m.,2015/12/18,CM
+299,CHINA,Kunming,,Kunming Panxing Dadu LLC & IMAX,IMAX,DL2,3D,F,,57.0 x 75.8 ft./ 17.4 x 23.1 m.,2016/06/09,CM
+300,CHINA,Kunming,,Kunming Tongde Wanda & IMAX,IMAX,D,3D,F,,38.2 x 67.1 ft./ 11.6 x 20.5 m.,2014/10/18,CM
+301,CHINA,Kunming,,Kunming West Life Times SFC & IMAX,IMAX,D,3D,F,,43.2 x 75.0 ft./ 13.2 x 22.9 m.,2017/10,CM
+302,CHINA,Kunming,,Kunming Xishan Wanda & IMAX,IMAX,D,3D,F,,38.3 x 67.9 ft./ 11.7 x 20.7 m.,2014/10/31,CM
+303,CHINA,Kunshan,,Kunshan Culture & Art Centre,IMAX,D,3D,F,,38.4 x 68.7 ft./ 11.7 x 20.9 m.,2013/03/25,N
+304,CHINA,Kunshan,,Kunshan Wanda,IMAX,D,3D,F,,35.3 x 63.6 ft./ 10.8 x 19.4 m.,2017/07/05,CM
+305,CHINA,Langfang,,Langfang Wanda & IMAX,IMAX,D,3D,F,393,40.5 x 72.0 ft./ 12.3 x 22.0 m.,2011/11/11,CM
+306,CHINA,Lanzhou,,Lanzhou Wanda & IMAX,IMAX,DL,3D,F,,37.4 x 66.9 ft./ 11.4 x 20.4 m.,2014/10/24,CM
+307,CHINA,Leshan,,Leshan Wanda & IMAX,IMAX,D,3D,F,,37.1 x 66.4 ft./ 11.3 x 20.2 m.,2016/09/23,CM
+308,CHINA,Lianyungang,,Lianyungang Wanda & IMAX,IMAX,D,3D,F,,34.9 x 62.1 ft./ 10.6 x 18.9 m.,2016/11/18,CM
+309,CHINA,Liaoyang,,Liaoyang Wanda & IMAX,IMAX,D,3D,F,,35.4 x 62.7 ft./ 10.8 x 19.1 m.,2017/07/28,CM
+310,CHINA,Linfen,,Linfen Xinbaihui Wanda & IMAX,IMAX,D,3D,F,,35.1 x 62.8 ft./ 10.7 x 19.1 m.,2016/12/20,CM
+311,CHINA,Linyi,,Linyi Taisheng Plaza CGV & IMAX,IMAX,D,3D,F,,36.5 x 64.3 ft./ 11.1 x 19.6 m.,2018/12/21,CM
+312,CHINA,Lishui,,Zhejiang Wandi & IMAX,IMAX,D,3D,F,,41.2 x 73.5 ft./ 12.6 x 22.4 m.,2013/10/10,CM
+313,CHINA,Liupanshui,,Liupanshui Wanda,IMAX,D,3D,F,,35.3 x 64.0 ft./ 10.8 x 19.5 m.,2017/12/08,CM
+314,CHINA,Liuzhou,,Liuzhou Chengzhong Wanda & IMAX,IMAX,DL,3D,F,,38.0 x 67.9 ft./ 11.6 x 20.7 m.,2015/11/27,CM
+315,CHINA,Liuzhou,,Liuzhou Liunan Wanda & IMAX,IMAX,D,3D,F,,34.8 x 62.7 ft./ 10.6 x 19.1 m.,2016/12/12,CM
+316,CHINA,Liyang,,Liyang Shanghecheng Omnijoi & IMAX,IMAX,D,3D,F,,36.9 x 66.6 ft./ 11.3 x 20.3 m.,2016/12/09,CM
+317,CHINA,Longyan,,Longyan Wanda & IMAX,IMAX,D,3D,F,,38.2 x 68.2 ft./ 11.6 x 20.8 m.,2014/11/07,CM
+318,CHINA,Lu’an,,Lu'an Wanda & IMAX,IMAX,D,3D,F,,35.2 x 63.3 ft./ 10.7 x 19.3 m.,2016,CM
+319,CHINA,Luoyang,,Luoyang Wanda & IMAX,IMAX,D,3D,F,295,26.7 x 51.0 ft./ 8.2 x 15.5 m.,2012/02/21,CM
+320,CHINA,Luzhou,,Luzhou CGV & IMAX,IMAX,D,3D,F,,37.9 x 67.7 ft./ 11.6 x 20.6 m.,2015/11/06,CM
+321,CHINA,Luzhou,,Luzhou Wanda & IMAX,IMAX,D,3D,F,,35.5 x 64.0 ft./ 10.8 x 19.5 m.,2018/06,CM
+322,CHINA,Ma'anshan,,Ma'anshan Wanda & IMAX,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2014/09/19,CM
+323,CHINA,Meishan,,Meishan Sculpture Plaza Wanda,IMAX,D,3D,F,,35.8 x 63.5 ft./ 10.9 x 19.4 m.,2017/04,CM
+324,CHINA,Meizhou,,Meizhou Wanda & IMAX,IMAX,D,3D,F,,37.4 x 67.3 ft./ 11.4 x 20.5 m.,2016/09/23,CM
+325,CHINA,Mianyang,,Mianyang Fucheng Wanda & IMAX,IMAX,D,3D,F,353,37.6 x 67.9 ft./ 11.5 x 20.7 m.,2012/12/22,CM
+326,CHINA,Mongkok,,Cine Grand Century & IMAX,IMAX,D,3D,F,268,30.4 x 53.6 ft./ 9.3 x 16.3 m.,2014/01/29,CM
+327,CHINA,Mudanjiang,,Mudanjiang Wanda & IMAX,IMAX,D,3D,F,,36.9 x 66.2 ft./ 11.3 x 20.2 m.,2016/07/22,CM
+328,CHINA,Nanchang,,Jiangxi Science and Technology Center,IWRK,870,2D,D,292,,2002/08,N
+329,CHINA,Nanchang,,Nanchang Bayi Wanda & IMAX,IMAX,D,3D,F,275,26.5 x 50.1 ft./ 8.1 x 15.3 m.,2011/11/11,CM
+330,CHINA,Nanchang,,Nanchang Bestar & IMAX,IMAX,D,3D,F,,30.9 x 55.4 ft./ 9.4 x 16.9 m.,2016/11/18,CM
+331,CHINA,Nanchang,,Nanchang Honggutan Wanda & IMAX,IMAX,D,3D,F,335,37.9 x 67.5 ft./ 11.6 x 20.6 m.,2012/08/26,CM
+332,CHINA,Nanchang,,Nanchang Mall Wanda & IMAX,IMAX,D,3D,F,,45.2 x 78.2 ft./ 13.8 x 23.8 m.,2016/05/28,CM
+333,CHINA,Nanchang,,Nanchang Stellar & IMAX,IMAX,D,3D,F,,39.8 x 72.8 ft./ 12.1 x 22.2 m.,2014/05/04,CM
+334,CHINA,Nanchang,,Nanchang Wanda 271,IMAX,D,3D,F,,37.1 x 66.3 ft./ 11.3 x 20.2 m.,2018/12/13,CM
+335,CHINA,Nanchang,,Nanchang Xihu Wanda & IMAX,IMAX,D,3D,F,,35.2 x 63.2 ft./ 10.7 x 19.3 m.,2017/06/23,CM
+336,CHINA,Nanjing,,Nanjing Changfa Omnijoi & IMAX,IMAX,D,3D,F,,37.1 x 66.8 ft./ 11.3 x 20.4 m.,2016/09/30,CM
+337,CHINA,Nanjing,,Nanjing Hanlogon Wanda & IMAX,IMAX,D,3D,F,,35.3 x 61.8 ft./ 10.8 x 18.8 m.,2018/11/10,CM
+338,CHINA,Nanjing,,Nanjing Jiangning Wanda & IMAX,IMAX,D,3D,F,,37.7 x 67.5 ft./ 11.5 x 20.6 m.,2013/12/24,CM
+339,CHINA,Nanjing,,Nanjing Stellar & IMAX,IMAX,D,3D,F,,38.2 x 68.3 ft./ 11.6 x 20.8 m.,2015/06/10,CM
+340,CHINA,Nanjing,,Nanjing Tongxi Jinyi & IMAX,IMAX,D,3D,F,,41.6 x 73.8 ft./ 12.7 x 22.5 m.,2014/11/12,CM
+341,CHINA,Nanjing,,Nanjing Wanda & IMAX,IMAX,D,3D,F,360,39.3 x 70.0 ft./ 12.0 x 21.3 m.,2011/07/21,CM
+342,CHINA,Nanjing,,Nanjing Xianlin Wanda & IMAX,IMAX,D,3D,F,,38.6 x 68.9 ft./ 11.8 x 21.0 m.,2018/06,CM
+343,CHINA,Nanjing,,Nanjing Xinjiekou & IMAX,IMAX,D,3D,F,,,2012/07/15,CM
+344,CHINA,Nanning,,Guangxi Yongheng Winhand Jingzuan & IMAX,IMAX,D,3D,F,,40.6 x 71.5 ft./ 12.4 x 21.8 m.,2014/01/31,CM
+345,CHINA,Nanning,,Nanning Anji Wanda & IMAX,IMAX,D,3D,F,,37.6 x 67.9 ft./ 11.5 x 20.7 m.,2015/05/12,CM
+346,CHINA,Nanning,,Nanning Huicui Wanda & IMAX,IMAX,D,3D,F,,26.8 x 49.6 ft./ 8.2 x 15.1 m.,2013/10,CM
+347,CHINA,Nanning,,Nanning Jiangnan Wanda & IMAX,IMAX,D,3D,F,,38.5 x 68.9 ft./ 11.7 x 21.0 m.,2017/06/23,CM
+348,CHINA,Nanning,,Nanning Minzu Cinema & IMAX,IMAX,D,3D,F,,43.1 x 77.8 ft./ 13.1 x 23.7 m.,2014/06/27,CM
+349,CHINA,Nanning,,Nanning Qingxiu Wanda & IMAX,IMAX,D,3D,F,,38.3 x 67.1 ft./ 11.7 x 20.5 m.,2014/12/18,CM
+350,CHINA,Nanning,,Nanning Wanda Mall & IMAX,IMAX,D,3D,F,,39.7 x 70.7 ft./ 12.1 x 21.6 m.,2017/06/17,CM
+351,CHINA,Nanping,,Nanping Wanda 322,IMAX,D,3D,F,,37.4 x 66.9 ft./ 11.4 x 20.4 m.,2018/12/13,CM
+352,CHINA,Nantong,,Nantong Gangzha Wanda & IMAX,IMAX,D,3D,F,,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2015/12/12,CM
+353,CHINA,Nantong,,Nantong MixC Jinyi,IMAX,D,3D,F,,37.0 x 65.3 ft./ 11.3 x 19.9 m.,2018/12/13,CM
+354,CHINA,Nantong,,Nantong Omnijoi & IMAX,IMAX,D,3D,F,,43.6 x 76.1 ft./ 13.3 x 23.2 m.,2015/01/09,CM
+355,CHINA,Nantong,,Nantong Tongzhou Wanda  & IMAX,IMAX,D,3D,F,,36.2 x 65.0 ft./ 11.0 x 19.8 m.,2017,CM
+356,CHINA,Nantong,,Nantong Wanda & IMAX,IMAX,D,3D,F,,33.6 x 60.7 ft./ 10.2 x 18.5 m.,2014/10/31,CM
+357,CHINA,Nantong,,Nantong Xingguangyao Wanda & IMAX,IMAX,D,3D,F,,34.1 x 61.0 ft./ 10.4 x 18.6 m.,2015/09/25,CM
+358,CHINA,Nanyang,,Nanyang Zhongtai Wanda & IMAX,IMAX,D,3D,F,,38.5 x 68.4 ft./ 11.7 x 20.9 m.,2017/07/08,CM
+359,CHINA,Neijiang,,Neijiang Wanda & IMAX,IMAX,D,3D,F,,45.5 x 78.9 ft./ 13.9 x 24.1 m.,2015/06/26,CM
+360,CHINA,Ningbo,,CGV Ningbo Yuyao Wucaicheng & IMAX,IMAX,D,3D,F,,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2014/06/28,CM
+361,CHINA,Ningbo,,Ningbo Fenghua Wanda 318,IMAX,D,3D,F,,34.0 x 61.4 ft./ 10.4 x 18.7 m.,2018/05/26,CM
+362,CHINA,Ningbo,,Ningbo Jiangbei Wanda Plaza & IMAX,IMAX,D,3D,F,374,39.6 x 70.0 ft./ 12.1 x 21.3 m.,2011/12/15,CM
+363,CHINA,Ningbo,,Ningbo Shanjing Outlet Stellar & IMAX,IMAX,D,3D,F,,40.1 x 70.8 ft./ 12.2 x 21.6 m.,2016/03/11,CM
+364,CHINA,Ningbo,,Ningbo Wanda & IMAX,IMAX,D,3D,F,334,36.4 x 65.5 ft./ 11.1 x 20.0 m.,2011/07/21,CM
+365,CHINA,Ningbo,,Ningbo Yinzhou CGV & IMAX,IMAX,D,3D,F,,38.9 x 68.9 ft./ 11.9 x 21.0 m.,2015/01/02,CM
+366,CHINA,Ningde,,Ningde Wanda & IMAX,IMAX,D,3D,F,320,38.4 x 69.2 ft./ 11.7 x 21.1 m.,2012/08/27,CM
+367,CHINA,Panjin,,CGV International Cinema & IMAX,IMAX,D,3D,F,,39.7 x 70.0 ft./ 12.1 x 21.3 m.,2013/01/07,CM
+368,CHINA,Pingdingshan,,Pingdingshan Wanda & IMAX,IMAX,D,3D,F,,35.7 x 63.2 ft./ 10.9 x 19.3 m.,2017/11/24,CM
+369,CHINA,Putian,,Putian Wanda & IMAX,IMAX,D,3D,F,345,37.1 x 65.9 ft./ 11.3 x 20.1 m.,2012/12/15,CM
+370,CHINA,Qingdao,,Qiang Dao Wanda CBD & IMAX,IMAX,D,3D,F,373,33.1 x 65.6 ft./ 10.1 x 20.0 m.,2011/02/02,CM
+371,CHINA,Qingdao,,Qingdao CapitaMall New City Center CGV & IMAX,IMAX,D,3D,F,,36.1 x 63.7 ft./ 11.0 x 19.4 m.,2016/06/30,CM
+372,CHINA,Qingdao,,Qingdao Licang Wanda IMAX,IMAX,D,3D,F,345,38.4 x 68.6 ft./ 11.7 x 20.9 m.,2012/09/21,CM
+373,CHINA,Qingdao,,Qingdao Lion Mall SFC & IMAX,IMAX,D,3D,F,,35.1 x 63.0 ft./ 10.7 x 19.2 m.,2016/05/06,CM
+374,CHINA,Qingdao,,Qingdao MixC City CGV & IMAX,IMAX,D,3D,F,,44.2 x 77.4 ft./ 13.5 x 23.6 m.,2015/04/30,CM
+375,CHINA,Qingdao,,Qingdao Wanda 302,IMAX,D,3D,F,,37.5 x 67.1 ft./ 11.4 x 20.5 m.,2018/04/28,CM
+376,CHINA,Qingyuan,,Qingyuan Wanda & IMAX,IMAX,D,3D,F,,34.8 x 62.7 ft./ 10.6 x 19.1 m.,2016/12/29,CM
+377,CHINA,Qiqihar,,Qiqihar Wanda & IMAX,IMAX,D,3D,F,,37.1 x 66.4 ft./ 11.3 x 20.2 m.,2015/08,CM
+378,CHINA,Quanzhou,,Quanzhou Anxi Powerlong Jinyi & IMAX,IMAX,D,3D,F,,33.2 x 60.0 ft./ 10.1 x 18.3 m.,2016/11/30,CM
+379,CHINA,Quanzhou,,Quanzhou Wanda & IMAX,IMAX,D,3D,F,416,38.4 x 70.0 ft./ 11.7 x 21.3 m.,2012/09/29,CM
+380,CHINA,Qujing,,Qujing Wanda & IMAX,IMAX,D,3D,F,,35.5 x 64.0 ft./ 10.8 x 19.5 m.,2017/10/27,CM
+381,CHINA,Quzhou,,Quzhou Wanda & IMAX,IMAX,D,3D,F,,36.4 x 65.4 ft./ 11.1 x 19.9 m.,2017,CM
+382,CHINA,Sanmenxia,,Sanmenxia Wanda & IMAX,IMAX,D,3D,F,,36.3 x 65.2 ft./ 11.1 x 19.9 m.,2016/10/21,CM
+383,CHINA,Sanming,,Sanming Wanda & IMAX,IMAX,D,3D,F,,39.9 x 70.4 ft./ 12.2 x 21.5 m.,2016/12/30,CM
+384,CHINA,Sanya,,Sanya Wanda & IMAX,IMAX,D,3D,F,293,36.2 x 68.6 ft./ 11.0 x 20.9 m.,2011/09/16,CM
+385,CHINA,Sanya,,Sanya Zose Cinema & IMAX,IMAX,D,3D,F,,39.6 x 70.5 ft./ 12.1 x 21.5 m.,2014/08,CM
+386,CHINA,Shanghai,,IMAX 3D Theater,IMAX,1570,3D,F,441,60.1 x 79.8 ft./ 18.3 x 24.3 m.,2001/12/19,N
+387,CHINA,Shanghai,,IMAX Dome Theater,IMAX,1570,2D,D,280,75.5 ft./ 23.0 m.,2001/12/19,N
+388,CHINA,Shanghai,,"IMAX, Peace Cinema",IMAX,D,3D,F,358,52.5 x 65.3 ft./ 16.0 x 19.9 m.,2004/02/20,CM
+389,CHINA,Shanghai,,Jinyi Cinema & IMAX,IMAX,D,3D,F,246,26.8 x 54.5 ft./ 8.2 x 16.6 m.,2012/12/22,CM
+390,CHINA,Shanghai,,Shanghai Baoshan Stellar & IMAX,IMAX,D,3D,F,,33.7 x 60.8 ft./ 10.3 x 18.5 m.,2016/10/12,CM
+391,CHINA,Shanghai,,Shanghai Bingo SFC & IMAX,IMAX,D,3D,F,,33.8 x 60.0 ft./ 10.3 x 18.3 m.,2016/08/03,CM
+392,CHINA,Shanghai,,Shanghai Broadway Cinema & IMAX,IMAX,D,3D,F,,,2013/08/05,CM
+393,CHINA,Shanghai,,Shanghai Chuansha SFC Bailian,IMAX,D,3D,F,,36.3 x 64.0 ft./ 11.1 x 19.5 m.,2017/06/08,CM
+394,CHINA,Shanghai,,Shanghai Daning Aurora & IMAX,IMAX,D,3D,F,,37.3 x 66.4 ft./ 11.4 x 20.2 m.,2016/05/28,CM
+395,CHINA,Shanghai,,Shanghai Daning IMIX Park Hoyts & IMAX,IMAX,D,3D,F,300,44.2 x 84.9 ft./  x  m.,2018,CM
+396,CHINA,Shanghai,,Shanghai Emperior UA & IMAX,IMAX,D,3D,F,,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2015/10/03,CM
+397,CHINA,Shanghai,,Shanghai Fengxian Powerlong Hengdian & IMAX,IMAX,D,3D,F,,35.5 x 62.8 ft./ 10.8 x 19.1 m.,2016/01,CM
+398,CHINA,Shanghai,,Shanghai Hongqiao Lingkong & IMAX,IMAX,D,3D,F,,30.2 x 55.1 ft./ 9.2 x 16.8 m.,2016/01/09,CM
+399,CHINA,Shanghai,,Shanghai Jiangqiao Wanda & IMAX,IMAX,D,3D,F,379,39.2 x 70.0 ft./ 12.0 x 21.3 m.,2011/06/18,CM
+400,CHINA,Shanghai,,Shanghai Jinqiao The Mall SFC & IMAX,IMAX,D,3D,F,,34.0 x 60.4 ft./ 10.4 x 18.4 m.,2017/01/31,CM
+401,CHINA,Shanghai,,Shanghai Jinshan Wanda & IMAX,IMAX,D,3D,F,,39.7 x 70.2 ft./ 12.1 x 21.4 m.,2015/07/17,CM
+402,CHINA,Shanghai,,Shanghai Jiuting Bestar & IMAX,IMAX,D,3D,F,,34.2 x 61.2 ft./ 10.4 x 18.7 m.,2016/12/23,CM
+403,CHINA,Shanghai,,Shanghai Longsheng Wanda & IMAX,IMAX,D,3D,F,,35.7 x 64.9 ft./ 10.9 x 19.8 m.,2015/12/21,CM
+404,CHINA,Shanghai,,Shanghai Qibao Vanke CGV & IMAX,IMAX,D,3D,F,,35.5 x 62.9 ft./ 10.8 x 19.2 m.,2016/11,CM
+405,CHINA,Shanghai,,Shanghai Songjiang Wanda & IMAX,IMAX,D,3D,F,,41.4 x 73.5 ft./ 12.6 x 22.4 m.,2014/05/30,CM
+406,CHINA,Shanghai,,Shanghai Stellar IMAX Cinema,IMAX,D,3D,F,453,45.6 x 80.1 ft./ 13.9 x 24.4 m.,2010/07/21,CM
+407,CHINA,Shanghai,,Shanghai Wanda 165,IMAX,DL,3D,F,,44.2 x 76.8 ft./ 13.5 x 23.4 m.,2018/06/29,CM
+408,CHINA,Shanghai,,Shanghai Wanda International Cinema IMAX,IMAX,D,3D,F,410,39.4 x 69.9 ft./ 12.0 x 21.3 m.,2010/08/06,CM
+409,CHINA,Shanghai,,Shanghai White Magnolia Plaza CGV & IMAX,IMAX,D,3D,F,,42.7 x 74.1 ft./ 13.0 x 22.6 m.,2018/02/09,CM
+410,CHINA,Shanghai,,Shanghai Xuhui Greenland Binjiang SFC & IMAX,IMAX,D,3D,F,,,2017/01/31,CM
+411,CHINA,Shanghai,,Shanghai Yaohan SFC Bailian & IMAX,IMAX,D,3D,F,,23.0 x 45.9 ft./ 7.0 x 14.0 m.,2016/12/30,CM
+412,CHINA,Shanghai,,Shanghai Yonghua & IMAX,IMAX,D,3D,F,,25.8 x 50.0 ft./ 7.9 x 15.2 m.,2014/12/18,CM
+413,CHINA,Shanghai,,Shanghai Zhoupu Wanda & IMAX,IMAX,D,3D,F,315,34.1 x 61.8 ft./ 10.4 x 18.9 m.,2011/12/15,CM
+414,CHINA,Shanghai,,Wanda Shanghai Baoshan & IMAX,IMAX,DL,3D,F,247,34.5 x 62.4 ft./ 10.5 x 19.0 m.,2012/06/21,CM
+415,CHINA,Shangqiu,,Shangqiu Wanda 273,IMAX,D,3D,F,,36.0 x 64.7 ft./ 11.0 x 19.7 m.,2018/07/06,CM
+416,CHINA,Shangrao,,Shangrao Wanda & IMAX,IMAX,D,3D,F,,41.7 x 73.2 ft./ 12.7 x 22.3 m.,2016/11/25,CM
+417,CHINA,Shantou,,Shantou Cinecity & IMAX,IMAX,D,3D,F,,33.5 x 60.4 ft./ 10.2 x 18.4 m.,2016/02/06,CM
+418,CHINA,Shaoxing,,Shaoxing Keqiao Wanda & IMAX,IMAX,D,3D,F,312,33.6 x 61.0 ft./ 10.2 x 18.6 m.,2011/10,CM
+419,CHINA,Shaoxing,,Shaoxing Lumiere & IMAX,IMAX,D,3D,F,,37.4 x 68.5 ft./ 11.4 x 20.9 m.,2015/01/14,CM
+420,CHINA,Shaoxing,,Shaoxing Shangyu Wanda & IMAX,IMAX,D,3D,F,,42.7 x 74.7 ft./ 13.0 x 22.8 m.,2016/11/25,CM
+421,CHINA,Shenyang,,CGV Shenyang Richgate & IMAX,IMAX,D,3D,F,,41.1 x 73.0 ft./ 12.5 x 22.3 m.,2013/08/30,CM
+422,CHINA,Shenyang,,Jinyi Int'l Cinemas Shenyang Cloud Nine & IMAX,IMAX,D,3D,F,423,41.1 x 73.0 ft./ 12.5 x 22.3 m.,2012/04/30,CM
+423,CHINA,Shenyang,,Liaoning Science & Technology Museum,IMAX,DL2,3D,F,596,72.2 x 95.1 ft./ 22.0 x 29.0 m.,2015/01/18,N
+424,CHINA,Shenyang,,Shenyang Beiyi Wanda IMAX,IMAX,D,3D,F,440,38.4 x 69.2 ft./ 11.7 x 21.1 m.,2012/08/31,CM
+425,CHINA,Shenyang,,Shenyang Olympic Wanda IMAX,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2013/07/26,CM
+426,CHINA,Shenyang,,Shenyang Science Centrum,IWRK,870,2D,D,260,75.4 ft./ 23.0 m.,2000/01,N
+427,CHINA,Shenyang,,Shenyang Tiexi Wanda & IMAX,IMAX,D,3D,F,391,36.8 x 68.2 ft./ 11.2 x 20.8 m.,2011/11/08,CM
+428,CHINA,Shenzhen,,Shenzhen 9 Square Lumiere & IMAX,IMAX,D,3D,F,,34.5 x 61.7 ft./ 10.5 x 18.8 m.,2016/01/22,CM
+429,CHINA,Shenzhen,,Shenzhen Centerville MH Mall OSGH & IMAX,IMAX,D,3D,F,,39.0 x 69.9 ft./ 11.9 x 21.3 m.,2016/01/15,CM
+430,CHINA,Shenzhen,,Shenzhen Haiya Wanda & IMAX,IMAX,D,3D,F,301,29.8 x 53.6 ft./ 9.1 x 16.3 m.,2012/12/08,CM
+431,CHINA,Shenzhen,,Shenzhen Henggang Wan Zhong & IMAX,IMAX,D,3D,F,,31.6 x 56.8 ft./ 9.6 x 17.3 m.,2016/12/22,CM
+432,CHINA,Shenzhen,,Shenzhen Huigang Lumiere & IMAX,IMAX,D,3D,F,,38.9 x 69.9 ft./ 11.9 x 21.3 m.,2017/01,CM
+433,CHINA,Shenzhen,,Shenzhen InJoy OSGH & IMAX,IMAX,D,3D,F,,42.3 x 75.0 ft./ 12.9 x 22.9 m.,2016/08/29,CM
+434,CHINA,Shenzhen,,Shenzhen Kingkey Stellar & IMAX,IMAX,D,3D,F,,36.6 x 65.9 ft./ 11.2 x 20.1 m.,2016/08/06,CM
+435,CHINA,Shenzhen,,Shenzhen New SKY,IMAX,D,3D,F,,44.8 x 75.2 ft./ 13.7 x 22.9 m.,2018/08/17,CM
+436,CHINA,Shenzhen,,Shenzhen OCT Bay IMAX,IMAX,D,3D,F,322,39.6 x 70.0 ft./ 12.1 x 21.3 m.,2011/12/24,CM
+437,CHINA,Shenzhen,,Shenzhen Upper Hill Emperor UA & IMAX,IMAX,D,3D,F,,40.1 x 70.2 ft./ 12.2 x 21.4 m.,2018/02/08,CM
+438,CHINA,Shenzhen,,Shenzhen Wanda 315,IMAX,D,3D,F,,34.2 x 61.7 ft./ 10.4 x 18.8 m.,2018/12/13,CM
+439,CHINA,Shenzhen,,Shenzhen Yifang City CGV & IMAX,IMAX,D,3D,F,,37.3 x 66.7 ft./ 11.4 x 20.3 m.,2017/01/31,CM
+440,CHINA,Shenzhen,,UA KK Mall & IMAX,IMAX,D,3D,F,356,,2010/11/20,CM
+441,CHINA,Shijiazhuang,,Shijiazhuang Wanda Plaza & IMAX,IMAX,D,3D,F,398,39.2 x 70.0 ft./ 12.0 x 21.3 m.,2011/09/23,CM
+442,CHINA,Shishi,,Shishi Shimao Wanda & IMAX,IMAX,D,3D,F,,,2016/09/09,CM
+443,CHINA,Shiyan,,Shiyan Wanda & IMAX,IMAX,D,3D,F,,39.2 x 69.4 ft./ 12.0 x 21.2 m.,2016/08/05,CM
+444,CHINA,Shizuishan,,Shizuishan Wanda 262,IMAX,D,3D,F,,36.1 x 64.8 ft./ 11.0 x 19.8 m.,2018/07/06,CM
+445,CHINA,Siping,,Siping Ego Industrial Park Wanda,IMAX,D,3D,F,,44.9 x 77.8 ft./ 13.7 x 23.7 m.,2018,CM
+446,CHINA,Siping,,Siping Wanda & IMAX,IMAX,D,3D,F,,43.0 x 75.3 ft./ 13.1 x 23.0 m.,2016/06/29,CM
+447,CHINA,Suihua,,Suihua Wanda & IMAX,IMAX,D,3D,F,,35.1 x 63.3 ft./ 10.7 x 19.3 m.,2018/10,CM
+448,CHINA,Suining,,Suining Wanda & IMAX,IMAX,D,3D,F,,38.7 x 69.0 ft./ 11.8 x 21.0 m.,2016/10/21,CM
+449,CHINA,Suzhou,,Jinyi Suzhou Yixiangcheng IMAX,IMAX,D,3D,F,342,38.1 x 66.7 ft./ 11.6 x 20.3 m.,2012/04/28,CM
+450,CHINA,Suzhou,,Suzhou AEON Jinyi & IMAX,IMAX,D,3D,F,,37.2 x 67.0 ft./ 11.3 x 20.4 m.,2016/10/21,CM
+451,CHINA,Suzhou,,Suzhou Culture & Arts Centre IMAX,IMAX,D,3D,F,,,2007/12/13,N
+452,CHINA,Suzhou,,Suzhou Emerald City Omnijoi & IMAX,IMAX,D,3D,F,,42.1 x 73.8 ft./ 12.8 x 22.5 m.,2015,CM
+453,CHINA,Suzhou,,Suzhou Eudemonia Blue Ocean IMAX,IMAX,D,3D,F,398,45.5 x 78.7 ft./ 13.9 x 24.0 m.,2011/12/15,CM
+454,CHINA,Suzhou,,Suzhou Pingjiang Wanda & IMAX,IMAX,D,3D,F,342,35.6 x 64.3 ft./ 10.9 x 19.6 m.,2011/11/09,CM
+455,CHINA,Suzhou,,Suzhou Wanda & IMAX,IMAX,D,3D,F,,39.4 x 70.0 ft./ 12.0 x 21.3 m.,2016/12/02,CM
+456,CHINA,Suzhou,,Suzhou Wanda 316,IMAX,D,3D,F,,30.2 x 54.2 ft./ 9.2 x 16.5 m.,2018/12/13,CM
+457,CHINA,Suzhou,,Suzhou Wuzhong Wanda & IMAX,IMAX,D,3D,F,,38.7 x 69.1 ft./ 11.8 x 21.1 m.,2015/11/12,CM
+458,CHINA,Taian,,Taian Wanda & IMAX,IMAX,D,3D,F,,37.3 x 66.7 ft./ 11.4 x 20.3 m.,2015/08/21,CM
+459,CHINA,Taicang,,Taicang Wanda & IMAX,IMAX,D,3D,F,364,38.0 x 67.9 ft./ 11.6 x 20.7 m.,2012/12/07,CM
+460,CHINA,Taiyuan,,Taiyuan Bona Int'l Cineplex & IMAX,IMAX,D,3D,F,,38.1 x 66.8 ft./ 11.6 x 20.4 m.,2015/06/20,CM
+461,CHINA,Taiyuan,,Taiyuan Wanda & IMAX,IMAX,DL,3D,F,,46.1 x 80.0 ft./ 14.1 x 24.4 m.,2015/10,CM
+462,CHINA,Taizhou,,Taizhou Jingkai Wanda & IMAX,IMAX,D,3D,F,,38.5 x 68.7 ft./ 11.7 x 20.9 m.,2016/06/08,CM
+463,CHINA,Taizhou,,Taizhou Wanda Plaza & IMAX,IMAX,D,3D,F,317,36.5 x 65.6 ft./ 11.1 x 20.0 m.,2011/12/15,CM
+464,CHINA,Taizhou,,Taizhou Zhongsheng Wanda & IMAX,IMAX,D,3D,F,,40.0 x 73.1 ft./ 12.2 x 22.3 m.,2016/11/13,CM
+465,CHINA,Tangshan,,Tangshan Wanda & IMAX,IMAX,D,3D,F,355,39.3 x 70.0 ft./ 12.0 x 21.3 m.,2011/12/23,CM
+466,CHINA,TBD,,Wanda 285,IMAX,D,3D,F,,36.3 x 65.3 ft./ 11.1 x 19.9 m.,2018/12/13,CM
+467,CHINA,Tianjin,,CGV Xingxing & IMAX,IMAX,D,3D,F,374,28.5 x 54.0 ft./ 8.7 x 16.5 m.,2011/12/15,CM
+468,CHINA,Tianjin,,CGV Yujiabu & IMAX,IMAX,D,3D,F,,45.4 x 78.4 ft./ 13.8 x 23.9 m.,2015/12,CM
+469,CHINA,Tianjin,,"IMAX, China Film Cinema",IMAX,D,3D,F,377,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2010/01/04,CM
+470,CHINA,Tianjin,,Tianjin Dagang Jinyi & IMAX,IMAX,D,3D,F,,34.5 x 61.6 ft./ 10.5 x 18.8 m.,2016/12/21,CM
+471,CHINA,Tianjin,,Tianjin Hedong Wanda & IMAX,IMAX,D,3D,F,395,40.5 x 72.0 ft./ 12.3 x 22.0 m.,2011/11/08,CM
+472,CHINA,Tianjin,,Tianjin Jinyi Joy City & IMAX,IMAX,D,3D,F,500,39.7 x 72.0 ft./ 12.1 x 22.0 m.,2012/08/24,CM
+473,CHINA,Tianjin,,Tianjin Nongken Bona Cinema & IMAX,IMAX,D,3D,F,406,36.7 x 67.4 ft./ 11.2 x 20.6 m.,2012/09/29,CM
+474,CHINA,Tianjin,,Tianjin Orange Sky Galaxy & IMAX,IMAX,D,3D,F,357,42.1 x 74.0 ft./ 12.8 x 22.6 m.,2012/10/25,CM
+475,CHINA,Tianjin,,Tianjin Science & Technology Museum,ES,D,2D,D,300,75.4 ft./ 23.0 m.,1992,N
+476,CHINA,Tianjin,,Tianjin Shehuishan Wanda & IMAX,IMAX,D,3D,F,,32.2 x 58.1 ft./ 9.8 x 17.7 m.,2018/01/05,CM
+477,CHINA,Tianjin,,Tianjin Teemall SFC & IMAX,IMAX,D,3D,F,,34.4 x 62.0 ft./ 10.5 x 18.9 m.,2017/06/26,CM
+478,CHINA,Tongliao,,Tongliao Wanda & IMAX,IMAX,D,3D,F,,45.5 x 78.9 ft./ 13.9 x 24.1 m.,2016/07/22,CM
+479,CHINA,Tongling,,Tongling Wanda & IMAX,IMAX,D,3D,F,,35.1 x 63.1 ft./ 10.7 x 19.2 m.,2017/11/10,CM
+480,CHINA,Urumqi,,Urumqi Gaoxin Wanda 319,IMAX,D,3D,F,,34.3 x 62.0 ft./ 10.5 x 18.9 m.,2018/09/21,CM
+481,CHINA,Urumqi,,Urumqi Wanda & IMAX,IMAX,D,3D,F,,37.2 x 66.6 ft./ 11.3 x 20.3 m.,2016/08/12,CM
+482,CHINA,Urumqi,,Urumqi Wanda 196,IMAX,D,3D,F,,34.4 x 61.4 ft./ 10.5 x 18.7 m.,2018/02,CM
+483,CHINA,Weifang,,Weifang Shouguang Wanda & IMAX,IMAX,D,3D,F,,34.4 x 62.3 ft./ 10.5 x 19.0 m.,2018,CM
+484,CHINA,Weifang,,Weifang Wanda & IMAX,IMAX,D,3D,F,,38.7 x 69.1 ft./ 11.8 x 21.1 m.,2014/05/23,CM
+485,CHINA,Weinan,,Weinan Wanda & IMAX,IMAX,D,3D,F,,38.0 x 67.9 ft./ 11.6 x 20.7 m.,2015/08/07,CM
+486,CHINA,Wenzhou,,Wenzhou 5050 Shopping Mall Bona,IMAX,D,3D,F,,36.3 x 65.3 ft./ 11.1 x 19.9 m.,2018/11/16,CM
+487,CHINA,Wenzhou,,Wenzhou Longwan Wanda & IMAX,IMAX,D,3D,F,390,38.4 x 68.4 ft./ 11.7 x 20.9 m.,2012/11/30,CM
+488,CHINA,Wenzhou,,Wenzhou MixC Lumiere & IMAX,IMAX,D,3D,F,,43.1 x 75.3 ft./ 13.1 x 23.0 m.,2016/05/06,CM
+489,CHINA,Wenzhou,,Wenzhou Pingyang Wanda & IMAX,IMAX,D,3D,F,,38.5 x 66.1 ft./ 11.7 x 20.2 m.,2014/12/06,CM
+490,CHINA,Wenzhou,,Wenzhou Wanda 307,IMAX,D,3D,F,,37.4 x 67.3 ft./ 11.4 x 20.5 m.,2018/12/13,CM
+491,CHINA,Wuhai,,Wuhai Wanda & IMAX,IMAX,D,3D,F,,37.0 x 66.2 ft./ 11.3 x 20.2 m.,2016/06/26,CM
+492,CHINA,Wuhan,,Wuhan Aeon Jinqiao CGV & IMAX,IMAX,D,3D,F,,40.8 x 71.9 ft./ 12.4 x 21.9 m.,2017/12/07,CM
+493,CHINA,Wuhan,,Wuhan Bona Int'l & IMAX,IMAX,D,3D,F,,39.8 x 70.9 ft./ 12.1 x 21.6 m.,2016/02/08,CM
+494,CHINA,Wuhan,,Wuhan CGV & IMAX,IMAX,D,3D,F,,42.8 x 75.2 ft./ 13.0 x 22.9 m.,2013/11/19,CM
+495,CHINA,Wuhan,,Wuhan Guanggu CGV & IMAX,IMAX,D,3D,F,,37.5 x 67.1 ft./ 11.4 x 20.5 m.,2014/09/29,CM
+496,CHINA,Wuhan,,Wuhan Huiju Jinyi & IMAX,IMAX,D,3D,F,,34.1 x 61.0 ft./ 10.4 x 18.6 m.,2015/05/07,CM
+497,CHINA,Wuhan,,Wuhan Jingkai Wanda Cinemas & IMAX,IMAX,D,3D,F,264,33.0 x 59.7 ft./ 10.1 x 18.2 m.,2011/08/27,CM
+498,CHINA,Wuhan,,Wuhan Jinyi Cinema & IMAX,IMAX,D,3D,F,301,29.9 x 54.4 ft./ 9.1 x 16.6 m.,2012/12/20,CM
+499,CHINA,Wuhan,,Wuhan Lingjiaohu Wanda & IMAX,IMAX,D,3D,F,,35.1 x 63.2 ft./ 10.7 x 19.3 m.,2013/03/26,CM
+500,CHINA,Wuhan,,Wuhan Optic Valley Huayi Bros,IMAX,D,3D,F,,35.1 x 65.1 ft./ 10.7 x 19.8 m.,2015/07/11,CM
+501,CHINA,Wuhan,,Wuhan Renxin Broadway & IMAX,IMAX,D,3D,F,,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2014/05/04,CM
+502,CHINA,Wuhu,,Wuhu Huaqiang Wanda & IMAX,IMAX,D,3D,F,,37.2 x 66.6 ft./ 11.3 x 20.3 m.,2016/12/21,CM
+503,CHINA,Wuhu,,Wuhu Jinghu Wanda & IMAX,IMAX,D,3D,F,358,38.4 x 70.1 ft./ 11.7 x 21.4 m.,2012/09/07,CM
+504,CHINA,Wuhu,,Wuhu Urumuqi Dehui Wanda Plaza 198,IMAX,D,3D,F,,35.8 x 65.0 ft./ 10.9 x 19.8 m.,2018/12/13,CM
+505,CHINA,Wuwei,,Wuwei Wanda & IMAX,IMAX,D,3D,F,,35.4 x 63.8 ft./ 10.8 x 19.5 m.,2018/10/28,CM
+506,CHINA,Wuxi,,Wuxi Big World IMAX Cineplex,IMAX,D,3D,F,378,34.8 x 62.7 ft./ 10.6 x 19.1 m.,2010/01/04,CM
+507,CHINA,Wuxi,,Wuxi Guangmei Jinyi & IMAX,IMAX,D,3D,F,,40.5 x 71.3 ft./ 12.3 x 21.7 m.,2014/12/18,CM
+508,CHINA,Wuxi,,Wuxi Huishan Wanda & IMAX,IMAX,D,3D,F,,42.1 x 74.3 ft./ 12.8 x 22.7 m.,2013/06/21,CM
+509,CHINA,Wuxi,,Wuxi Mix City OSGH & IMAX,IMAX,D,3D,F,,37.7 x 67.9 ft./ 11.5 x 20.7 m.,2014/12/20,CM
+510,CHINA,Wuxi,,Wuxi Shenan CGV & IMAX,IMAX,D,3D,F,,42.5 x 74.7 ft./ 13.0 x 22.8 m.,2015/07/03,CM
+511,CHINA,Wuxi,,Wuxi Wanda Square & IMAX,IMAX,D,3D,F,,39.3 x 70.0 ft./ 12.0 x 21.3 m.,2013/01/11,CM
+512,CHINA,Wuzhong,,Wuzhong Wanda 295,IMAX,D,3D,F,,35.3 x 63.6 ft./ 10.8 x 19.4 m.,2018/06/15,CM
+513,CHINA,Xi’an,,Xi'an CGV & IMAX,IMAX,D,3D,F,,37.9 x 68.2 ft./ 11.6 x 20.8 m.,2015/09/30,CM
+514,CHINA,Xiamen,,Xiamen Huli Wanda & IMAX,IMAX,D,3D,F,295,33.0 x 59.8 ft./ 10.1 x 18.2 m.,2011/09/09,CM
+515,CHINA,Xiamen,,Xiamen Jimei Wanda & IMAX,IMAX,D,3D,F,,39.3 x 72.6 ft./ 12.0 x 22.1 m.,2013/06/08,CM
+516,CHINA,Xiamen,,Xiamen Jinyi Int'l & IMAX,IMAX,D,3D,F,,39.9 x 73.0 ft./ 12.2 x 22.3 m.,2014/04/16,CM
+517,CHINA,Xiamen,,Xiamen Shimao Wanda & IMAX,IMAX,D,3D,F,,38.8 x 69.4 ft./ 11.8 x 21.2 m.,2016/07/31,CM
+518,CHINA,Xi'An,,Xi'an Daminggong Wanda & IMAX,IMAX,D,3D,F,,36.9 x 67.6 ft./ 11.3 x 20.6 m.,2013/11/22,CM
+519,CHINA,Xi'An,,Xi'an Jiefang Road Wanda Plaza & IMAX,IMAX,D,3D,F,367,35.8 x 65.0 ft./ 10.9 x 19.8 m.,2011/11/08,CM
+520,CHINA,Xi'an,,Xi'an Laochenggen Cando & IMAX,IMAX,D,3D,F,,46.2 x 80.0 ft./ 14.1 x 24.4 m.,2016/11/16,CM
+521,CHINA,Xi'an,,Xi'An Longcheng Mingyuan Wanda,IMAX,D,3D,F,,39.1 x 69.2 ft./ 11.9 x 21.1 m.,2017,CM
+522,CHINA,Xi'an,,Xian Qujiang Creative Circle,IMAX,D,3D,F,,34.0 x 60.7 ft./ 10.4 x 18.5 m.,2018/12/30,CM
+523,CHINA,Xiangtan,,Xiangtan Hengdian & IMAX,IMAX,D,3D,F,,36.8 x 65.2 ft./ 11.2 x 19.9 m.,2016/08/20,CM
+524,CHINA,Xiangtan,,Xiangtan Wanda & IMAX,IMAX,D,3D,F,,38.8 x 69.2 ft./ 11.8 x 21.1 m.,2016/06/08,CM
+525,CHINA,Xiangyang,,Xiangyang Wanda & IMAX,IMAX,D,3D,F,331,34.1 x 61.8 ft./ 10.4 x 18.8 m.,2011/11/08,CM
+526,CHINA,Xingtai,,Xingtai Wanda 325,IMAX,D,3D,F,,33.7 x 60.8 ft./ 10.3 x 18.5 m.,2018/11/02,CM
+527,CHINA,Xining,,Xining Haihu Wanda & IMAX,IMAX,D,3D,F,,42.3 x 74.2 ft./ 12.9 x 22.6 m.,2016/07/29,CM
+528,CHINA,Xining,,Xining ZFY Times Square Wanda,IMAX,D,3D,F,,42.8 x 74.5 ft./ 13.0 x 22.7 m.,2017,CM
+529,CHINA,Xinxiang,,Xinxiang Muye Wanda & IMAX,IMAX,D,3D,F,,,2017,CM
+530,CHINA,Xishuangbanna,,Xishuangbanna Wanda & IMAX,IMAX,D,3D,F,,29.6 x 53.6 ft./ 9.0 x 16.3 m.,2015/09/26,CM
+531,CHINA,Xuancheng,,Xuancheng Wanda 261,IMAX,D,3D,F,,38.7 x 69.1 ft./ 11.8 x 21.1 m.,2018/06/29,CM
+532,CHINA,Xuzhou,,Xuzhou Tongshan Wanda & IMAX,IMAX,D,3D,F,,38.2 x 68.2 ft./ 11.6 x 20.8 m.,2016/10/28,CM
+533,CHINA,Xuzhou,,Xuzhou Yunlong Wanda & IMAX,IMAX,D,3D,F,,36.7 x 67.6 ft./ 11.2 x 20.6 m.,2013/12/06,CM
+534,CHINA,Ya'an,,Ya'an Wanda & IMAX,IMAX,D,3D,F,,35.9 x 64.5 ft./ 10.9 x 19.7 m.,2017/07/21,CM
+535,CHINA,Yancheng,,Yancheng CGV & IMAX,IMAX,D,3D,F,,39.0 x 69.6 ft./ 11.9 x 21.2 m.,2014/11/14,CM
+536,CHINA,Yancheng,,Yancheng Wanda & IMAX,IMAX,D,3D,F,,36.1 x 65.0 ft./ 11.0 x 19.8 m.,2017/06/23,CM
+537,CHINA,Yangzhou,,Yangzhou Omnijoi & IMAX,IMAX,D,3D,F,,41.2 x 74.1 ft./ 12.6 x 22.6 m.,2014/12/24,CM
+538,CHINA,Yangzhou,,Yangzhou Sifang & IMAX,IMAX,D,3D,F,,39.0 x 68.4 ft./ 11.9 x 20.9 m.,2016/02/04,CM
+539,CHINA,Yanji,,Yanji Wanda & IMAX,IMAX,D,3D,F,,39.5 x 70.0 ft./ 12.0 x 21.3 m.,2016/09/09,CM
+540,CHINA,Yantai,,Yantai Changjiang Road CGV & IMAX,IMAX,D,3D,F,,38.9 x 69.1 ft./ 11.9 x 21.1 m.,2016/05/14,CM
+541,CHINA,Yantai,,Yantai Omnijoi & IMAX,IMAX,D,3D,F,,37.0 x 66.3 ft./ 11.3 x 20.2 m.,2014/09/27,CM
+542,CHINA,Yantai,,Yantai Zhifu Wanda & IMAX,IMAX,D,3D,F,,37.9 x 67.1 ft./ 11.6 x 20.5 m.,2014/11/21,CM
+543,CHINA,Yibin,,Yibin Wanda & IMAX,IMAX,D,3D,F,,35.3 x 63.6 ft./ 10.8 x 19.4 m.,2018,CM
+544,CHINA,Yichang,,Yichang Guomao Center CGV,IMAX,D,3D,F,,36.1 x 64.0 ft./ 11.0 x 19.5 m.,2018/12/13,CM
+545,CHINA,Yichang,,Yichang Wanda & IMAX,IMAX,D,3D,F,319,37.9 x 67.8 ft./ 11.6 x 20.7 m.,2011/10/04,CM
+546,CHINA,Yichun,,Yichun Wanda & IMAX,IMAX,D,3D,F,,37.4 x 67.0 ft./ 11.4 x 20.4 m.,2016/10/21,CM
+547,CHINA,Yinchuan,,Yinchuan Jinfeng Wanda & IMAX,IMAX,D,3D,F,312,35.1 x 63.5 ft./ 10.7 x 19.4 m.,2011/09/09,CM
+548,CHINA,Yinchuan,,Yinchuan Xixia Wanda & IMAX,IMAX,D,3D,F,,38.7 x 68.6 ft./ 11.8 x 20.9 m.,2014/07/18,CM
+549,CHINA,Yingkou,,Yingkou Bayuquan Wanda & IMAX,IMAX,D,3D,F,,41.4 x 72.8 ft./ 12.6 x 22.2 m.,2016/11/19,CM
+550,CHINA,Yingkou,,Yingkou Wanda & IMAX,IMAX,D,3D,F,,37.6 x 67.4 ft./ 11.5 x 20.5 m.,2015/06/19,CM
+551,CHINA,Yiwu,,Yiwu Lifestyle Centre Poly & IMAX,IMAX,D,3D,F,,45.4 x 78.4 ft./ 13.8 x 23.9 m.,2017/08/11,CM
+552,CHINA,Yiwu,,Yiwu SFC Xcinema & IMAX,IMAX,D,3D,F,,40.9 x 72.2 ft./ 12.5 x 22.0 m.,2017/04/14,CM
+553,CHINA,Yiwu,,Yiwu Wanda & IMAX,IMAX,D,3D,F,,47.3 x 81.4 ft./ 14.4 x 24.8 m.,2016/08/26,CM
+554,CHINA,Yixing,,Yixing Wanda & IMAX,IMAX,D,3D,F,,37.1 x 66.6 ft./ 11.3 x 20.3 m.,2013/05/31,CM
+555,CHINA,Yiyang,,Yiyang Wanda & IMAX,IMAX,D,3D,F,,38.2 x 67.2 ft./ 11.6 x 20.5 m.,2017/06/23,CM
+556,CHINA,Yueyang,,Yueyang BBG CGV & IMAX,IMAX,D,3D,F,,34.8 x 62.2 ft./ 10.6 x 19.0 m.,2019/01/31,CM
+557,CHINA,Yulin,,Yulin Wanda & IMAX,IMAX,D,3D,F,,35.9 x 64.6 ft./ 10.9 x 19.7 m.,2018,CM
+558,CHINA,Yuncheng,,Yuncheng Wanda & IMAX,IMAX,D,3D,F,,37.6 x 67.3 ft./ 11.5 x 20.5 m.,2018,CM
+559,CHINA,Zaozhuang,,Zaozhuang Wanda & IMAX,IMAX,D,3D,F,,34.6 x 62.2 ft./ 10.5 x 19.0 m.,2017/06/23,CM
+560,CHINA,Zhangjiagang,,Zhangjiagang Omnijoi & IMAX,IMAX,D,3D,F,,46.2 x 80.1 ft./ 14.1 x 24.4 m.,2014/10/25,CM
+561,CHINA,Zhangjiagang,,Zhangjiagang Wanda & IMAX,IMAX,D,3D,F,,36.9 x 66.6 ft./ 11.3 x 20.3 m.,2018,CM
+562,CHINA,Zhangzhou,,Zhangzhou Taishangqu Wanda & IMAX,IMAX,D,3D,F,,38.7 x 69.0 ft./ 11.8 x 21.0 m.,2016,CM
+563,CHINA,Zhangzhou,,Zhangzhou Wanda & IMAX,IMAX,D,3D,F,345,37.2 x 66.6 ft./ 11.3 x 20.3 m.,2012/10/26,CM
+564,CHINA,Zhanjiang,,Zhanjang China Film Stellar & IMAX,IMAX,D,3D,F,,38.6 x 69.5 ft./ 11.8 x 21.2 m.,2014/12/20,CM
+565,CHINA,Zhanjiang,,Zhanjiang Wanda & IMAX,IMAX,D,3D,F,,43.0 x 75.3 ft./ 13.1 x 23.0 m.,2016/06/25,CM
+566,CHINA,Zhengzhou,,Zhengzhou David City CGV & IMAX,IMAX,D,3D,F,,,2015/12/24,CM
+567,CHINA,Zhengzhou,,Zhengzhou Gaoxin CGV & IMAX,IMAX,D,3D,F,,44.1 x 76.4 ft./ 13.4 x 23.3 m.,2016/12/06,CM
+568,CHINA,Zhengzhou,,Zhengzhou Grand Emporium CGV & IMAX,IMAX,D,3D,F,,42.8 x 74.5 ft./ 13.0 x 22.7 m.,2018,CM
+569,CHINA,Zhengzhou,,Zhengzhou Huiji Wanda & IMAX,IMAX,D,3D,F,,40.1 x 70.9 ft./ 12.2 x 21.6 m.,2016/11/18,CM
+570,CHINA,Zhengzhou,,Zhengzhou Wanda Erqi Store & IMAX,IMAX,D,3D,F,435,38.4 x 70.0 ft./ 11.7 x 21.3 m.,2012/10/13,CM
+571,CHINA,Zhengzhou,,Zhengzhou Zhongyuan Wanda & IMAX,IMAX,D,3D,F,330,38.6 x 68.9 ft./ 11.8 x 21.0 m.,2011/11/08,CM
+572,CHINA,Zhenjiang,,Zhenjiang Wanda Plaza & IMAX,IMAX,D,3D,F,242,28.6 x 51.2 ft./ 8.7 x 15.6 m.,2011/08/12,CM
+573,CHINA,Zhongshan,,Zhongshan CJ CGV Cinema & IMAX,IMAX,D,3D,F,,35.6 x 64.5 ft./ 10.9 x 19.7 m.,2013/06/28,CM
+574,CHINA,Zhongshan,,Zhongshan Xiaolan Stellar & IMAX,IMAX,D,3D,F,,43.1 x 76.3 ft./ 13.1 x 23.3 m.,2016/03/19,CM
+575,CHINA,Zhuhai,,Zhuhai Omnijoi & IMAX,IMAX,D,3D,F,,31.7 x 55.7 ft./ 9.7 x 17.0 m.,2015/02/19,CM
+576,CHINA,Zhuji,,Zhuji Wanda & IMAX,IMAX,D,3D,F,,38.1 x 67.9 ft./ 11.6 x 20.7 m.,2017/07/27,CM
+577,CHINA,Zigong,,Zigong Seewell & IMAX Nanhu,IMAX,D,3D,F,,40.5 x 72.5 ft./ 12.3 x 22.1 m.,2015/07/16,CM
+578,CHINA,Ziyang,,Ziyang Wanda & IMAX,IMAX,D,3D,F,,36.7 x 66.0 ft./ 11.2 x 20.1 m.,2016/06/17,CM
+579,COLOMBIA,Bogota,,"IMAX, Plaza de las Americas",IMAX,D,3D,F,603,64.0 x 94.5 ft./ 19.5 x 28.8 m.,2008/09/17,CM
+580,COLOMBIA,Bogota,,Maloka Interactive Science Center,ZEISS,D,3D,D,314,72.0 ft./ 22.0 m.,1998/08/16,N
+581,COLOMBIA,Envigado,,Cine Colombia Viva Envigado & IMAX,IMAX,DL,3D,F,,42.1 x 73.8 ft./ 12.8 x 22.5 m.,2018/10/26,CM
+582,COLOMBIA,Santiago de Cali,,Cinepolis Premier Limonar & IMAX,IMAX,D,3D,F,,34.5 x 61.7 ft./ 10.5 x 18.8 m.,2013/12/21,CM
+583,COSTA RICA,Curridabat,,Nova Cinemas Ciudad del Este & IMAX,IMAX,D,3D,F,,32.8 x 58.9 ft./ 10.0 x 18.0 m.,2017/12/15,CM
+584,COSTA RICA,San Jose,,Nova Cinemas IMAX,IMAX,D,3D,F,276,39.4 x 69.6 ft./ 12.0 x 21.2 m.,2009/12/25,CM
+585,CROATIA,Zagreb,,CineStar Arena IMAX Zagreb,IMAX,D,3D,F,485,44.8 x 79.3 ft./ 13.6 x 24.2 m.,2011/04/15,CM
+586,CZECH REPUBLIC,Prague,,"IMAX Theatre, Palace Flora",IMAX,1570+D,3D,F,379,60.6 x 78.3 ft./ 18.5 x 23.9 m.,2003/03/20,CM
+587,DENMARK,Aarhus,,CinemaxX Aarhus & IMAX,IMAX,D,3D,F,,,2016/12/14,CM
+588,DENMARK,Copenhagen,,CinemaxX Kobenhaven & IMAX,IMAX,D,3D,F,,37.9 x 71.1 ft./ 11.6 x 21.7 m.,2015/04/22,CM
+589,DENMARK,Copenhagen,,Planetarium,ES,DL8,2D,D,240,75.0 ft./ 22.9 m.,1989/01,C
+590,DOMINICAN REPUBLIC,Santo Domingo,,Palacio del Cine & IMAX,IMAX,D,3D,F,,28.8 x 51.7 ft./ 8.8 x 15.8 m.,2014/07/03,CM
+591,ECUADOR,Guayaquil,,Cinema Malecon,CHRIS,D,3D,D,186,59.0 ft./ 18.0 m.,2003/11,CM
+592,ECUADOR,Guayaquil,,Supercines Riocentro EL Dorado & IMAX,IMAX,D,3D,F,,46.2 x 83.0 ft./ 14.1 x 25.3 m.,2014/12/30,CM
+593,ECUADOR,Machala,,Supercines Machala & IMAX,IMAX,D,3D,F,,28.1 x 51.6 ft./ 8.6 x 15.7 m.,2018/04/26,CM
+594,ECUADOR,Norta Guayaquil,,Norta Guayaqui Supercines,IMAX,D,3D,F,,43.6 x 76.9 ft./ 13.3 x 23.4 m.,2018/10/04,CM
+595,ECUADOR,Quito,,IMAX at Paseo San Francisco,IMAX,D,3D,F,,39.5 x 69.6 ft./ 12.0 x 21.2 m.,2013/02/16,CM
+596,ECUADOR,Quito,,Supercines 6 de Diciembre & IMAX,IMAX,D,3D,F,,43.8 x 77.3 ft./ 13.4 x 23.6 m.,2016/03/24,CM
+597,EGYPT,Alexandria,,Bibliotheca Alexandrina,RSA,DL2,2D,D,100,46.0 ft./ 14.0 m.,2002/04/23,N
+598,EGYPT,Cairo,,Egyptian Military Academy,GOTO,1070,2D,D,300,59.0 ft./ 18.0 m.,2002,N
+599,EGYPT,Cairo,,ETISALAT IMAX Theatre Cairo,IMAX,D,3D,F,480,42.9 x 87.4 ft./ 13.1 x 26.7 m.,2012/10/22,CM
+600,EGYPT,Cairo,,VOX Al Mazza & IMAX,IMAX,D,3D,F,,,2020,CM
+601,ESTONIA,Tallinn,,Kosmos IMAX,IMAX,D,3D,F,,40.5 x 72.5 ft./ 12.3 x 22.1 m.,2014/12/19,CM
+602,FINLAND,Helsinki,,Finnkino Itis & IMAX,IMAX,DL,3D,F,346,43.6 x 76.5 ft./ 13.3 x 23.3 m.,2018/11/30,CM
+603,FINLAND,Oulun Kapunki,,"Tietomaa Science Center, Oulu",BARCO,D,3D,F,210,29.5 x 56.0 ft./ 9.0 x 17.1 m.,1988/06/29,N
+604,FINLAND,Vantaa,,"Heureka, Finnish Science Centre",SONY,D,2D,D,200,58.0 ft./ 17.7 m.,1989/04/27,N
+605,FRANCE,Archamps,,Gaumont Archamps & IMAX,IMAX,DL2,3D,F,,45.6 x 82.0 ft./ 13.9 x 25.0 m.,2017/10/24,CM
+606,FRANCE,Carré de Soie,,Pathe Carre de Soie IMAX,IMAX,D,3D,F,477,32.4 x 58.7 ft./ 9.9 x 17.9 m.,2010/07/21,CM
+607,FRANCE,Conflans-Sainte-Honorine,,Pathe Conflans & IMAX,IMAX,DL2,3D,F,,45.6 x 82.3 ft./ 13.9 x 25.1 m.,2017,CM
+608,FRANCE,Grand Quevilly,,Gaumont Rouen Grand Quevilly & IMAX,IMAX,D,3D,F,408,33.6 x 70.0 ft./ 10.3 x 21.3 m.,2010/07/21,CM
+609,FRANCE,Ivry-sur-Seine,,Cinema Pathe Quai d'Ivry & IMAX,IMAX,D,3D,F,519,35.6 x 68.1 ft./ 10.9 x 20.8 m.,2010/06/30,CM
+610,FRANCE,Jaunay-Clan,,Futuroscope - Dome Theatre,IMAX,1570,2D,D,330,72.0 ft./ 25.0 m.,1990/06,C
+611,FRANCE,Jaunay-Clan,,Futuroscope - Kinemax IMAX Theatre,IMAX,DL2,3D,F,420,70.0 x 79.0 ft./ 20.4 x 27.1 m.,1987/05/31,C
+612,FRANCE,La Valette-Du-Var,,Pathe La Valette & IMAX,IMAX,DL2,3D,F,,46.3 x 83.6 ft./ 14.1 x 25.5 m.,2016/04/13,CM
+613,FRANCE,Labege Innopole,,Cinema Gaumont Labege & IMAX,IMAX,DL,3D,F,462,35.3 x 70.0 ft./ 10.8 x 21.3 m.,2010/10/13,CM
+614,FRANCE,Les Pennes Mirabeaux,,Pathe Plan de Campagne & IMAX,IMAX,DL2,3D,F,,45.5 x 81.9 ft./ 13.9 x 25.0 m.,2018/10/05,CM
+615,FRANCE,Marne-la-Vallée,,Gaumont Disney Village & IMAX,IMAX,DL2,3D,F,575,48.6 x 85.8 ft./ 14.8 x 26.2 m.,2005/03/11,CM
+616,FRANCE,Montpellier,,Gaumont Montpellier Multiplexe & IMAX,IMAX,DL2,3D,F,418,56.8 x 77.9 ft./ 17.3 x 23.7 m.,1998/04,CM
+617,FRANCE,Paris,,La Geode,IMAX,1570,2D,D,400,85.0 ft./ 25.9 m.,1985/03/09,C
+618,FRANCE,Paris,,Pathe La Villette & IMAX,IMAX,D,3D,F,,30.5 x 54.4 ft./ 9.3 x 16.6 m.,2016/12/14,CM
+619,FRANCE,Saran,,Pathe Saran & IMAX,IMAX,DL2,3D,F,,40.4 x 72.2 ft./ 12.3 x 22.0 m.,2017/11/22,CM
+620,FRANCE,St. Ours-Les-Roche,,Vulcania,CHRIS,D,3D,F,,60.0 x 77.0 ft./ 17.7 x 23.5 m.,2002/02/22,N
+621,FRANCE,Thillois,,Gaumont Parc Millesime & IMAX,IMAX,DL2,3D,F,,40.3 x 72.2 ft./ 12.3 x 22.0 m.,2017/10/04,CM
+622,FRANCE,Toulouse,,Cité De L'Espace,IMAX,1570,3D,F,300,52.8 x 69.3 ft./ 16.1 x 21.1 m.,2005/05/10,N
+623,FRANCE,Tours,,Cinema Loire & IMAX,IMAX,DL,3D,F,,34.3 x 61.5 ft./ 10.5 x 18.8 m.,2018/10/03,CM
+624,GEORGIA,Tbilisi,,Cavea Cinemas & IMAX,IMAX,D,3D,F,,44.0 x 77.1 ft./ 13.4 x 23.5 m.,2015/09/12,CM
+625,GERMANY,Berlin,,UCI Kinowelt Mercedes Platz & IMAX,IMAX,DL,3D,F,,44.3 x 68.5 ft./ 13.5 x 20.9 m.,2018/11/14,CM
+626,GERMANY,Bochum,,UCI KINOWELT Ruhr Park & IMAX,IMAX,D,3D,F,,31.7 x 56.8 ft./ 9.7 x 17.3 m.,2018/05/24,CM
+627,Germany,Dusseldorf,,UCI Dusseldorf & IMAX,IMAX,D,3D,F,314,,2020/01,CM
+628,GERMANY,Hamburg,,UCI Kinowelt Othmarschen Park,IMAX,D,3D,F,,38.6 x 69.0 ft./ 11.8 x 21.0 m.,2018/12/15,CM
+629,GERMANY,Hamburg,,UCI KINOWELT Wandsbek & IMAX,IMAX,D,3D,F,,36.9 x 66.8 ft./ 11.3 x 20.4 m.,2018/07/04,CM
+630,GERMANY,Karlsruhe,,Filmpalast am ZKM,IMAX,DL2,3D,F,,51.8 x 70.0 ft./ 15.8 x 21.3 m.,2000/01,CM
+631,GERMANY,Leonberg,,IMAX Leonberg,IMAX,DL,3D,F,574,70.0 x 125.2 ft./ 21.0 x 38.2 m.,2021/09/28,CM
+632,GERMANY,Sinsheim,,IMAX 3D Theatre Sinsheim,IMAX,DL2,3D,F,350,59.3 x 81.3 ft./ 18.1 x 24.8 m.,1996/04/28,C
+633,GERMANY,Speyer,,IMAX Dome Speyer,IMAX,1570,2D,D,330,78.7 ft./ 24.0 m.,1997/08/02,C
+634,GREECE,Athens,,Eugenides Planetarium,SS,1570+DL,2D,D,278,80.0 ft./ 24.4 m.,2004/02,N
+635,GREECE,Thessaloniki,,CineplexX One Salonica & IMAX,IMAX,D,3D,F,,31.8 x 57.1 ft./ 9.7 x 17.4 m.,2018/12/14,CM
+636,GREECE,Thessaloniki,,Thessaloniki Science Center and Technology Museum,MEGA,870+D,2D,F,300,56.0 x 76.0 ft./ 17.1 x 23.2 m.,2004/09/30,N
+637,GUATEMALA,Guatemala City,,Cinepolis Miraflores & IMAX,IMAX,D,3D,F,,31.7 x 56.6 ft./ 9.7 x 17.3 m.,2013/12/27,CM
+638,GUATEMALA,Guatemala City,,IMAX Pradera Concepcion,IMAX,D,3D,F,352,52.8 x 69.2 ft./ 16.1 x 21.1 m.,2006/07/07,CM
+639,HUNGARY,Budapest,,"Simple IMAX, Cinema City Budapest",IMAX,D,3D,F,398,55.8 x 78.7 ft./ 24.0 x 17.0 m.,2008/01/17,CM
+640,INDIA,Bangalore,,INOX Mantri Mall & IMAX,IMAX,D,3D,F,,28.9 x 53.2 ft./ 8.8 x 16.2 m.,2017/04/20,CM
+641,INDIA,Bangalore,,PVR IMAX,IMAX,D,3D,F,350,32.1 x 61.0 ft./ 9.8 x 18.6 m.,2012/11/02,CM
+642,INDIA,Bangalore,,PVR Vega Mall & IMAX,IMAX,D,3D,F,,33.3 x 62.3 ft./ 10.2 x 19.0 m.,2018/01/05,CM
+643,INDIA,Bangalore,,PVR Xanders & IMAX,IMAX,D,3D,F,,34.1 x 61.7 ft./ 10.4 x 18.8 m.,2015/12/28,CM
+644,INDIA,Bengaluru,,Cinepolis Shantiniketan & IMAX,IMAX,D,3D,F,,30.0 x 55.8 ft./ 9.1 x 17.0 m.,2018,CM
+645,INDIA,Chennai,,Luxe IMAX,IMAX,D,3D,F,,35.1 x 63.2 ft./ 10.7 x 19.3 m.,2012/11/02,CM
+646,INDIA,Chennai,,Palazzo IMAX,IMAX,D,3D,F,,39.1 x 70.0 ft./ 11.9 x 21.3 m.,2012/12/15,CM
+647,INDIA,Delhi,,Delhi PVR Vegas Mall,IMAX,D,3D,F,,38.1 x 68.1 ft./ 11.6 x 20.8 m.,2018/12/13,CM
+648,INDIA,Hyderabad,,Prasads IMAX,CHRIS,DL2,3D,F,630,72.0 x 95.0 ft./ 22.0 x 29.0 m.,2003/07/23,CM
+649,INDIA,Kolkatta,,INOX South City Mall & IMAX,IMAX,D,3D,F,,27.6 x 50.1 ft./ 8.4 x 15.3 m.,2018/07/20,CM
+650,INDIA,Mumbai,,Cinepolis Seawoods Grand Central Mall & IMAX,IMAX,D,3D,F,,,2020,CM
+651,INDIA,Mumbai,,INOX Inorbit Mall & IMAX,IMAX,D,3D,F,,31.9 x 57.2 ft./ 9.7 x 17.4 m.,2018/06/28,CM
+652,INDIA,Mumbai,,INOX R-City Mall Ghatkoper & IMAX,IMAX,D,3D,F,,30.2 x 54.8 ft./ 9.2 x 16.7 m.,2017/01/31,CM
+653,INDIA,Mumbai,,Mumbai INOX 4,IMAX,D,3D,F,,28.9 x 52.1 ft./ 8.8 x 15.9 m.,2018/10/12,CM
+654,INDIA,Mumbai,,Nehru Science Centre,GOTO,1070,2D,D,220,59.0 ft./ 18.0 m.,2008/12/19,N
+655,INDIA,Mumbai,,PVR Phoenix IMAX,IMAX,DL,3D,F,,30.7 x 59.4 ft./ 9.4 x 18.1 m.,2013/06/14,CM
+656,INDIA,New Delhi,,BAPS Shree Swaminarayan Mandir,BARCO,DL2,2D,F,512,57.0 x 76.0 ft./ 17.4 x 23.2 m.,2005/11/04,N
+657,INDIA,New Delhi,,PVR Ambience Gold & IMAX,IMAX,D,3D,F,,29.5 x 53.1 ft./ 9.0 x 16.2 m.,2018/02/05,CM
+658,INDIA,New Delhi,,PVR Select City Walk Gold & IMAX,IMAX,DL,3D,F,,29.9 x 53.4 ft./ 9.1 x 16.3 m.,2017/12/20,CM
+659,INDIA,Pune,,Cinepolis Westend Mall Sumashilp Pune & IMAX,IMAX,D,3D,F,,30.6 x 55.2 ft./ 9.3 x 16.8 m.,2016/09/23,CM
+660,INDIA,Thane,,Cinepolis Vivana Mall & IMAX,IMAX,D,3D,F,,31.6 x 56.9 ft./ 9.6 x 17.3 m.,2014/11/20,CM
+661,INDONESIA,Bekasi,,Summarecon Mal Bekasi & IMAX,IMAX,D,3D,F,,38.5 x 68.2 ft./ 11.7 x 20.8 m.,2015/04,CM
+662,INDONESIA,Jakarta,,Gandaria XXI IMAX,IMAX,DL,3D,F,391,35.3 x 67.0 ft./ 10.8 x 20.4 m.,2012/05/04,CM
+663,INDONESIA,North Jakarta,,Gading XXI IMAX,IMAX,D,3D,F,,46.9 x 77.3 ft./ 14.3 x 23.6 m.,2013/04/25,CM
+664,INDONESIA,Surabaya,,Cinema XXI & IMAX,IMAX,D,3D,F,,42.3 x 75.1 ft./ 12.9 x 22.9 m.,2017/02/22,CM
+665,INDONESIA,Surabaya,,Tunjungan 5 XXI & IMAX,IMAX,D,3D,F,,40.7 x 73.1 ft./ 12.4 x 22.3 m.,2015/09/11,CM
+666,INDONESIA,Tangerang,,Cinema XXI The Breeze & IMAX,IMAX,D,3D,F,,35.8 x 64.6 ft./ 10.9 x 19.7 m.,2017/11/15,CM
+667,IRELAND,Dublin,,Cineworld Dublin & IMAX,IMAX,D,3D,F,400,32.6 x 61.0 ft./ 9.9 x 18.6 m.,2012/12/14,CM
+668,IRELAND,Dublin,,ODEON Blanchardstown & IMAX,IMAX,D,3D,F,,29.2 x 53.8 ft./ 8.9 x 16.4 m.,2017,CM
+669,ISRAEL,Be'er Sheva,,Yes Planet Be'er Sheva & IMAX,IMAX,D,3D,F,,59.0 x 77.9 ft./ 18.0 x 23.8 m.,2016/05/26,CM
+670,ISRAEL,Jerusalem,,Yes Planet Jerusalem & IMAX,IMAX,D,3D,F,,29.0 x 54.0 ft./ 8.8 x 16.5 m.,2015/08/12,CM
+671,ISRAEL,Rishon Lezion,,Yes Planet Rishon Lezion & LG IMAX,IMAX,D,3D,F,403,31.9 x 56.9 ft./ 9.7 x 17.4 m.,2012/07/19,CM
+672,ITALY,Afragola,,Happy MaxiCinema & IMAX,IMAX,D,3D,F,,33.8 x 63.0 ft./ 10.3 x 19.2 m.,2015/11/05,CM
+673,ITALY,Bergamo,,UCI Cinemas Orio & IMAX,IMAX,DL2,3D,F,,,2017/07,CM
+674,ITALY,Florence,,UCI Luxe Campi Bisenzio & IMAX,IMAX,D,3D,F,,35.2 x 64.0 ft./ 10.7 x 19.5 m.,2018/11/15,CM
+675,ITALY,Milan,,UCI Pioltello IMAX,IMAX,D,3D,F,343,35.9 x 64.4 ft./ 11.0 x 19.6 m.,2011/05/18,CM
+676,ITALY,Rome,,UCI Cinemas Porta di Roma & IMAX,IMAX,D,3D,F,,,2020/01,CM
+677,ITALY,Sesto San Giovanni,,Skyline Multiplex & IMAX,IMAX,D,3D,F,,31.9 x 60.4 ft./ 9.7 x 18.4 m.,2013/06/20,CM
+678,JAPAN,Fujisawa City,,109 Cinemas Shonan & IMAX,IMAX,D,3D,F,310,37.8 x 67.6 ft./ 11.5 x 20.6 m.,2011/11/11,CM
+679,JAPAN,Fukita-shi,,109 Cinemas Osaka Expocity & IMAX,IMAX,DL2,3D,F,,59.0 x 85.3 ft./ 18.0 x 26.0 m.,2015/11/17,CM
+680,JAPAN,Fukuoka,,United Cinemas Canal City & IMAX,IMAX,DL,3D,F,360,27.5 x 49.6 ft./ 8.4 x 15.1 m.,2010/11/19,CM
+681,JAPAN,Hiroshima,,Fukuyama Eigaru 8 & IMAX,IMAX,D,3D,F,,28.2 x 52.5 ft./ 8.6 x 16.0 m.,2015/11/27,CM
+682,JAPAN,Hiroshima,,T-JOY Hiroshima Wald 11 & IMAX,IMAX,D,3D,F,,26.8 x 50.0 ft./ 8.2 x 15.2 m.,2017/12/15,CM
+683,JAPAN,Ichihara City,,US Cinemas Chiharadai & IMAX,IMAX,D,3D,F,,30.3 x 57.1 ft./ 9.2 x 17.4 m.,2017/08/04,CM
+684,JAPAN,Kagoshima,,Kagoshima Mitte 10 & IMAX,IMAX,D,3D,F,,26.6 x 49.2 ft./ 8.1 x 15.0 m.,2018/07/13,CM
+685,JAPAN,Kawasaki,,109 Cinemas Kawasaki & IMAX,IMAX,DL,3D,F,449,29.5 x 57.1 ft./ 9.0 x 17.4 m.,2009/06/19,CM
+686,JAPAN,Kyoto,,TOHO Cinemas Nijo & IMAX,IMAX,D,3D,F,,34.0 x 63.2 ft./ 10.4 x 19.3 m.,2015/12/18,CM
+687,JAPAN,Matsudo,,United Cinemas Matsudo & IMAX,IMAX,DL,2D,F,,,2020/03,CM
+688,JAPAN,Matsuyama-shi,,Cinema Sunshine Kinuyama & IMAX,IMAX,D,3D,F,269,26.7 x 50.0 ft./ 8.2 x 15.2 m.,2012/12,CM
+689,JAPAN,Minamisaitama-gun,,109 Cinemas Shobu & IMAX,IMAX,D,3D,F,349,32.2 x 60.4 ft./ 9.8 x 18.4 m.,2009/06/19,CM
+690,JAPAN,Nagoya-shi,,109 Cinemas Nagoya IMAX,IMAX,DL,3D,F,316,28.9 x 56.1 ft./ 8.8 x 17.1 m.,2009/12/22,CM
+691,JAPAN,Narita,,Narita Humax Cinemas IMAX,IMAX,D,3D,F,467,45.4 x 80.0 ft./ 13.8 x 24.4 m.,2012/05/25,CM
+692,JAPAN,Okinawa,,United Cinemas Parco City Urasoe & IMAX,IMAX,DL,2D,F,,,2020/03,CM
+693,JAPAN,Osaka,,109 Cinemas Minoh IMAX,IMAX,D,3D,F,273,28.5 x 52.5 ft./ 8.7 x 16.0 m.,2009/06/19,CM
+694,JAPAN,Osaka,,TOHO Cinemas Namba & IMAX,IMAX,D,3D,F,,,2016/12/15,CM
+695,JAPAN,Sapporo,,United Cinemas Sapporo Factory & IMAX,IMAX,DL,3D,F,467,45.5 x 81.8 ft./ 13.9 x 24.9 m.,2010/11/19,CM
+696,JAPAN,Tokyo,,109 Cinemas Futako Tamagawa & IMAX,IMAX,D,3D,F,,32.5 x 60.6 ft./ 9.9 x 18.5 m.,2015/04/21,CM
+697,JAPAN,Tokyo,,109 Cinemas Grandberry & IMAX,IMAX,D,3D,F,342,28.3 x 55.1 ft./ 8.6 x 16.8 m.,2010/11/06,CM
+698,JAPAN,Tokyo,,109 Cinemas Kiba & IMAX,IMAX,D,3D,F,305,29.8 x 58.9 ft./ 9.1 x 18.0 m.,2011/07/15,CM
+699,JAPAN,Tokyo,,Katsushika City Museum,KM,D,2D,D,181,59.4 ft./ 18.1 m.,1991/07/20,N
+700,JAPAN,Tokyo,,Tamarokuto Science Center,GOTO,D,2D,D,254,90.8 ft./ 27.7 m.,1995,N
+701,JAPAN,Tokyo,,Toho Cinemas Shinjyuku & IMAX,IMAX,D,3D,F,,35.8 x 63.8 ft./ 10.9 x 19.5 m.,2015/04/17,CM
+702,JAPAN,Tokyo,,United Cinemas Toshimaen & IMAX,IMAX,DL,3D,F,383,31.2 x 62.4 ft./ 9.5 x 19.0 m.,2011/05/19,CM
+703,JAPAN,Toyohashi,,United Cinemas Toyohashi 18 & IMAX,IMAX,D,3D,F,,30.2 x 55.8 ft./ 9.2 x 17.0 m.,2014/06/13,CM
+704,JAPAN,Tsuchiura-shi,,Cinema Sunshine Tsuchiura & IMAX,IMAX,D,3D,F,259,30.3 x 54.8 ft./ 9.2 x 16.7 m.,2012/12/14,CM
+705,JAPAN,Yokohama,,TOHO Cinemas LaLaport Yokohama & IMAX,IMAX,D,3D,F,,,2016/12/16,CM
+706,JORDAN,Amman,,Grand Cinemas City Mall & IMAX,IMAX,D,3D,F,,35.3 x 64.0 ft./ 10.8 x 19.5 m.,2013/10/16,CM
+707,KAZAKHSTAN,Almaty,,Kinopark 11 Esentai IMAX,IMAX,D,3D,F,390,36.0 x 68.0 ft./ 11.0 x 20.7 m.,2012/10/25,CM
+708,KAZAKHSTAN,Astana,,IMAX Kinopark Keruen,IMAX,D,3D,F,261,25.9 x 52.0 ft./ 7.9 x 15.9 m.,2010/11/20,CM
+709,KAZAKHSTAN,Astana,,Kinopark 8 Saryarka & IMAX,IMAX,D,3D,F,,33.5 x 60.6 ft./ 10.2 x 18.5 m.,2016/12/30,CM
+710,KENYA,Nairobi,,Century Cinemax Garden City Mall & IMAX,IMAX,D,3D,F,,31.2 x 56.0 ft./ 9.5 x 17.1 m.,2016/11/18,CM
+711,KENYA,Nairobi,,IMAX 20th Century,IMAX,D,3D,F,279,30.0 x 55.4 ft./ 9.1 x 16.9 m.,2012/04,CM
+712,KUWAIT,Fahaheel,,Cinescape Al-Kout &  IMAX,IMAX,DL,3D,F,,38.8 x 69.0 ft./ 11.8 x 21.0 m.,2018/11/08,CM
+713,KUWAIT,Kuwait City,,360 Kuwait & IMAX,IMAX,D,3D,F,317,38.7 x 68.9 ft./ 11.8 x 21.0 m.,2009/07/05,CM
+714,KUWAIT,Salmiya,,Scientific Center of Kuwait,IMAX,DL2,3D,F,250,48.4 x 65.6 ft./ 14.8 x 20.0 m.,2000/12/27,N
+715,KYRGYZSTAN,Bishkek,,Cosmopark IMAX,IMAX,D,3D,F,,39.0 x 69.7 ft./ 11.9 x 21.3 m.,2016/07/21,CM
+716,KYRGYZSTAN,Bishkek,,Dordoi Plaza & IMAX,IMAX,D,3D,F,,42.2 x 73.8 ft./ 12.9 x 22.5 m.,2018/09/29,CM
+717,LEBANON,Beirut,,VOX Cinemas & IMAX,IMAX,D,3D,F,,37.2 x 68.3 ft./ 11.3 x 20.8 m.,2016/09/10,CM
+718,MALAYSIA,Genting Highlands,,"Bona Cinemas IMAX, Genting",IMAX,D,3D,F,,36.9 x 70.1 ft./ 11.3 x 21.4 m.,2018,CM
+719,MALAYSIA,Johor Bahru,,TGV Tebrau & IMAX,IMAX,D,3D,F,,35.0 x 63.7 ft./ 10.7 x 19.4 m.,2013/12/11,CM
+720,MALAYSIA,Kuala Lumpur,,National Planetarium,SS,D,2D,D,200,65.6 ft./ 20.0 m.,1994,N
+721,MALAYSIA,Kuala Lumpur,,TGV Sunway Velocity & IMAX,IMAX,D,3D,F,,63.7 x 85.0 ft./ 19.4 x 25.9 m.,2016/12/08,CM
+722,MALAYSIA,Penang,,TGV Gurney Paragon & IMAX,IMAX,D,3D,F,,38.1 x 67.0 ft./ 11.6 x 20.4 m.,2014/04/03,CM
+723,MALAYSIA,Petaling Jaya,,TGV 1 Utama & IMAX,IMAX,D,3D,F,300,41.2 x 72.2 ft./ 12.5 x 22.0 m.,2012/12/13,CM
+724,MALAYSIA,Shah Alam,,Central i-City Mall & IMAX,IMAX,D,3D,F,,45.4 x 80.0 ft./ 13.8 x 24.4 m.,2018,CM
+725,MEXICO,Aguascalientes,,Descubre Museo Interactivo de Ciencia,IMAX,1570,2D,D,330,78.7 ft./ 24.0 m.,1996/11/20,N
+726,MEXICO,Metepec,,Cinepolis Galerias Metepec IMAX Theatre,IMAX,D,3D,F,432,34.8 x 61.4 ft./ 10.6 x 18.7 m.,2008/12/05,CM
+727,MEXICO,Naucalpan,,Cinepolis Plaza Satelite & IMAX,IMAX,D,3D,F,,33.3 x 60.0 ft./ 10.2 x 18.3 m.,2017/09/27,CM
+728,MEXICO,Toluca,,Cinepolis IMAX Toluca Centro,IMAX,D,3D,F,300,60.0 x 80.0 ft./ 18.3 x 24.4 m.,2009/06/30,CM
+729,MONGOLIA,Ulaanbaatar,,Urgoo Cinemas & IMAX,IMAX,D,3D,F,,35.1 x 63.6 ft./ 10.7 x 19.4 m.,2016/07/22,CM
+730,MOROCCO,Casablanca,,IMAX Theatre Morocco Mall,IMAX,D,3D,F,335,39.5 x 70.0 ft./ 12.1 x 21.3 m.,2011/12/04,CM
+731,NETHERLANDS,Amsterdam,,Pathe Arena & IMAX,IMAX,DL,3D,F,480,34.0 x 67.0 ft./ 10.4 x 20.4 m.,2005/03/11,CM
+732,NETHERLANDS,Eindhoven,,Pathe Eindhoven & IMAX,IMAX,D,3D,F,438,23.0 x 59.0 ft./ 7.0 x 18.0 m.,2010/03/10,CM
+733,NETHERLANDS,Hague,,Omniversum,ES,DL5,2D,D,296,75.5 ft./ 23.0 m.,1984/12/12,C
+734,NETHERLANDS,Hague,,Pathe Spuimarkt & IMAX,IMAX,DL,3D,F,492,36.1 x 68.9 ft./ 11.0 x 21.0 m.,2012/12/10,CM
+735,NETHERLANDS,Tilburg,,Pathe Tilburg & IMAX,IMAX,D,3D,F,366,32.8 x 62.3 ft./ 10.0 x 19.0 m.,2012/12/10,CM
+736,NEW ZEALAND,Auckland,,Event Cinemas Queen Street & IMAX,IMAX,DL2,3D,F,436,65.3 x 88.6 ft./ 19.9 x 27.0 m.,1999/07/29,CM
+737,NIGERIA,Lagos,,Filmhouse & IMAX,IMAX,D,3D,F,,39.9 x 70.1 ft./ 12.2 x 21.4 m.,2016/09/09,CM
+738,NORWAY,Oslo,,ODEON Oslo & IMAX,IMAX,DL2,3D,F,,44.9 x 79.3 ft./ 13.7 x 24.2 m.,2018/03/22,CM
+739,OMAN,Muscat,,VOX Cinemas City Centre Qurum & IMAX,IMAX,D,3D,F,,35.2 x 63.4 ft./ 10.7 x 19.3 m.,2016/09/10,CM
+740,PAKISTAN,Lahore,,CineStar IMAX,IMAX,D,3D,F,,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2014/06/26,CM
+741,PANAMA,Panama City,,Panama Canal IMAX Theater,IMAX,DL2,3D,F,,45.2 x 78.7 ft./ 13.8 x 24.0 m.,2018/12/13,CM
+742,PANAMA,Panama City,,Panama City Altaplaza & IMAX,IMAX,D,3D,F,,30.5 x 55.1 ft./ 9.3 x 16.8 m.,2016/02/27,CM
+743,PHILIPPINES,Angeles City,,IMAX Clark,IMAX,D,3D,F,450,40.5 x 72.0 ft./ 12.3 x 22.0 m.,2012/12/14,CM
+744,PHILIPPINES,Cebu,,SM Cinema Cebu,IMAX,D,3D,F,457,39.0 x 69.9 ft./ 11.9 x 21.3 m.,2010/07/09,CM
+745,PHILIPPINES,Davao City,,SM Cinema Lanang Premier & IMAX,IMAX,D,3D,F,457,40.6 x 72.2 ft./ 12.4 x 22.0 m.,2012/09/27,CM
+746,PHILIPPINES,Las Pinas,,SM Southmall IMAX,IMAX,D,3D,F,440,38.4 x 69.2 ft./ 11.7 x 21.1 m.,2011/07/14,CM
+747,PHILIPPINES,Las Pinas,,Vista Cinemas & IMAX,IMAX,DL,3D,F,,,2018/11/19,CM
+748,PHILIPPINES,Mandaluyong City,,IMAX Megamall,IMAX,D,3D,F,,40.2 x 73.6 ft./ 12.3 x 22.4 m.,2013/11/15,CM
+749,PHILIPPINES,Manila,,IMAX SM North Edsa,IMAX,D,3D,F,472,29.2 x 52.5 ft./ 8.9 x 16.0 m.,2009/07/16,CM
+750,PHILIPPINES,Manila,,SM Mall of Asia IMAX,IMAX,1570+D,3D,F,586,72.0 x 95.0 ft./ 22.0 x 29.0 m.,2006/05/21,CM
+751,PHILIPPINES,Taguig City,,SM Cinema Aura Premier & IMAX,IMAX,D,3D,F,,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2013/05/17,CM
+752,POLAND,Katowice,,Cinema City IMAX Katowice,IMAX,D,3D,F,396,60.0 x 79.4 ft./ 18.3 x 24.2 m.,2002/07/05,CM
+753,POLAND,Krakow,,Cinema City IMAX Krakow,IMAX,D,3D,F,424,57.1 x 79.0 ft./ 17.4 x 24.1 m.,2001/12/15,CM
+754,POLAND,Lodz,,Cinema City IMAX Lodz,IMAX,D,3D,F,399,60.1 x 79.4 ft./ 18.3 x 24.2 m.,2006/05/17,CM
+755,POLAND,Poznan,,Cinema City IMAX Poznan,IMAX,D,3D,F,458,61.0 x 79.4 ft./ 18.6 x 24.2 m.,2005/06,CM
+756,POLAND,Warsaw,,Cinema City IMAX Warszawa,IMAX,D,3D,F,383,60.0 x 79.5 ft./ 18.3 x 24.2 m.,2000/09/11,CM
+757,POLAND,Wroclaw,,Cinema City Wroclavia & IMAX,IMAX,D,3D,F,,56.5 x 75.6 ft./ 17.2 x 23.0 m.,2017,CM
+758,PORTUGAL,Alcabideche,,Cinemas NOS Cascaishoping & IMAX,IMAX,D,3D,F,,38.0 x 68.4 ft./ 11.6 x 20.9 m.,2017/11/16,CM
+759,PORTUGAL,Lisbon,,Cinema NOS Colombo & IMAX,IMAX,D,3D,F,,39.3 x 70.2 ft./ 12.0 x 21.4 m.,2013/03,CM
+760,PORTUGAL,Matosinhos,,Cinema NOS Marshopping & IMAX,IMAX,D,3D,F,,42.2 x 74.9 ft./ 12.9 x 22.8 m.,2015/04/02,CM
+761,QATAR,Doha,,"IMAX 3D, Villagio Mall",IMAX,D,3D,F,283,43.6 x 69.9 ft./ 13.3 x 21.3 m.,2009/10/28,CM
+762,QATAR,Doha,,"Novo Cinemas IMAX ""The Pearl""",IMAX,D,3D,F,,32.0 x 57.8 ft./ 9.8 x 17.6 m.,2014/07/28,CM
+763,QATAR,Doha,,Novo Mall of Qatar & IMAX,IMAX,DL2,3D,F,,52.1 x 94.0 ft./ 15.9 x 28.7 m.,2016/12/10,CM
+764,ROMANIA,Bucharest,,"T IMAX, AFI Palace Cotroceni",IMAX,D,3D,F,398,45.9 x 75.4 ft./ 14.0 x 23.0 m.,2009/11/02,CM
+765,ROMANIA,Timisoara,,Cinema City IMAX Shopping City,IMAX,D,3D,F,,52.9 x 70.4 ft./ 16.1 x 21.5 m.,2016/04/15,CM
+766,RUSSIA,Anapa,,Kinocentr na Krasnoy Ploschadi IMAX,IMAX,D,3D,F,326,31.1 x 58.1 ft./ 9.5 x 17.7 m.,2012/08/30,CM
+767,RUSSIA,Barnaul,,Kinomir IMAX Barnaul,IMAX,D,3D,F,,45.2 x 78.2 ft./ 13.8 x 23.8 m.,2015/02/05,CM
+768,RUSSIA,Chelyabinsk,,Cinema Park IMAX Chelyabinsk,IMAX,D,3D,F,,,2013/04/30,CM
+769,RUSSIA,Irkutsk,,Barguzin & IMAX,IMAX,D,3D,F,,40.1 x 71.9 ft./ 12.2 x 21.9 m.,2016/12/15,CM
+770,RUSSIA,Kaliningrad,,Cinema Park IMAX Kaliningrad,IMAX,D,3D,F,,38.5 x 68.5 ft./ 11.7 x 20.9 m.,2013/04/27,CM
+771,RUSSIA,Krasnodar,,IMAX Theatre Seven Stars Mall,IMAX,D,3D,F,518,47.6 x 90.4 ft./ 14.5 x 27.6 m.,2011/05/18,CM
+772,RUSSIA,Krasnoyarsk,,Cinema Park IMAX Krasnoyarsk,IMAX,D,3D,F,,39.1 x 70.0 ft./ 11.9 x 21.3 m.,2015/08/18,CM
+773,RUSSIA,Kursk,,Cinema 5 Kursk & IMAX,IMAX,D,3D,F,,35.9 x 64.7 ft./ 10.9 x 19.7 m.,2017/12/16,CM
+774,RUSSIA,Lipetsk,,Kinomax-Riviera & IMAX,IMAX,D,3D,F,,38.7 x 69.3 ft./ 11.8 x 21.1 m.,2017/01/31,CM
+775,RUSSIA,Moscow,,Coca-Cola IMAX @ MEGA Tepliy Stan,IMAX,D,3D,F,475,34.1 x 65.9 ft./ 10.4 x 20.1 m.,2010/03/05,CM
+776,RUSSIA,Moscow,,Coca-Cola IMAX KinoStar New York @ MEGA Belaya Dacha,IMAX,D,3D,F,376,33.5 x 60.0 ft./ 10.2 x 18.3 m.,2009/03/08,CM
+777,RUSSIA,Moscow,,"Formula Kino City, IMAX Sapphire",IMAX,D,3D,F,78,29.3 x 52.1 ft./ 8.9 x 15.9 m.,2011/10/06,CM
+778,RUSSIA,Moscow,,Formula Kino Kutuzovsky & IMAX,IMAX,DL2,3D,F,,51.1 x 90.7 ft./ 15.6 x 27.7 m.,2016/08/25,CM
+779,RUSSIA,Moscow,,Formula Kino Polezhaevskaya & IMAX,IMAX,D,3D,F,,37.6 x 67.3 ft./ 11.5 x 20.5 m.,2016/09/24,CM
+780,RUSSIA,Moscow,,IMAX Kinostar DeLux @ MEGA Khimki,IMAX,D,3D,F,372,33.0 x 60.7 ft./ 10.1 x 18.5 m.,2011/02/03,CM
+781,RUSSIA,Moscow,,Karo IMAX Moscow,IMAX,D,3D,F,323,29.6 x 54.8 ft./ 9.0 x 16.7 m.,2010/12/16,CM
+782,RUSSIA,Moscow,,Karo Kuntsevo 13 & IMAX,IMAX,D,3D,F,,38.5 x 69.0 ft./ 11.7 x 21.0 m.,2017/10/18,CM
+783,RUSSIA,Moscow,,Kinomax Kozhukhovskaya & IMAX,IMAX,D,3D,F,,37.9 x 70.0 ft./ 11.6 x 21.3 m.,2015/05/21,CM
+784,RUSSIA,Moscow,,Kinomax Prazhskaya & IMAX,IMAX,D,3D,F,,38.1 x 68.9 ft./ 11.6 x 21.0 m.,2015/05/28,CM
+785,RUSSIA,Moscow,,Kinomax Titan Moscow & IMAX,IMAX,DL2,3D,F,,51.4 x 92.0 ft./ 15.7 x 28.0 m.,2018/08/03,CM
+786,RUSSIA,Moscow,,Kinosfera IMAX,IMAX,D,3D,F,371,53.0 x 74.9 ft./ 17.0 x 22.0 m.,2003/04/03,CM
+787,RUSSIA,Mytischy,,MORI Cinema & IMAX Mytishchi,IMAX,D,3D,F,,42.3 x 74.2 ft./ 12.9 x 22.6 m.,2013/02,CM
+788,RUSSIA,Naberezhnye Chelny,,Cinema Park SLC TORGOVYI KVARTAL & IMAX,IMAX,D,3D,F,,30.6 x 55.3 ft./ 9.3 x 16.9 m.,2013/03/29,CM
+789,RUSSIA,Nizhny Novgorod,,Cinema Park Deluxe IMAX,IMAX,D,3D,F,387,39.5 x 70.0 ft./ 12.1 x 21.3 m.,2012/04/26,CM
+790,RUSSIA,Novokuznetsk,,Formula Kino IMAX Novokuznetsk,IMAX,D,3D,F,,38.8 x 69.7 ft./ 11.8 x 21.3 m.,2014/12/18,CM
+791,RUSSIA,Novosibirsk,,Cinema Park Novosibirsk & IMAX,IMAX,D,3D,F,425,31.2 x 62.6 ft./ 9.5 x 19.1 m.,2010/11/18,CM
+792,RUSSIA,Perm,,Kristall IMAX,IMAX,D,3D,F,254,44.0 x 68.6 ft./ 13.4 x 20.9 m.,2010/04/08,CM
+793,RUSSIA,Rostov-on-Don,,Kinomax Rostov-on-Don & IMAX,IMAX,D,3D,F,,40.0 x 71.2 ft./ 12.2 x 21.7 m.,2018/11,CM
+794,RUSSIA,Ryazan,,Kinomax IMAX Ryazan,IMAX,D,3D,F,392,39.3 x 70.0 ft./ 12.0 x 21.3 m.,2012/09,CM
+795,RUSSIA,Saint Petersburg,,Coca-Cola IMAX Kinostar City,IMAX,D,3D,F,401,35.1 x 67.1 ft./ 10.7 x 20.5 m.,2007/04/26,CM
+796,RUSSIA,Saint Petersburg,,Formula Kino Gallery & IMAX,IMAX,D,3D,F,297,31.8 x 61.5 ft./ 9.7 x 18.8 m.,2010/12/16,CM
+797,RUSSIA,Saint Petersburg,,Formula Kino Gemchuzhina & IMAX,IMAX,D,3D,F,,32.2 x 58.4 ft./ 9.8 x 17.8 m.,2013/09/19,CM
+798,RUSSIA,Saint Petersburg,,"Formula Kino Piterland, IMAX Sapphire",IMAX,D,3D,F,,26.7 x 49.0 ft./ 8.1 x 14.9 m.,2013/09/12,CM
+799,RUSSIA,Samara,,Kinomax-Samara & IMAX,IMAX,D,3D,F,,39.8 x 70.9 ft./ 12.1 x 21.6 m.,2017/04/08,CM
+800,RUSSIA,Saratov,,Cinema Park IMAX Triumph,IMAX,D,3D,F,299,27.0 x 49.1 ft./ 8.2 x 15.0 m.,2010/12/16,CM
+801,RUSSIA,Stavropol,,Cinema Park Kosmos & IMAX,IMAX,D,3D,F,,38.9 x 69.7 ft./ 11.9 x 21.3 m.,2015/12/29,CM
+802,RUSSIA,Surgut,,Cinema Park Surgut & IMAX,IMAX,D,3D,F,354,36.4 x 65.3 ft./ 11.1 x 19.9 m.,2012/11/18,CM
+803,RUSSIA,Syktivkar,,Kronverk Cinema Maxi & IMAX,IMAX,D,3D,F,344,36.5 x 64.8 ft./ 11.1 x 19.8 m.,2012/12/19,CM
+804,RUSSIA,Tolyatti,,MORI Cinema & IMAX,IMAX,D,3D,F,,30.8 x 55.8 ft./ 9.4 x 17.0 m.,2014/06/28,CM
+805,RUSSIA,Tomsk,,Kinomax Tomsk & IMAX,IMAX,D,3D,F,,40.5 x 72.0 ft./ 12.3 x 22.0 m.,2013/12/18,CM
+806,RUSSIA,Tula,,Cinema Park Maxi Tula & IMAX,IMAX,D,3D,F,,32.5 x 58.5 ft./ 9.9 x 17.8 m.,2016/12/15,CM
+807,RUSSIA,Tumen,,Cinema Park Tumen & IMAX,IMAX,D,3D,F,337,28.5 x 54.6 ft./ 8.7 x 16.6 m.,2011/05/18,CM
+808,RUSSIA,Ufa,,Iskra IMAX,IMAX,D,3D,F,348,39.7 x 69.9 ft./ 12.1 x 21.3 m.,2009/12/24,CM
+809,RUSSIA,Ulan Ude,,People's Cinema IMAX,IMAX,D,3D,F,,40.6 x 72.2 ft./ 12.4 x 22.0 m.,2015/04/22,CM
+810,RUSSIA,Ulyanovsk,,Cinema Park IMAX (Aqua Mall),IMAX,D,3D,F,426,39.9 x 69.7 ft./ 12.2 x 21.3 m.,2012/09/13,CM
+811,RUSSIA,Vladivostock,,Kinomax Sapphire & IMAX,IMAX,D,3D,F,,,2019/01,CM
+812,RUSSIA,Vladivostok,,Ocean Cinema Theatre,IMAX,D,3D,F,,37.1 x 68.6 ft./ 11.3 x 20.9 m.,2014/12/10,CM
+813,RUSSIA,Volgograd,,Cinema Park IMAX Europe City Mall,IMAX,D,3D,F,367,28.7 x 55.0 ft./ 8.8 x 16.8 m.,2011/12/28,CM
+814,RUSSIA,Voronezh,,Cinema Park IMAX Gallery Center,IMAX,D,3D,F,491,44.5 x 78.6 ft./ 13.6 x 24.0 m.,2010/12/23,CM
+815,RUSSIA,Yekaterinburg,,Cinema Park IMAX Starlight,IMAX,D,3D,F,322,30.5 x 55.0 ft./ 9.3 x 16.8 m.,2010/12/16,CM
+816,SAUDI ARABIA,Abha,,Empire Cinemas - Abha & iMAX,IMAX,D,3D,F,300,,2020/11/15,CM
+817,SAUDI ARABIA,Al Khobar,,Sultan Bin Abdul Aziz Science and Technology Centre,IMAX,1570,2D,D,192,65.6 ft./ 20.0 m.,2005/11/08,N
+818,SAUDI ARABIA,"Hafr Al Batin,",,AMC Hafr Al Batin 8 & IMAX,IMAX,DL,3D,F,,,2020/11/10,CM
+819,SAUDI ARABIA,Jeddah,,AMC Stars Avenue 9 & IMAX,IMAX,DL,3D,F,135,,2021/04/08,CM
+820,SAUDI ARABIA,Jeddah,,VOX Jeddah Town Square & IMAX,IMAX,DL,3D,F,315,,2020/11/29,CM
+821,SAUDI ARABIA,Jeddah,,Vox Red Sea Mall & IMAX,IMAX,DL,3D,F,290,,2019/01/25,CM
+822,SAUDI ARABIA,Riyadh,,AMC Al Khair 9 & IMAX,IMAX,DL,3D,F,95,,2020/11/10,CM
+823,SAUDI ARABIA,RIYADH,,VOX Cinemas & IMAX,IMAX,D,3D,F,210,29.7 x 52.5 ft./ 9.1 x 16.0 m.,2018/05/04,CM
+824,SINGAPORE,Singapore,,Science Centre Singapore,ES,D,3D,D,276,75.5 ft./ 23.0 m.,1987/12/10,N
+825,SINGAPORE,Singapore,,Shaw Theatres Jcube & IMAX,IMAX,D,3D,F,159,31.3 x 56.0 ft./ 9.5 x 17.1 m.,2012/04/05,CM
+826,SINGAPORE,Singapore,,Shaw Theatres Lido & IMAX,IMAX,D,3D,F,425,29.5 x 62.3 ft./ 9.0 x 19.0 m.,2011/05/19,CM
+827,SINGAPORE,Singapore,,Shaw Theatres Waterway Point & IMAX,IMAX,D,3D,F,,33.3 x 59.4 ft./ 10.2 x 18.1 m.,2016/01/21,CM
+828,SINGAPORE,Singapore,,"Singapore Discovery Centre, Ltd.",unk,D,3D,F,344,43.8 x 58.1 ft./ 13.1 x 18.1 m.,1996/12,N
+829,SLOVAKIA,Bratislava,,Cinemax Bratislava & IMAX,IMAX,D,3D,F,476,42.6 x 75.4 ft./ 13.0 x 23.0 m.,2015/06/11,CM
+830,SOUTH AFRICA,Bedfordview,,Ster-Kinekor Eastgate & IMAX,IMAX,D,3D,F,,38.0 x 68.1 ft./ 11.6 x 20.8 m.,2015/12/04,CM
+831,SOUTH AFRICA,Cape Town,,Ster Kinekor Blue Route Mall,IMAX,D,3D,F,,,2020/03,CM
+832,SOUTH AFRICA,Cape Town,,Ster-Kinekor Capegate & IMAX,IMAX,D,3D,F,,29.5 x 53.9 ft./ 9.0 x 16.4 m.,2014/12/10,CM
+833,SOUTH AFRICA,Johannesburg,,Ster-Kinekor & IMAX,IMAX,D,3D,F,,34.3 x 61.6 ft./ 10.5 x 18.8 m.,2016/04/28,CM
+834,SOUTH AFRICA,Krugersdorp,,Ster-Kinekor Cradlestone Mall & IMAX,IMAX,D,3D,F,,34.4 x 62.0 ft./ 10.5 x 18.9 m.,2015/07/03,CM
+835,SOUTH AFRICA,Port Elizabeth,,Ster-Kinekor Baywest Mall & IMAX,IMAX,D,3D,F,,33.3 x 60.0 ft./ 10.2 x 18.3 m.,2015/06/18,CM
+836,SOUTH AFRICA,Pretoria,,Ster-Kinekor The Grove & IMAX,IMAX,D,3D,F,,34.4 x 62.2 ft./ 10.5 x 19.0 m.,2014/06/26,CM
+837,SOUTH KOREA,Bucheon-si,,CGV Sopong & IMAX,IMAX,D,3D,F,,29.3 x 52.7 ft./ 8.9 x 16.1 m.,2014/11/06,CM
+838,SOUTH KOREA,Busan,,CGV Seomyeon IMAX,IMAX,D,3D,F,246,35.4 x 61.0 ft./ 10.8 x 18.6 m.,2006/06/28,CM
+839,SOUTH KOREA,Changwon,,CGV Changwon-The City & IMAX,IMAX,D,3D,F,,27.8 x 50.7 ft./ 8.5 x 15.5 m.,2014/04/16,CM
+840,SOUTH KOREA,Chuncheon-si,,CGV Chuncheon & IMAX,IMAX,D,3D,F,,30.9 x 55.1 ft./ 9.4 x 16.8 m.,2014/10/27,CM
+841,SOUTH KOREA,Daegu,,CGV Daegu IMAX,IMAX,D,3D,F,281,41.3 x 70.0 ft./ 12.6 x 21.3 m.,2007/09/30,CM
+842,SOUTH KOREA,Daejeon,,CGV Daejeon & IMAX,IMAX,D,3D,F,364,27.9 x 50.2 ft./ 8.5 x 15.3 m.,2010/12/15,CM
+843,SOUTH KOREA,Daejeon,,National Science Museum,GOTO,D,2D,D,283,75.4 ft./ 23.0 m.,1990,N
+844,SOUTH KOREA,Goyangsi,,CGV Ilsan IMAX,IMAX,D,3D,F,300,41.3 x 70.0 ft./ 12.6 x 21.3 m.,2007/03/29,CM
+845,SOUTH KOREA,Incheon,,CGV Incheon & IMAX,IMAX,D,3D,F,439,29.9 x 54.7 ft./ 9.1 x 16.7 m.,2005/12,CM
+846,SOUTH KOREA,Jeonju,,CGV Jeonju Hyoja & IMAX,IMAX,D,3D,F,,45.9 x 80.0 ft./ 14.0 x 24.4 m.,2014/08/28,CM
+847,SOUTH KOREA,Seongnam,,CGV IMAX Seongnam,IMAX,D,3D,F,,39.8 x 70.0 ft./ 12.1 x 21.3 m.,2015/08/20,CM
+848,SOUTH KOREA,Seoul,,CGV Cheonho & IMAX,IMAX,D,3D,F,,61.3 x 81.2 ft./ 18.7 x 24.8 m.,2015/07/07,CM
+849,SOUTH KOREA,Seoul,,CGV Wangsimni IMAX,IMAX,D,3D,F,303,40.4 x 69.9 ft./ 12.3 x 21.3 m.,2009/03/06,CM
+850,SOUTH KOREA,Suwon,,CGV Suwon & IMAX,IMAX,D,3D,F,337,29.3 x 53.1 ft./ 8.9 x 16.2 m.,2011/05/14,CM
+851,SOUTH KOREA,Uijeongbu,,CGV Uijeongbu & IMAX,IMAX,D,3D,F,,29.1 x 52.8 ft./ 8.9 x 16.1 m.,2016/12/02,CM
+852,SOUTH KOREA,Ulsan,,CGV Ulsan Samsan & IMAX,IMAX,D,3D,F,502,46.2 x 80.0 ft./ 14.1 x 24.4 m.,2013/05,CM
+853,SOUTH KOREA,Yongsang,,CGV Yongsan IMAX,IMAX,DL2,3D,F,,73.5 x 98.4 ft./ 22.4 x 30.0 m.,2005/12,CM
+854,SPAIN,Madrid,,Cinesa Las Rozas Madrid & IMAX,IMAX,D,3D,F,,32.7 x 58.4 ft./ 10.0 x 17.8 m.,2018/10/11,CM
+855,SPAIN,Madrid,,Cinesa Parquesur IMAX,IMAX,D,3D,F,418,33.4 x 62.3 ft./ 10.2 x 19.0 m.,2011/05/20,CM
+856,SPAIN,Valencia,,Hemisferic,IMAX,1570+D,2D,D,306,78.8 ft./ 24.0 m.,1998/04/16,N
+857,SWEDEN,Gothenburg,,Filmstaden Bergakungen & IMAX,IMAX,DL,3D,F,,,2021,CM
+858,SWEDEN,Stockholm,,Filmstaden Scandinavia & IMAX,IMAX,D,3D,F,,37.3 x 69.0 ft./ 11.4 x 21.0 m.,2015/11/12,CM
+859,SWEDEN,Stockholm,,Swedish Museum of Natural History,IMAX,1570+D,2D,D,291,75.5 ft./ 23.0 m.,1992/10/16,N
+860,SWITZERLAND,Ebikon-Lucerne,,Pathe Mall of Switzerland & IMAX,IMAX,DL2,3D,F,,40.9 x 73.8 ft./ 12.5 x 22.5 m.,2017/11/08,CM
+861,SWITZERLAND,Geneva,,Pathe Balexert & IMAX,IMAX,D,3D,F,,32.9 x 60.7 ft./ 10.0 x 18.5 m.,2013/11/27,CM
+862,SWITZERLAND,Lucerne,,Swiss Transport Museum,CHRIS,D,3D,F,398,62.4 x 82.0 ft./ 19.0 x 25.0 m.,1996/07,N
+863,SWITZERLAND,Muri bei Bern,,Cinedome Muri & IMAX,IMAX,D,3D,F,,36.9 x 66.8 ft./ 11.3 x 20.4 m.,2018/04/05,CM
+864,TAIWAN,Hsinchu,,Vieshow Big City Hsinchu & IMAX,IMAX,D,3D,F,302,31.8 x 58.3 ft./ 9.7 x 17.8 m.,2012/04/27,CM
+865,TAIWAN,Kaohsiung,,Kaohsiung VieShow IMAX,IMAX,D,3D,F,269,26.8 x 52.1 ft./ 8.2 x 15.9 m.,2010/04/29,CM
+866,TAIWAN,Kaohsiung,,National Science and Technology Museum,CHRIS,D,3D,F,306,56.4 x 74.4 ft./ 17.2 x 22.7 m.,1997/11/09,N
+867,TAIWAN,Keelung,,National Museum of Marine Science & Technology,IMAX,D,3D,F,,72.2 x 93.2 ft./ 22.0 x 28.4 m.,2012/07/31,N
+868,TAIWAN,Taichung,,National Museum of Natural Science,ES,D,2D,D,304,75.5 ft./ 23.0 m.,1986/01,N
+869,TAIWAN,Taichung,,Taichung FE VieShow IMAX Cinema,IMAX,D,3D,F,403,30.7 x 59.9 ft./ 9.4 x 18.3 m.,2011/12/30,CM
+870,TAIWAN,Taichung,,Vie Show Cinemas Taichung Tiger City IMAX,IMAX,D,3D,F,307,28.1 x 50.5 ft./ 8.6 x 15.4 m.,2011/11/25,CM
+871,TAIWAN,Tainan,,Vie Show T.S. Dream Mall & IMAX,IMAX,D,3D,F,,39.9 x 71.5 ft./ 12.2 x 21.8 m.,2015/01/26,CM
+872,TAIWAN,Taipei,,"Miramar IMAX, Miramar Cinemas",IMAX,DL2,3D,F,406,69.4 x 94.5 ft./ 21.2 x 28.4 m.,2004/11/19,CM
+873,TAIWAN,Taipei,,Sun VieShow IMAX,IMAX,D,3D,F,623,37.1 x 69.1 ft./ 11.3 x 21.1 m.,2009/04/03,CM
+874,TAIWAN,Taipei,,Taipei Astronomical Museum,GI,D,3D,D,304,82.0 ft./ 25.0 m.,1997/02/05,N
+875,TAIWAN,Taipei,,VieShow Cinemas Banqiao Mega City IMAX,IMAX,D,3D,F,427,37.6 x 70.0 ft./ 11.5 x 21.3 m.,2011,CM
+876,TAIWAN,Taoyuan City,,Taoyuan Taimall Miramar & IMAX,IMAX,D,3D,F,,32.0 x 58.3 ft./ 9.8 x 17.8 m.,2016/12/29,CM
+877,THAILAND,Bangkok,,IMAX Quartier Cine-Art,IMAX,D,3D,F,,44.9 x 84.3 ft./ 13.7 x 25.7 m.,2015/04/30,CM
+878,THAILAND,Bangkok,,KrungSri IMAX Paragon CinePlex,IMAX,1570+D,3D,F,491,65.4 x 89.4 ft./ 19.9 x 27.3 m.,1998/11/26,CM
+879,THAILAND,Bangkok,,"Krungsri IMAX, Major Cineplex Ratchayothin",IMAX,D,3D,F,467,55.8 x 78.7 ft./ 17.0 x 24.0 m.,2010/09/09,CM
+880,THAILAND,Bangkok,,Major Cineplex Icon Siam Bangkok,IMAX,D,3D,F,,46.1 x 80.0 ft./ 14.1 x 24.4 m.,2018,CM
+881,THAILAND,Chiangmai,,"Krungsri IMAX, Major Cineplex Central Festival Chiangmai",IMAX,D,3D,F,424,49.2 x 88.6 ft./ 15.0 x 27.0 m.,2013/11/14,CM
+882,THAILAND,Nonthaburi,,Westgate Cineplex & IMAX,IMAX,D,3D,F,,43.3 x 76.0 ft./ 13.2 x 23.2 m.,2015/08/29,CM
+883,TRINIDAD,Port of Spain,,Digicel IMAX,IMAX,D,3D,F,360,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2011/08/26,C
+884,TURKEY,Adana,,Cinemaximum M1 Adana & IMAX,IMAX,D,3D,F,,32.5 x 60.5 ft./ 9.9 x 18.4 m.,2018/10/19,CM
+885,TURKEY,Ankara,,Cinemaximum ANKAmall LG & IMAX,IMAX,D,3D,F,294,52.9 x 70.0 ft./ 16.1 x 21.3 m.,2000/01/22,CM
+886,TURKEY,Bursa,,Cinemaximum Sur Yapi Marka & IMAX,IMAX,D,3D,F,,42.5 x 74.1 ft./ 13.0 x 22.6 m.,2017/12/13,CM
+887,TURKEY,Istanbul,,Cinemaximum Akasya Acibadem LG & IMAX,IMAX,D,3D,F,,40.8 x 72.5 ft./ 12.4 x 22.1 m.,2014/03/07,CM
+888,TURKEY,Istanbul,,Cinemaximum Hilltown & IMAX,IMAX,D,3D,F,,31.6 x 60.1 ft./ 9.6 x 18.3 m.,2017/11/10,CM
+889,TURKEY,Istanbul,,Cinemaximum Marmara Park LG & IMAX,IMAX,D,3D,F,,39.1 x 70.0 ft./ 11.9 x 21.3 m.,2013/03/22,CM
+890,TURKEY,Istinye-Istanbul,,Cinemaximum IstinyePark LG & IMAX,IMAX,D,3D,F,311,32.7 x 52.3 ft./ 10.0 x 15.9 m.,2007/10/07,CM
+891,TURKEY,Izmir,,Cinemaximum MaviBahce & IMAX,IMAX,D,3D,F,,43.4 x 76.7 ft./ 13.2 x 23.4 m.,2015/12/18,CM
+892,UAE,Abu Dhabi,,VOX Al Maryah & IMAX,IMAX,DL,3D,F,410,,2019/09/04,CM
+893,UAE,Dubai,,Novo Cinemas Festival City & IMAX,IMAX,D,3D,F,,33.3 x 60.5 ft./ 10.2 x 18.4 m.,2016/09/05,CM
+894,UAE,Dubai,,Novo Cinemas Ibn Battuta Mall & IMAX,IMAX,D,3D,F,348,43.0 x 67.7 ft./ 13.1 x 20.6 m.,2005/06/22,CM
+895,UAE,Dubai,,Novo IMG Dubai & IMAX,IMAX,DL2,3D,F,,,2019/02/14,CM
+896,UAE,Dubai,,Vox Cinemas & IMAX,IMAX,DL2,3D,F,350,41.8 x 78.3 ft./ 12.7 x 23.9 m.,2015/09/28,CM
+897,UAE,Dubai,,VOX Cinemas Mirdif & IMAX,IMAX,D,3D,F,,,2018/06/07,CM
+898,UAE,Sharjah,,Cinemacity IMAX zero6,IMAX,D,3D,F,,,2018/04/10,CM
+899,UK,Ashton-Under-Lyne,,Cineworld Ashton-under-Lyne & IMAX,IMAX,D,3D,F,,,2014/07/10,CM
+900,UK,Basildon,,Cineworld Basildon & IMAX,IMAX,D,3D,F,,31.6 x 60.0 ft./ 9.6 x 18.3 m.,2015/06/11,CM
+901,UK,Birmingham,,Cineworld Birmingham & IMAX,IMAX,D,3D,F,353,30.6 x 60.0 ft./ 9.3 x 18.3 m.,2012/10,CM
+902,UK,Birmingham,,Cineworld Birmingham NEC & IMAX,IMAX,D,3D,F,,30.7 x 54.7 ft./ 9.4 x 16.7 m.,2015/10/23,CM
+903,UK,Birmingham,,Empire Birmingham Great Park & IMAX,IMAX,D,3D,F,,30.1 x 55.8 ft./ 9.2 x 17.0 m.,2015/06/11,CM
+904,UK,Bradford,,National Media Museum,IMAX,D,3D,F,349,48.0 x 65.0 ft./ 15.9 x 18.9 m.,1983/07/16,N
+905,UK,Cambridge,,Light Cinema Cambridge & IMAX,IMAX,D,3D,F,,27.5 x 52.0 ft./ 8.4 x 15.9 m.,2017/07/21,CM
+906,UK,Cardiff,,ODEON Cardiff & IMAX,IMAX,D,3D,F,286,25.3 x 55.1 ft./ 7.7 x 16.8 m.,2009/12/16,CM
+907,UK,Cheltenham,,Cineworld Cheltenham & IMAX,IMAX,D,3D,F,,26.0 x 49.8 ft./ 7.9 x 15.2 m.,2014/11/07,CM
+908,UK,Chichester,,Cineworld Chichester & IMAX,IMAX,D,3D,F,,26.6 x 47.9 ft./ 8.1 x 14.6 m.,2014/10/30,CM
+909,UK,Crawley,,Cineworld Crawley & IMAX,IMAX,D,3D,F,456,36.9 x 65.7 ft./ 11.2 x 20.0 m.,2012/03/09,CM
+910,UK,Edinburgh,,Cineworld Edinburgh & IMAX,IMAX,D,3D,F,273,34.1 x 60.1 ft./ 10.4 x 18.3 m.,2011/12/21,CM
+911,UK,Enfield,,Cineworld Enfield & IMAX,IMAX,D,3D,F,417,29.3 x 56.3 ft./ 8.9 x 17.2 m.,2012/10,CM
+912,UK,Gateshead,,ODEON Gateshead & IMAX,IMAX,D,3D,F,366,32.8 x 62.3 ft./ 10.0 x 19.0 m.,2009/12/16,CM
+913,UK,Greenhithe,,Showcase Cinemas Bluewater & IMAX,IMAX,D,3D,F,,28.1 x 52.5 ft./ 8.6 x 16.0 m.,2013/12/13,CM
+914,UK,Hemel Hempstead,,Cineworld Hemel Hempstead & IMAX,IMAX,D,3D,F,,31.6 x 59.4 ft./ 9.6 x 18.1 m.,2015/12/17,CM
+915,UK,Ipswich,,Cineworld Ipswich & IMAX,IMAX,D,3D,F,403,30.2 x 55.8 ft./ 9.2 x 17.0 m.,2012/10/26,CM
+916,UK,Kingston Upon Thames,,ODEON Kingston & IMAX,IMAX,D,3D,F,379,23.7 x 50.0 ft./ 7.2 x 15.2 m.,2010/12/03,CM
+917,UK,Leeds,,Cineworld Leeds & IMAX,IMAX,D,3D,F,,45.4 x 79.3 ft./ 13.8 x 24.2 m.,2017/11/17,CM
+918,UK,Leeds,,Vue Leeds Kirkstall Road & IMAX,IMAX,D,3D,F,,27.9 x 50.0 ft./ 8.5 x 15.2 m.,2015/07/30,CM
+919,UK,Liverpool,,ODEON Liverpool ONE & IMAX,IMAX,D,3D,F,280,32.0 x 58.4 ft./ 9.8 x 17.8 m.,2010/07,CM
+920,UK,London,,BFI IMAX Theater,IMAX,1570+D,3D,F,477,65.0 x 84.0 ft./ 19.8 x 25.6 m.,1999/05,N
+921,UK,London,,Cineworld Leicester Square & IMAX,IMAX,DL2,3D,F,750,45.8 x 87.0 ft./ 13.9 x 26.5 m.,2014/05/30,CM
+922,UK,London,,ODEON Greenwich & IMAX,IMAX,D,3D,F,286,26.0 x 50.0 ft./ 7.9 x 15.2 m.,2008/11/28,CM
+923,UK,London,,ODEON Swiss Cottage & IMAX,IMAX,D,3D,F,307,29.1 x 57.7 ft./ 8.9 x 17.6 m.,2011/09/16,CM
+924,UK,London,,"Science Museum, London",IMAX,1570+DL2,3D,F,450,58.1 x 79.7 ft./ 17.7 x 24.3 m.,2000/07/03,N
+925,UK,Manchester,,Odeon Trafford Centre,IMAX,D,3D,F,,31.8 x 58.5 ft./ 9.7 x 17.8 m.,2013/11/20,CM
+926,UK,Manchester,,Vue Manchester IMAX & The Printworks,IMAX,DL2,3D,F,378,61.7 x 86.3 ft./ 18.8 x 26.3 m.,2000/11/10,CM
+927,UK,Milton Keynes,,ODEON Milton Keynes & IMAX,IMAX,D,3D,F,,33.8 x 60.8 ft./ 10.3 x 18.5 m.,2015/02/27,CM
+928,UK,Norwich,,ODEON Norwich & IMAX,IMAX,D,3D,F,389,28.5 x 53.0 ft./ 8.7 x 16.2 m.,2010/10/09,CM
+929,UK,Nottingham,,Cineworld Nottingham & IMAX,IMAX,D,3D,F,453,29.5 x 56.3 ft./ 9.0 x 17.2 m.,2012/12/14,CM
+930,UK,Penrith,,Rheged Centre,CHRIS,D,3D,F,250,60.0 x 80.0 ft./ 18.3 x 24.4 m.,2000/07,C
+931,UK,Perth,,Perth Playhouse & IMAX,IMAX,D,3D,F,,23.5 x 47.6 ft./ 7.2 x 14.5 m.,2014/07/05,CM
+932,UK,Renfrew,,ODEON Braehead & IMAX,IMAX,D,3D,F,333,29.7 x 53.8 ft./ 9.1 x 16.4 m.,2010/11/19,CM
+933,UK,Sheffield,,Cineworld Sheffield & IMAX,IMAX,DL2,3D,F,585,42.4 x 78.4 ft./ 12.9 x 23.9 m.,2012/03/09,CM
+934,UK,South Wirral,,Vue Cheshire Oaks & IMAX,IMAX,D,3D,F,,32.0 x 57.1 ft./ 9.8 x 17.4 m.,2000/01/15,CM
+935,UK,Southampton,,ODEON Southampton & IMAX,IMAX,D,3D,F,333,28.5 x 54.1 ft./ 8.7 x 16.5 m.,2010/03/26,CM
+936,UK,Stevenage,,Cineworld Stevenage & IMAX,IMAX,D,3D,F,,28.2 x 52.5 ft./ 8.6 x 16.0 m.,2014/07/10,CM
+937,UK,Swindon,,Empire Swindon & IMAX,IMAX,D,3D,F,260,26.6 x 48.0 ft./ 8.1 x 14.6 m.,2016/03/25,CM
+938,UK,Telford,,Cineworld Telford & IMAX,IMAX,D,3D,F,,27.9 x 50.7 ft./ 8.5 x 15.5 m.,2014/08/07,CM
+939,UK,Uxbridge,,ODEON Uxbridge & IMAX,IMAX,D,3D,F,275,24.4 x 50.0 ft./ 7.4 x 15.2 m.,2010/11/12,CM
+940,UK,Wallsend,,ODEON Silverlink & IMAX,IMAX,D,3D,F,,32.3 x 57.4 ft./ 9.8 x 17.5 m.,2017/11/27,CM
+941,UK,Watford,,Cineworld Watford & IMAX,IMAX,DL,3D,F,,,2018/11,CM
+942,UK,Wimbledon,,ODEON Wimbledon & IMAX,IMAX,D,3D,F,343,26.0 x 50.0 ft./ 7.9 x 15.2 m.,2008/11/29,CM
+943,UK,York,,Cineworld York & IMAX,IMAX,DL,3D,F,,,2019/12/13,CM
+944,UKRAINE,Dnieper,,Multiplex & IMAX,IMAX,D,3D,F,,42.2 x 73.5 ft./ 12.9 x 22.4 m.,2016/12/14,CM
+945,UKRAINE,Kharkiv,,Planeta Kino IMAX,IMAX,D,3D,F,378,,2012/12/20,CM
+946,UKRAINE,Kiev,,Multiplex Lavina Mall & IMAX,IMAX,DL,3D,F,,,2020/01,CM
+947,UKRAINE,Kiev,,Planeta Kino Kyiv & IMAX,IMAX,D,3D,F,326,44.3 x 69.2 ft./ 13.5 x 21.1 m.,2008/09/20,CM
+948,Ukraine,Kiev,,Planeta Kino River Mall & IMAX,IMAX,DL,3D,F,,,2021,CM
+949,UKRAINE,Lviv,,Planeta Kino LVIV & IMAX,IMAX,D,3D,F,374,39.5 x 69.7 ft./ 12.0 x 21.2 m.,2010/12/16,CM
+950,UKRAINE,Odessa,,Planeta Kino & IMAX Odessa,IMAX,D,3D,F,,39.7 x 70.0 ft./ 12.1 x 21.3 m.,2014/05/15,CM
+951,UKRAINE,Yalta,,Planeta Kino IMAX Yalta,IMAX,D,3D,F,,39.0 x 70.0 ft./ 11.9 x 21.3 m.,2013/05/26,CM
+952,VIETNAM,Hanoi,,CGV Vincom Metropolis & IMAX,IMAX,D,3D,F,,37.1 x 66.6 ft./ 11.3 x 20.3 m.,2018/12/24,CM
+953,VIETNAM,Ho Chi Minh,,CGV Vincom Landmark & IMAX,IMAX,D,3D,F,,40.7 x 72.4 ft./ 12.4 x 22.1 m.,2018/08/08,CM
+954,VIETNAM,Ho Chi Minh City,,CGV SC VivoCity & IMAX,IMAX,D,3D,F,,37.2 x 66.3 ft./ 11.3 x 20.2 m.,2015/04/19,CM
+955,CANADA,Calgary,AB,Landmark Cinemas 16 Country Hills & IMAX,IMAX,D,3D,F,342,35.1 x 65.6 ft./ 10.7 x 20.0 m.,2011/07/15,CM
+956,CANADA,Calgary,AB,Scotiabank Chinook & IMAX,IMAX,1570+D,3D,F,260,53.1 x 70.0 ft./ 16.2 x 21.3 m.,2001/03/23,CM
+957,CANADA,Calgary,AB,Telus Spark,ES,D,3D,D,245,76.0 ft./ 23.0 m.,2012/03/31,N
+958,CANADA,Edmonton,AB,Scotiabank Edmonton & IMAX,IMAX,1570+D,3D,F,256,52.5 x 69.9 ft./ 16.0 x 21.3 m.,1999/05/14,CM
+959,CANADA,Edmonton,AB,Telus World of Science Edmonton,IMAX,DL2,3D,F,274,42.8 x 62.5 ft./ 13.0 x 19.1 m.,1984/07,N
+960,CHINA,Tongling,AH,Tongling Wanda & IMAX,IMAX,D,3D,F,,33.1 x 60.9 ft./ 10.1 x 18.6 m.,2014/12/02,CM
+961,JAPAN,Nagoya,Aichi,AEON Cinema Oodaka & IMAX,IMAX,D,3D,F,,31.8 x 58.5 ft./ 9.7 x 17.8 m.,2016/07,CM
+962,JAPAN,Toyohashi-shi,Aichi Pref.,Toyohashi Museum of Natural History,NEC,D,2D,F,320,42.9 x 59.4 ft./ 13.1 x 18.1 m.,1998,N
+963,USA,Anchorage,AK,Regal Tikahtnu Commons Stadium 16 & IMAX,IMAX,D,3D,F,350,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2010/06/11,CM
+964,USA,Fairbanks,AK,Regal Goldstream 16 & IMAX,IMAX,D,3D,F,250,27.6 x 52.2 ft./ 8.4 x 15.9 m.,2010/06/30,CM
+965,USA,Birmingham,AL,McWane Science Center,IMAX,DL,2D,D,280,78.7 ft./ 24.0 m.,1998/07/11,N
+966,USA,Hoover,AL,AMC Patton Creek 15 & IMAX,IMAX,D,3D,F,338,32.8 x 61.4 ft./ 10.0 x 18.7 m.,2010/11/19,CM
+967,USA,Huntsville,AL,AMC Valley Bend 18 & IMAX,IMAX,D,3D,F,338,34.6 x 60.5 ft./ 10.5 x 18.5 m.,2011/05/03,CM
+968,USA,Huntsville,AL,U.S. Space & Rocket Center,ES,DL5,2D,D,248,67.0 ft./ 20.4 m.,1982/12/19,N
+969,USA,Mobile,AL,Gulf Coast Exploreum Science Center,D3D,DL3,2D,D,177,58.8 ft./ 20.4 m.,1998/10/10,N
+970,USA,Montgomery,AL,AMC Festival Plaza 16 & IMAX,IMAX,D,3D,F,,26.6 x 47.9 ft./ 8.1 x 14.6 m.,2013/12/20,CM
+971,USA,Tuscaloosa,AL,CMX Hollywood 16 & IMAX,IMAX,D,3D,F,306,27.8 x 54.3 ft./ 8.5 x 16.6 m.,2011/03/11,CM
+972,CHINA,Anqing,Anhui,Anqing InJoy Bestar & IMAX,IMAX,D,3D,F,,33.0 x 60.2 ft./ 10.1 x 18.4 m.,2016/12/23,CM
+973,CHINA,Fuyang,Anhui,Fuyang Oriental Giant Screen & IMAX,IMAX,D,3D,F,,37.9 x 67.7 ft./ 11.6 x 20.6 m.,2017/02/10,CM
+974,CHINA,Huaibei,Anhui,Huaibei Jinyi & IMAX,IMAX,D,3D,F,,36.3 x 65.6 ft./ 11.1 x 20.0 m.,2016/12/24,CM
+975,CHINA,Huainan,Anhui,Huainan Injoy Bestar & IMAX,IMAX,D,3D,F,,44.2 x 76.9 ft./ 13.5 x 23.4 m.,2018/08/31,CM
+976,CHINA,Huangshan,Anhui,Huangshan Liyang Jinyi & IMAX,IMAX,D,3D,F,,36.1 x 64.4 ft./ 11.0 x 19.6 m.,2017/01/24,CM
+977,CHINA,Wuhu,Anhui,Wuhu Omnijoi & IMAX,IMAX,D,3D,F,,45.2 x 78.4 ft./ 13.8 x 23.9 m.,2017/01/28,CM
+978,USA,Fayetteville,AR,Malco Razorback & IMAX,IMAX,D,3D,F,,28.8 x 51.8 ft./ 8.8 x 15.8 m.,2017/12/14,CM
+979,USA,Little Rock,AR,AMC Chenal 9 & IMAX,IMAX,D,3D,F,375,42.3 x 69.9 ft./ 12.9 x 21.3 m.,2008/06/06,CM
+980,USA,Glendale,AZ,AMC Westgate 20 & IMAX,IMAX,D,3D,F,409,33.5 x 60.7 ft./ 10.2 x 18.5 m.,2009/12/18,CM
+981,USA,Grand Canyon,AZ,National Geographic Visitor Center at the Grand Canyon,IMAX,1570,2D,F,487,59.0 x 78.0 ft./ 18.0 x 23.8 m.,1984/06/15,C
+982,USA,Mesa,AZ,AMC Supersition East 12 & IMAX,IMAX,D,3D,F,260,35.1 x 58.1 ft./ 10.7 x 17.7 m.,2007/10/05,CM
+983,USA,Phoenix,AZ,AMC Deer Valley 17 & IMAX,IMAX,D,3D,F,296,28.5 x 51.3 ft./ 8.7 x 15.6 m.,2005/06/15,CM
+984,USA,Phoenix,AZ,AMC Desert Ridge 18 & IMAX,IMAX,D,3D,F,283,29.2 x 53.1 ft./ 8.9 x 16.2 m.,2009/11/13,CM
+985,USA,Phoenix,AZ,Arizona Science Center,BARCO,D,3D,F,285,49.0 x 68.0 ft./ 14.9 x 20.7 m.,1997/04/05,N
+986,USA,Surprise,AZ,AMC Surprise Pointe 14 & IMAX,IMAX,D,3D,F,,27.0 x 49.5 ft./ 8.2 x 15.1 m.,2013/06/14,CM
+987,USA,Tempe,AZ,Harkins Arizona Mills 25 & IMAX,IMAX,1570+D,3D,F,412,60.1 x 80.1 ft./ 18.3 x 24.4 m.,1998/03/05,CM
+988,USA,Tucson,AZ,AMC Foothills 15 & IMAX,IMAX,D,3D,F,342,24.0 x 47.5 ft./ 7.3 x 14.5 m.,2010/09/03,CM
+989,INDONESIA,Tangerang,Banten,Cinema XXI & IMAX,IMAX,D,3D,F,,41.9 x 75.1 ft./ 12.8 x 22.9 m.,2014/04/30,CM
+990,GERMANY,Nuremberg,Bavaria,Cinecitta Multiplexkino,SONY,D,3D,F,511,68.1 x 98.5 ft./ 21.1 x 29.0 m.,2001/12/22,CM
+991,CANADA,Langley,BC,Cineplex Cinemas Langley & IMAX,IMAX,1570+D,3D,F,254,52.5 x 69.9 ft./ 16.0 x 21.3 m.,1999/05/12,CM
+992,CANADA,Richmond,BC,SilverCity Riverport & IMAX,IMAX,D,3D,F,259,52.8 x 69.9 ft./ 16.1 x 21.3 m.,1998/12/18,CM
+993,CANADA,Vancouver,BC,Science World at Telus World of Science,IMAX,1570,2D,D,401,88.6 ft./ 27.0 m.,1989/05/06,N
+994,CANADA,Victoria,BC,Royal British Columbia Museum,IMAX,DL2,3D,F,369,61.3 x 84.1 ft./ 18.7 x 25.6 m.,1998/06/26,C
+995,CANADA,Victoria,BC,SilverCity Victoria Cinemas & IMAX,IMAX,D,3D,F,426,37.5 x 64.7 ft./ 11.4 x 19.7 m.,2011/12/15,CM
+996,MEXICO,Mexicali,BC,Museo Sol del Niño,IMAX,1570,3D,F,301,52.9 x 72.0 ft./ 16.1 x 21.3 m.,2006/12,N
+997,MEXICO,Tijuana,BC,Centro Cultural Tijuana,IMAX,1570,2D,D,300,75.5 ft./ 23.0 m.,1982/10/20,N
+998,USA,Alhambra,CA,Edwards Renaissance Stadium 14 & IMAX,IMAX,D,3D,F,350,33.0 x 50.5 ft./ 10.1 x 15.4 m.,2009/10/30,CM
+999,USA,Aliso Viejo,CA,Edwards Aliso Viejo Stadium 20 & IMAX,IMAX,D,3D,F,384,34.0 x 54.0 ft./ 10.4 x 16.5 m.,2009/03/06,CM
+1000,USA,Arcadia,CA,AMC Santa Anita 16 & IMAX,IMAX,D,3D,F,267,33.0 x 52.0 ft./ 10.1 x 15.9 m.,2008/11/24,CM
+1001,USA,Bakersfield,CA,Reading Cinemas Valley Plaza 16 & IMAX,IMAX,D,3D,F,,32.5 x 58.3 ft./ 9.9 x 17.8 m.,2015/12/17,CM
+1002,USA,Brentwood,CA,AMC Brentwood 14 & IMAX,IMAX,D,3D,F,353,35.2 x 57.7 ft./ 10.7 x 17.6 m.,2011/04/29,CM
+1003,USA,Burbank,CA,AMC Burbank 16 & IMAX,IMAX,DL,3D,F,406,37.0 x 63.0 ft./ 11.3 x 19.2 m.,2008/10/03,CM
+1004,USA,Camarillo,CA,Edwards Camarillo Palace Stadium 12 & IMAX,IMAX,D,3D,F,230,29.0 x 48.0 ft./ 8.8 x 14.6 m.,2009/02/27,CM
+1005,USA,Concord,CA,Veranda Luxe & IMAX,IMAX,D,3D,F,,42.5 x 74.6 ft./ 13.0 x 22.7 m.,2017/12/14,CM
+1006,USA,Covina,CA,AMC Covina 30 & IMAX,IMAX,D,3D,F,375,27.8 x 54.3 ft./ 8.5 x 16.6 m.,2009/09/11,CM
+1007,USA,Daly City,CA,Century 20 Daly City,IMAX,DL,3D,F,,,2019/10/05,CM
+1008,USA,Dublin,CA,Regal Hacienda Crossings Stadium 21 & IMAX,IMAX,1570+D,3D,F,385,55.8 x 76.4 ft./ 17.0 x 23.3 m.,2000/05/05,CM
+1009,USA,El Cajon,CA,Regal Parkway Plaza 18 & IMAX,IMAX,D,3D,F,316,27.5 x 50.6 ft./ 8.4 x 15.4 m.,2011/03/25,CM
+1010,USA,El Dorado Hills,CA,Regal El Dorado Hills Stadium 14 & IMAX,IMAX,D,3D,F,290,31.5 x 49.5 ft./ 9.6 x 15.1 m.,2008/10/24,CM
+1011,USA,Emeryville,CA,AMC Bay Street 16 & IMAX,IMAX,DL,3D,F,309,28.9 x 49.5 ft./ 8.8 x 15.1 m.,2008/10/17,CM
+1012,USA,Escondido,CA,Regal Escondido Stadium 16 & IMAX,IMAX,D,3D,F,331,33.0 x 51.0 ft./ 10.1 x 15.5 m.,2009/02/27,CM
+1013,USA,Fairfield,CA,Edwards Fairfield Stadium 16 & IMAX,IMAX,D,3D,F,260,29.5 x 48.2 ft./ 9.0 x 14.7 m.,2008/10/31,CM
+1014,USA,Fresno,CA,Edwards Fresno Stadium 22 & IMAX,IMAX,1570+D,3D,F,273,52.9 x 70.0 ft./ 16.1 x 21.3 m.,2000/06,CM
+1015,USA,Glendora,CA,AMC Glendora 12 & IMAX,IMAX,D,3D,F,,32.0 x 52.0 ft./ 9.8 x 15.9 m.,2013/06/14,CM
+1016,USA,Hollywood,CA,TCL Chinese Theatres,IMAX,DL2,3D,F,932,46.0 x 94.0 ft./ 14.0 x 28.7 m.,2013/09/15,CM
+1017,USA,Irvine,CA,Regal Irvine Spectrum 21 & IMAX,IMAX,1570+DL,3D,F,574,67.7 x 88.0 ft./ 20.6 x 26.8 m.,1996/03/15,CM
+1018,USA,Long Beach,CA,Edwards Long Beach Stadium 26 & IMAX,IMAX,D,3D,F,265,33.8 x 54.0 ft./ 10.3 x 16.5 m.,2009/05/07,CM
+1019,USA,Los Angeles,CA,AMC Century City 15 & IMAX,IMAX,DL,3D,F,271,31.0 x 55.0 ft./ 9.5 x 16.8 m.,2008/10/03,CM
+1020,USA,Los Angeles,CA,IMAX Theater,IMAX,DL2,3D,F,420,66.7 x 90.0 ft./ 20.3 x 27.4 m.,1998/02/07,N
+1021,USA,Montclair,CA,AMC DINE-IN Montclair 12 & IMAX,IMAX,DL,3D,F,,,2021,CM
+1022,USA,National City,CA,AMC Plaza Bonita 14 & IMAX,IMAX,D,3D,F,276,32.8 x 51.0 ft./ 10.0 x 15.5 m.,2009/05/22,CM
+1023,USA,Newark,CA,AMC Newpark 12 & IMAX,IMAX,D,3D,F,,33.4 x 60.8 ft./ 10.2 x 18.5 m.,2016/02/12,CM
+1024,USA,Norwalk,CA,AMC Norwalk 20 & IMAX,IMAX,D,3D,F,334,27.0 x 54.0 ft./ 8.2 x 16.5 m.,2012/04/13,CM
+1025,USA,Oakland,CA,Chabot Space and Science Center,MEGA,870,2D,D,205,60.0 ft./ 18.3 m.,2000/08/19,N
+1026,USA,Ontario,CA,Edwards Ontario Palace Stadium 22 & IMAX,IMAX,1570+D,3D,F,480,67.0 x 89.0 ft./ 20.4 x 27.1 m.,1997/03/28,CM
+1027,USA,Orange,CA,AMC Orange 30,IMAX,DL,3D,F,449,29.0 x 57.0 ft./ 8.8 x 17.4 m.,2010/08/13,CM
+1028,USA,Rancho Mirage,CA,Regal Rancho Mirage Stadium 16 & IMAX,IMAX,D,3D,F,,28.4 x 51.0 ft./ 8.7 x 15.5 m.,2014/04/09,CM
+1029,USA,Riverbank,CA,Galaxy Riverbank & IMAX,IMAX,D,3D,F,,39.7 x 71.0 ft./ 12.1 x 21.6 m.,2016/03/24,CM
+1030,USA,Riverside,CA,AMC Tyler 16 & IMAX,IMAX,D,3D,F,250,36.0 x 57.0 ft./ 11.0 x 17.4 m.,2009/12/18,CM
+1031,USA,Rowland Heights,CA,AMC Puente 20 & IMAX,IMAX,DL,3D,F,447,30.0 x 57.0 ft./ 9.1 x 17.4 m.,2009/06/12,CM
+1032,USA,Sacramento,CA,Esquire IMAX Theatre,IMAX,1570+D,3D,F,420,59.0 x 75.7 ft./ 18.0 x 23.1 m.,1999/07/08,C
+1033,USA,Sacramento,CA,Regal Delta Shores 14 & IMAX,IMAX,D,3D,F,,30.4 x 54.1 ft./ 9.3 x 16.5 m.,2018/03/08,CM
+1034,USA,San Diego,CA,AMC Mission Valley 20 & IMAX,IMAX,D,3D,F,260,26.0 x 49.5 ft./ 7.9 x 15.1 m.,2010/09/10,CM
+1035,USA,San Diego,CA,AMC Palm Promenade 24 & IMAX,IMAX,D,3D,F,432,32.5 x 58.0 ft./ 9.9 x 17.7 m.,2009/03/20,CM
+1036,USA,San Diego,CA,Edwards Mira Mesa Stadium 18 & IMAX,IMAX,D,3D,F,314,36.0 x 57.5 ft./ 11.0 x 17.5 m.,2007/05/04,CM
+1037,USA,San Diego,CA,Fleet Science Center,IMAX,DL,2D,D,314,76.0 ft./ 23.2 m.,1973/03/10,N
+1038,USA,San Diego,CA,San Diego Natural History Museum,CHRIS,D,3D,F,300,25.0 x 45.0 ft./ 7.6 x 13.7 m.,2001/03/31,N
+1039,USA,San Francisco,CA,AMC Metreon 16 & IMAX,IMAX,1570+DL2,3D,F,600,75.6 x 97.6 ft./ 23.0 x 29.8 m.,1999/06/16,CM
+1040,USA,San Jose,CA,AMC Eastridge 15 & IMAX,IMAX,D,3D,F,298,29.9 x 51.8 ft./ 9.1 x 15.8 m.,2008/10/03,CM
+1041,USA,San Jose,CA,AMC Saratoga 14 & IMAX,IMAX,D,3D,F,350,29.7 x 55.4 ft./ 9.0 x 16.9 m.,2011/12/15,CM
+1042,USA,San Jose,CA,Tech Interactive,IMAX,DL,2D,D,295,82.0 ft./ 25.0 m.,1998/10/31,N
+1043,USA,San Simeon,CA,Hearst Castle Theater,BARCO,DL,2D,F,420,52.0 x 70.0 ft./ 15.9 x 21.3 m.,1996/08/17,C
+1044,USA,Santa Clara,CA,AMC Mercado 20 & IMAX,IMAX,DL,3D,F,370,31.2 x 57.1 ft./ 9.5 x 17.4 m.,2009/03/20,CM
+1045,USA,Santa Clarita,CA,Edwards Valencia Stadium 12 & IMAX,IMAX,D,3D,F,262,41.0 x 68.5 ft./ 12.5 x 20.9 m.,1999/05,CM
+1046,USA,Simi Valley,CA,Regal Civic Center Stadium 16 & IMAX,IMAX,D,3D,F,283,28.0 x 47.0 ft./ 8.5 x 14.3 m.,2008/11/07,CM
+1047,USA,South Gate,CA,Edwards South Gate Stadium 20 & IMAX,IMAX,D,3D,F,343,37.0 x 58.0 ft./ 11.3 x 17.7 m.,2009/03/27,CM
+1048,USA,Stockton,CA,Regal Stockton City Center Stadium 16 & IMAX,IMAX,D,3D,F,405,31.5 x 52.8 ft./ 9.6 x 16.1 m.,2008/11/07,CM
+1049,USA,Sunnyvale,CA,AMC Dine-In Sunnyvale 12 & IMAX,IMAX,DL,3D,F,,,2021,CM
+1050,USA,Temecula,CA,Edwards Temecula Stadium 15 & IMAX,IMAX,D,3D,F,325,33.5 x 51.0 ft./ 10.2 x 15.5 m.,2009/11/04,CM
+1051,USA,Torrance,CA,AMC Del Amo 18 & IMAX,IMAX,DL,3D,F,248,32.0 x 52.0 ft./ 9.8 x 15.9 m.,2008/11/07,CM
+1052,USA,Torrance,CA,AMC Rolling Hills 20 & IMAX,IMAX,D,3D,F,,25.1 x 46.7 ft./ 7.7 x 14.2 m.,2015/05,CM
+1053,USA,Universal City,CA,Universal Cinema AMC at CityWalk Hollywood,IMAX,1570+DL2,3D,F,422,58.2 x 79.0 ft./ 17.7 x 24.1 m.,2000/04/14,CM
+1054,USA,Woodland Hills,CA,AMC Promenade 16 & IMAX,IMAX,D,3D,F,361,27.0 x 51.0 ft./ 8.2 x 15.5 m.,2009/05/07,CM
+1055,USA,Yorba Linda,CA,Regal Yorba Linda 10 & IMAX,IMAX,DL,3D,F,,,2019,CM
+1056,SPAIN,Las Palmas,CANARY ISLANDS,Museo Elder de la Ciencia y la Tecnologia,unk,D,3D,F,172,,1999/12/10,N
+1057,MEXICO,Juarez,Chihuahua,Cinepolis Las Misiones Cd. Juarez & IMAX,IMAX,D,3D,F,407,35.1 x 63.0 ft./ 10.7 x 19.2 m.,2009/06/05,CM
+1058,CHINA,Chongqing,Chong Qing,Chongqing Guanyinqiao CGV & IMAX,IMAX,D,3D,F,,39.0 x 69.1 ft./ 11.9 x 21.1 m.,2017/06/23,CM
+1059,CHINA,Chongqing,Chong Qing,Chongqing Hometown CGV & IMAX,IMAX,D,3D,F,,38.9 x 68.4 ft./ 11.9 x 20.9 m.,2017/06/16,CM
+1060,CHINA,Chongqing,Chong Qing,Chongqing Wanying,IMAX,DL,3D,F,,,2018/09/15,CM
+1061,NETHERLANDS,Rotterdam,CL,Pathe Schouwburgplein & IMAX,IMAX,DL,3D,F,396,29.5 x 59.0 ft./ 9.0 x 18.0 m.,2009/12/16,CM
+1062,USA,Aurora,CO,AMC Arapahoe Crossing 16 & IMAX,IMAX,D,3D,F,335,30.0 x 58.0 ft./ 9.1 x 17.7 m.,2011/10/28,CM
+1063,USA,Broomfield,CO,AMC Flatiron Crossing 14 & IMAX,IMAX,D,3D,F,,28.1 x 45.6 ft./ 8.6 x 13.9 m.,2017/02/16,CM
+1064,USA,Colorado Springs,CO,Cinemark Carefree Circle & IMAX,IMAX,D,3D,F,263,52.9 x 70.0 ft./ 16.1 x 21.3 m.,2000/12/15,CM
+1065,USA,Denver,CO,Denver Museum of Nature and Science,IMAX,D,3D,F,413,40.6 x 64.6 ft./ 12.4 x 19.7 m.,1983/07,N
+1066,USA,Denver,CO,UA Colorado Center Stadium 9 & IMAX,IMAX,1570+D,3D,F,365,42.0 x 71.0 ft./ 12.8 x 21.6 m.,2000/01,CM
+1067,USA,Highlands Ranch,CO,AMC Highlands Ranch 24 & IMAX,IMAX,D,3D,F,402,34.9 x 57.5 ft./ 10.6 x 17.5 m.,2009/05/07,CM
+1068,USA,Lakewood,CO,Regal UA Colorado Mills Stadium 16 & IMAX,IMAX,D,3D,F,416,43.0 x 56.0 ft./ 13.1 x 17.1 m.,2003/04/11,CM
+1069,USA,Parker,CO,Wildlife Experience,NEC,D,3D,F,308,45.0 x 60.0 ft./ 13.7 x 18.3 m.,2002/08/31,N
+1070,USA,USAFA,CO,U.S. Air Force Academy,ES,D,,D,124,50.0 ft./ 15.2 m.,1959,N
+1071,USA,Westminster,CO,AMC Orchards 12 & IMAX,IMAX,D,3D,F,272,32.9 x 51.3 ft./ 10.0 x 15.6 m.,2008/11/07,CM
+1072,USA,Westminster,CO,AMC Westminster Promenade 24 & IMAX,IMAX,DL,3D,F,421,34.8 x 52.3 ft./ 10.6 x 15.9 m.,2009/03/20,CM
+1073,USA,Danbury,CT,AMC Danbury 16 & IMAX,IMAX,D,3D,F,304,27.5 x 49.6 ft./ 8.4 x 15.1 m.,2012/06/22,CM
+1074,USA,Manchester,CT,Buckland Hills 18 & IMAX,IMAX,D,3D,F,226,23.0 x 48.0 ft./ 7.0 x 14.6 m.,2004/11/10,CM
+1075,USA,Milford,CT,Connecticut Post 14 & IMAX,IMAX,DL,3D,F,363,33.2 x 59.7 ft./ 10.1 x 18.2 m.,2010/11/19,CM
+1076,USA,Plainville,CT,AMC Plainville 20 & IMAX,IMAX,D,3D,F,586,35.0 x 60.0 ft./ 10.7 x 18.3 m.,2010/08/13,CM
+1077,USA,Washington,DC,AMC Georgetown 14 & IMAX,IMAX,D,3D,F,237,23.0 x 45.0 ft./ 7.0 x 13.7 m.,2011/08/26,CM
+1078,USA,Washington,DC,National Air and Space Museum,IMAX,DL2,3D,F,487,46.0 x 75.5 ft./ 14.0 x 23.0 m.,1976/07,N
+1079,USA,Wilmington,DE,Penn Cinema Riverfront & IMAX,IMAX,D,3D,F,300,48.0 x 75.0 ft./ 14.6 x 22.9 m.,2012/12/14,CM
+1080,MEXICO,Mexico City,DF,Cinepolis Forum Buenavista & IMAX,IMAX,D,3D,F,,30.3 x 54.8 ft./ 9.2 x 16.7 m.,2013/12/28,CM
+1081,MEXICO,Mexico City,DF,Cinepolis Perisur & IMAX,IMAX,D,3D,F,271,40.9 x 57.4 ft./ 12.7 x 17.5 m.,2004/11/16,CM
+1082,MEXICO,Mexico City,DF,Cinepolis Universidad & IMAX,IMAX,D,3D,F,304,45.1 x 70.2 ft./ 13.8 x 21.4 m.,2006/07/06,CM
+1083,MEXICO,Mexico City,DF,Papalote Museo del Nino,IMAX,1570,3D,F,333,55.9 x 78.8 ft./ 17.0 x 24.0 m.,1993/11/05,N
+1084,CHINA,Dongguan,Dongguan,Dongguan Wanda & IMAX,IMAX,DL2,3D,F,561,71.9 x 93.8 ft./ 21.9 x 28.6 m.,2007/08/11,CM
+1085,USA,Altamonte,FL,AMC Altamonte Mall 18 & IMAX,IMAX,D,3D,F,265,28.5 x 51.8 ft./ 8.7 x 15.8 m.,2008/09/19,CM
+1086,USA,Aventura,FL,AMC Aventura 24 & IMAX,IMAX,DL,3D,F,362,30.5 x 55.4 ft./ 9.3 x 16.9 m.,2008/09/05,CM
+1087,USA,Brandon,FL,AMC The Regency 20 & IMAX,IMAX,D,3D,F,295,23.6 x 46.9 ft./ 7.2 x 14.3 m.,2010/09/24,CM
+1088,USA,Davenport,FL,Cinepolis Polk County & IMAX,IMAX,D,3D,F,,32.1 x 58.5 ft./ 9.8 x 17.8 m.,2015/06,CM
+1089,USA,Delray Beach,FL,Frank Delray MarketPlace Stadium 12 & IMAX,IMAX,D,3D,F,,55.0 x 85.0 ft./ 16.8 x 25.9 m.,2013/02/13,CM
+1090,USA,Destin,FL,AMC Destin Commons 14 & IMAX,IMAX,D,3D,F,285,32.0 x 56.9 ft./ 9.8 x 17.4 m.,2011/02/04,CM
+1091,USA,Fort Lauderdale,FL,Museum of Discovery and Science,IMAX,1570+DL2,3D,F,294,60.0 x 80.0 ft./ 18.3 x 24.4 m.,1992/11/22,N
+1092,USA,Fort Myers,FL,Regal Gulf Coast Town Center 16 & IMAX,IMAX,D,3D,F,395,31.8 x 53.5 ft./ 9.7 x 16.3 m.,2008/11/07,CM
+1093,USA,Jacksonville,FL,AMC Regency 24 & IMAX,IMAX,D,3D,F,387,30.2 x 55.1 ft./ 9.2 x 16.8 m.,2008/09/19,CM
+1094,USA,Kennedy Space Center,FL,IMAX 1,IMAX,1570,3D,F,395,52.0 x 70.0 ft./ 15.9 x 21.3 m.,1984/06/11,C
+1095,USA,Kennedy Space Center,FL,IMAX 2,IMAX,DL,3D,F,436,52.0 x 70.0 ft./ 15.9 x 21.3 m.,1993/11/23,C
+1096,USA,Lakeland,FL,Cobb Lakeside Village 18 Cinemas & IMAX,IMAX,D,3D,F,349,29.6 x 53.3 ft./ 9.0 x 16.3 m.,2010/11/05,CM
+1097,USA,Merritt Island,FL,CMX Merritt Square 16 & IMAX,IMAX,D,3D,F,298,29.2 x 54.4 ft./ 8.9 x 16.6 m.,2011/03/25,CM
+1098,USA,Miami,FL,Carnival Cruise Lines,IMAX,D,3D,F,187,24.1 x 43.3 ft./ 7.3 x 13.2 m.,2018/04/02,C
+1099,USA,Miami,FL,Carnival Vista,IMAX,D,3D,F,187,24.1 x 43.3 ft./ 7.3 x 13.2 m.,2016/05,C
+1100,USA,Miami,FL,CMX Dolphin 19 & IMAX,IMAX,D,3D,F,318,26.8 x 53.1 ft./ 8.2 x 16.2 m.,2011/05/10,CM
+1101,USA,Miami,FL,Regal Kendall Village Stadium 16 & IMAX,IMAX,D,3D,F,,31.1 x 53.3 ft./ 9.5 x 16.3 m.,2014/02/28,CM
+1102,USA,Miami Beach,FL,Regal South Beach Stadium 18 & IMAX,IMAX,D,3D,F,,25.8 x 46.4 ft./ 7.9 x 14.1 m.,2014/05/02,CM
+1103,USA,Naples,FL,Regal Naples 4DX & IMAX,IMAX,D,3D,F,,,2019/04/07,CM
+1104,USA,NAS Pensacola,FL,National Naval Aviation Museum,CHRIS,DL,2D,F,534,63.0 x 87.0 ft./ 19.2 x 26.5 m.,1996/07,N
+1105,USA,Ocala,FL,Regal Hollywood 16 & IMAX,IMAX,D,3D,F,260,27.0 x 50.0 ft./ 8.2 x 15.2 m.,2013/10/04,CM
+1106,USA,Oldsmar,FL,AMC Woodland Square 20 & IMAX,IMAX,D,3D,F,375,31.2 x 56.4 ft./ 9.5 x 17.2 m.,2009/11/06,CM
+1107,USA,Orange Park,FL,AMC Orange Park 24 & IMAX,IMAX,D,3D,F,447,32.2 x 58.1 ft./ 9.8 x 17.7 m.,2008/09/05,CM
+1108,USA,Orlando,FL,Orlando Science Center,CDC,1570,2D,D,309,79.0 ft./ 24.1 m.,1997/02,N
+1109,USA,Orlando,FL,Regal Pointe Orlando Stadium 20 & IMAX,IMAX,1570+D,3D,F,424,64.0 x 84.7 ft./ 19.5 x 25.8 m.,2007/05/04,CM
+1110,USA,Orlando,FL,Regal Waterford Lakes Stadium 20 & IMAX,IMAX,D,3D,F,380,28.9 x 49.9 ft./ 8.8 x 15.2 m.,2009/02/06,CM
+1111,USA,Panama City Beach,FL,Grand Pier Park 16 & IMAX,IMAX,D,3D,F,307,31.7 x 56.4 ft./ 9.7 x 17.2 m.,2011/07/15,CM
+1112,USA,Pembroke Pines,FL,AMC Pembroke Lakes 9 & IMAX,IMAX,D,3D,F,,33.9 x 60.3 ft./ 10.3 x 18.4 m.,2017/10/30,CM
+1113,USA,Pensacola,FL,AMC Bayou 15 & IMAX,IMAX,D,3D,F,328,34.6 x 60.5 ft./ 10.5 x 18.4 m.,2011/03/11,CM
+1114,USA,Saint Augustine,FL,World Golf Hall of Fame,IMAX,D,3D,F,299,59.2 x 80.0 ft./ 18.0 x 24.4 m.,1998/05/19,N
+1115,USA,Sarasota,FL,AMC Sarasota 12 & IMAX,IMAX,D,3D,F,261,28.0 x 51.4 ft./ 8.5 x 15.7 m.,2011/05/20,CM
+1116,USA,South Miami,FL,AMC Sunset Place 24 & IMAX,IMAX,D,3D,F,429,29.9 x 56.4 ft./ 9.1 x 17.2 m.,2009/05/22,CM
+1117,USA,St. Petersburg,FL,AMC Sundial 20 & IMAX,IMAX,DL,3D,F,416,32.3 x 62.0 ft./ 9.8 x 18.9 m.,2007/05/04,CM
+1118,USA,Sunrise,FL,Regal Sawgrass 23 & IMAX,IMAX,D,3D,F,375,29.9 x 53.5 ft./ 9.1 x 16.3 m.,2010/03/05,CM
+1119,USA,Tallahassee,FL,AMC Tallahassee Mall 20 & IMAX,IMAX,D,3D,F,366,33.1 x 59.4 ft./ 10.1 x 18.1 m.,2009/09/18,CM
+1120,USA,Tallahassee,FL,Challenger Learning Center,IMAX,D,3D,F,287,50.0 x 72.0 ft./ 16.1 x 21.3 m.,2003/03/22,N
+1121,USA,Tampa,FL,AMC Veterans 24 & IMAX,IMAX,D,3D,F,372,32.2 x 54.5 ft./ 9.8 x 16.6 m.,2008/09/05,CM
+1122,USA,West Melbourne,FL,AMC West Melbourne 12 & IMAX,IMAX,D,3D,F,,34.8 x 64.3 ft./ 10.6 x 19.6 m.,2014/08/13,CM
+1123,USA,West Palm Beach,FL,AMC Rosemary Square 12,IMAX,DL,3D,F,283,30.6 x 54.6 ft./ 9.3 x 16.6 m.,2007/07/11,CM
+1124,UK,Broughton,Flintshire,Cineworld Broughton & IMAX,IMAX,D,3D,F,,28.9 x 53.7 ft./ 8.8 x 16.4 m.,2015/05/08,CM
+1125,CHINA,Jinjiang,Fujian,Jinjiang Injoy Bestar & IMAX,IMAX,D,3D,F,,33.7 x 60.0 ft./ 10.3 x 18.3 m.,2017/12/22,CM
+1126,CHINA,Quanzhou,Fujian,Quanzhou Donghai Tahoe & IMAX,IMAX,D,3D,F,,40.2 x 70.5 ft./ 12.3 x 21.5 m.,2017/09/26,CM
+1127,CHINA,Xiamen,Fujian,Xiamen OneMall Lumiere & IMAX,IMAX,D,3D,F,,42.3 x 73.8 ft./ 12.9 x 22.5 m.,2018/09/30,CM
+1128,CHINA,Zhangzhou,Fujian,Zhangzhou Red Star Macalline Jinyi,IMAX,D,3D,F,,31.8 x 57.6 ft./ 9.7 x 17.6 m.,2018/10/03,CM
+1129,JAPAN,Sakai-gun,Fukui Pref.,Fukui Children's Science Centre,GOTO,D,2D,D,256,75.9 ft./ 23.1 m.,1999,N
+1130,JAPAN,Kurume-shi,Fukuoka Pref.,Fukuoka Science Museum,GOTO,D,2D,D,261,76.0 ft./ 23.2 m.,1990/01/05,N
+1131,JAPAN,Koriyama City,Fukushima Pref.,Koriyama Municipal Science Museum,GOTO,D,2D,D,234,75.9 ft./ 23.1 m.,2001/11,N
+1132,USA,Alpharetta,GA,AMC North Point Mall 14 & IMAX,IMAX,D,3D,F,,29.9 x 53.3 ft./ 9.1 x 16.3 m.,2013/10/31,CM
+1133,USA,Atlanta,GA,Fernbank Museum of Natural History,CHRIS,DL2,3D,F,315,35.8 x 68.0 ft./ 10.9 x 20.7 m.,1992/10/05,N
+1134,USA,Atlanta,GA,Regal Atlantic Station Stadium 16 & IMAX,IMAX,D,3D,F,407,31.9 x 56.5 ft./ 9.7 x 17.2 m.,2010/12/17,CM
+1135,USA,Augusta,GA,Regal Augusta Exchange Stadium 20 & IMAX,IMAX,D,3D,F,299,28.2 x 47.2 ft./ 8.6 x 14.4 m.,2008/11/07,CM
+1136,USA,Buford,GA,Regal Mall of Georgia Stadium 20 & IMAX,IMAX,1570+DL,3D,F,400,59.4 x 81.5 ft./ 18.1 x 24.8 m.,1999/08/13,CM
+1137,USA,Columbus,GA,AMC Columbus Park 15 & IMAX,IMAX,D,3D,F,570,40.0 x 74.0 ft./ 12.2 x 22.6 m.,2013/12/13,CM
+1138,USA,Columbus,GA,National Infantry Museum,CHRIS,DL2,3D,F,295,39.0 x 70.0 ft./ 11.9 x 21.3 m.,2009/03/20,N
+1139,USA,Cumming,GA,AMC Avenue Forsyth 12 & IMAX,IMAX,D,3D,F,270,29.0 x 51.9 ft./ 8.8 x 15.8 m.,2011/06/24,CM
+1140,USA,Douglasville,GA,Regal Arbor Place Stadium 18 & IMAX,IMAX,D,3D,F,305,27.0 x 50.0 ft./ 8.2 x 15.2 m.,2012/03/30,CM
+1141,USA,Kennesaw,GA,AMC Barrett Commons 24 & IMAX,IMAX,D,3D,F,336,30.8 x 54.1 ft./ 9.4 x 16.5 m.,2009/04/17,CM
+1142,USA,Lithonia,GA,Stonecrest 16 & IMAX,IMAX,D,3D,F,305,28.6 x 51.7 ft./ 8.7 x 15.8 m.,2011/04/29,CM
+1143,USA,Macon,GA,AmStar 16 & IMAX,IMAX,D,3D,F,251,23.1 x 46.0 ft./ 7.1 x 14.0 m.,2011/06/28,CM
+1144,USA,Morrow,GA,AMC Southlake 24 & IMAX,IMAX,D,3D,F,423,32.5 x 58.4 ft./ 9.9 x 17.8 m.,2009/03/06,CM
+1145,USA,Pooler,GA,Royal Cinemas & IMAX,IMAX,D,3D,F,350,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2012/09/14,CM
+1146,CHINA,Lanzhou,Gansu,Lanzhou Centre Space Station & IMAX,IMAX,DL,3D,F,,37.4 x 66.9 ft./ 11.4 x 20.4 m.,2018/12/28,CM
+1147,NETHERLANDS,Arnhem,GE,Pathe Arnhem & IMAX,IMAX,D,3D,F,308,39.4 x 68.9 ft./ 12.0 x 21.0 m.,2015/10/19,CM
+1148,MEXICO,Leon,Guanajuato,Patronato de Explora,IMAX,1570,3D,F,296,60.5 x 77.4 ft./ 17.4 x 23.6 m.,1994/11/23,N
+1149,CHINA,Dongguan,Guangdong,Dongguan Science & Technology Museum,IMAX,1570,2D,D,276,75.5 ft./ 23.0 m.,2006/01/29,N
+1150,CHINA,Foshan,Guangdong,Foshan Shunde Metro-Mall Jinyi,IMAX,D,3D,F,,44.8 x 78.3 ft./ 13.7 x 23.9 m.,2018/12/30,CM
+1151,CHINA,Guangzhou,Guangdong,Guangzhou Lisheng Plaza,IMAX,D,3D,F,,34.9 x 60.4 ft./ 10.6 x 18.4 m.,2018/12/13,CM
+1152,CHINA,Guangzhou,Guangdong,Guangzhou New Park Mei Ah & IMAX,IMAX,DL,3D,F,,40.4 x 71.0 ft./ 12.3 x 21.6 m.,2018/12/13,CM
+1153,CHINA,Guangzhou,Guangdong,Guangzhou Panyu Dashi Jinyi & IMAX,IMAX,D,3D,F,,38.4 x 68.0 ft./ 11.7 x 20.7 m.,2017/04/08,CM
+1154,CHINA,Guangzhou,Guangdong,Guangzhou Paso Jinyi & IMAX,IMAX,D,3D,F,,37.2 x 67.1 ft./ 11.3 x 20.5 m.,2018,CM
+1155,CHINA,Guangzhou,Guangdong,Guangzhou System2 Jiedeng City,IMAX,D,3D,F,,33.8 x 61.4 ft./ 10.3 x 18.7 m.,2018/05/18,CM
+1156,CHINA,Shenzhen,Guangdong,Broadway Shenzhen MixC World,IMAX,D,3D,F,,43.1 x 76.7 ft./ 13.1 x 23.4 m.,2017/10/28,CM
+1157,CHINA,Shenzhen,Guangdong,Shenzhen China Resources Land Co.,IMAX,D,3D,F,,36.2 x 65.0 ft./ 11.0 x 19.8 m.,2018/04/26,CM
+1158,CHINA,Shenzhen,Guangdong,Shenzhen Galaxy World Coco,IMAX,D,3D,F,,31.4 x 56.4 ft./ 9.6 x 17.2 m.,2018/11/09,CM
+1159,CHINA,Shenzhen,Guangdong,Shenzhen Liuhe City Yitian Holiday Plaza,IMAX,D,3D,F,,36.8 x 65.9 ft./ 11.2 x 20.1 m.,2018/02/06,CM
+1160,CHINA,Shenzhen,Guangdong,Shenzhen Longgang Bona 11,IMAX,D,3D,F,,38.6 x 69.6 ft./ 11.8 x 21.2 m.,2018/02/03,CM
+1161,CHINA,Zhanjiang,Guangdong,Zhanjiang Chikan Jinyi & IMAX,IMAX,D,3D,F,,30.8 x 55.7 ft./ 9.4 x 17.0 m.,2017/08/06,CM
+1162,CHINA,Zhongshan,Guangdong,Zhongshan Guzhen Lihe Bona & IMAX,IMAX,D,3D,F,,34.4 x 62.5 ft./ 10.5 x 19.1 m.,2017/12/16,CM
+1163,CHINA,Zhongshan,Guangdong,Zhongshan Sino Ocean Jinyi & IMAX,IMAX,D,3D,F,,44.0 x 77.8 ft./ 13.4 x 23.7 m.,2017/01/22,CM
+1164,CHINA,Liuzhou,Guangxi,Liuzhou MixC Jinyi & IMAX,IMAX,D,3D,F,,44.0 x 76.3 ft./ 13.4 x 23.3 m.,2018/09/30,CM
+1165,CHINA,Yulin,Guangxi,Yulin Jinsheng Cultural Diffusion,IMAX,D,3D,F,,35.5 x 64.0 ft./ 10.8 x 19.5 m.,2018/12/13,CM
+1166,CHINA,Guiyang,Guizhou,Guiyang The Future Ark Cross & IMAX,IMAX,D,3D,F,,57.6 x 102.7 ft./ 17.6 x 31.3 m.,2018/09/30,CM
+1167,INDIA,Ahmedabad,Gujarat,Gujarat Science City,IMAX,1570,3D,F,651,66.8 x 95.1 ft./ 20.4 x 29.0 m.,2002/10/24,N
+1168,JAPAN,Tatebayashi-shi,Gunma Pref.,Mukai Chiaki Children's Science Museum,GOTO,D,2D,D,240,79.9 ft./ 24.4 m.,1991/05/05,N
+1169,SOUTH KOREA,Gwangju,Gwangju,CGV Gwangju IMAX,IMAX,D,3D,F,357,33.1 x 59.7 ft./ 10.1 x 18.2 m.,2009/05/30,CM
+1170,SOUTH KOREA,Suwon,Gyeonggi-do,CGV Gwangyo & IMAX,IMAX,DL,3D,F,,,2020/01/31,CM
+1171,CHINA,Langfang,Hebei,Langfang Yanjiao HBC & IMAX,IMAX,D,3D,F,,28.3 x 51.3 ft./ 8.6 x 15.6 m.,2017/12/22,CM
+1172,CHINA,Shijiazhuang,Hebei,Hebei Science and Technology Museum,GOTO,1070,2D,D,315,76.0 ft./ 23.2 m.,2007,N
+1173,CHINA,Shijiazhuang,Hebei,Shijiazhuang Jinyi MixC & IMAX,IMAX,DL,3D,F,,43.3 x 75.6 ft./ 13.2 x 23.0 m.,2018/11/10,CM
+1174,USA,Honolulu,HI,Regal Dole Cannery Stadium 18 & IMAX,IMAX,D,3D,F,374,30.8 x 52.8 ft./ 9.4 x 16.1 m.,2009/02/27,CM
+1175,USA,Laie,HI,Polynesian Cultural Center,CHRIS,D,3D,F,463,65.0 x 89.0 ft./ 19.8 x 27.1 m.,1991/01/19,C
+1176,CHINA,Wuhan,Hubei,Wuhan Caidian Jinyi & IMAX,IMAX,D,3D,F,,34.1 x 61.5 ft./ 10.4 x 18.8 m.,2017/10,CM
+1177,CHINA,Wuhan,Hubei,Wuhan Capitaland Xicheng CGV & IMAX,IMAX,D,3D,F,,38.3 x 67.9 ft./ 11.7 x 20.7 m.,2017/04/14,CM
+1178,CHINA,Wuhan,Hubei,Wuhan Jiangteng CGV & IMAX,IMAX,D,3D,F,,34.4 x 61.4 ft./ 10.5 x 18.7 m.,2017/12/22,CM
+1179,CHINA,Xiaogan,Hubei,Xiaogan Hanchuan Jinyi & IMAX,IMAX,D,3D,F,,34.9 x 60.8 ft./ 10.6 x 18.5 m.,2017/01/21,CM
+1180,CHINA,Wuhan,Hubei Prov.,Studio City Wuhan & IMAX,IMAX,D,3D,F,648,39.9 x 69.3 ft./ 12.2 x 21.1 m.,2007/02/14,CM
+1181,CHINA,Wuhan,Hubei Prov.,Wuhan Hanjie Wanda Plaza & IMAX,IMAX,D,3D,F,,37.8 x 67.6 ft./ 11.5 x 20.6 m.,2013/09/28,CM
+1182,CHINA,Changsha,Hunan,Changsha Fusheng Mall Jinyi & IMAX,IMAX,D,3D,F,,37.4 x 67.0 ft./ 11.4 x 20.4 m.,2018/12/22,CM
+1183,CHINA,Hengyang,Hunan,Hengyang Better Life Jinyi & IMAX,IMAX,D,3D,F,,35.3 x 65.6 ft./ 10.8 x 20.0 m.,2018/09/30,CM
+1184,USA,Council Bluffs,IA,AMC Star Council Bluffs 17 & IMAX,IMAX,D,3D,F,346,44.0 x 70.0 ft./ 13.4 x 21.3 m.,2008/03/21,CM
+1185,USA,Davenport,IA,Davenport 53 & IMAX,IMAX,D,3D,F,388,28.8 x 54.8 ft./ 8.8 x 16.7 m.,2010/11/19,CM
+1186,USA,Davenport,IA,Putnam Museum and Science Center,BARCO,D,3D,F,270,57.0 x 70.0 ft./ 17.1 x 21.3 m.,2002/03/16,N
+1187,USA,Des Moines,IA,Science Center of Iowa,IMAX,1570,2D,D,222,65.6 ft./ 20.0 m.,2005/05/14,N
+1188,USA,Waukee,IA,The Palms Theatre & IMAX,IMAX,DL2,3D,F,,60.0 x 86.0 ft./ 18.3 x 26.2 m.,2018,CM
+1189,USA,Boise,ID,Edwards Boise Stadium 22 & IMAX,IMAX,1570+D,3D,F,268,59.9 x 70.0 ft./ 18.3 x 21.3 m.,1999/04/30,CM
+1190,USA,Bloomington,IL,Marcus Bloomington Galaxy 14 &,IMAX,D,3D,F,356,36.8 x 65.8 ft./ 11.2 x 20.1 m.,2015/04,CM
+1191,USA,Chicago,IL,Adler Planetarium and Astronomy Museum,ES,D,2D,D,199,70.0 ft./ 21.3 m.,2011/07,N
+1192,USA,Chicago,IL,Museum of Science and Industry,D3D,DL3,2D,D,353,74.0 ft./ 22.6 m.,1986/06/20,N
+1193,USA,Chicago,IL,Regal City North Stadium 14 & IMAX,IMAX,D,3D,F,,29.6 x 50.7 ft./ 9.0 x 15.5 m.,2013/10/25,CM
+1194,USA,Edwardsville,IL,AMC Edwardsville 12 & IMAX,IMAX,D,3D,F,274,27.5 x 51.5 ft./ 8.4 x 15.7 m.,2011/12/15,CM
+1195,USA,Hodgkins,IL,AMC Quarry 14 & IMAX,IMAX,D,3D,F,242,25.9 x 49.9 ft./ 7.9 x 15.2 m.,2009/10/16,CM
+1196,USA,Lincolnshire,IL,Regal Lincolnshire Stadium 21 & IMAX,IMAX,D,3D,F,128,52.9 x 70.0 ft./ 16.1 x 21.3 m.,1998/11/13,CM
+1197,USA,Lombard,IL,AMC DINE-IN Yorktown 18,IMAX,D,3D,F,342,25.3 x 49.9 ft./ 7.7 x 15.2 m.,2010/09/24,CM
+1198,USA,Naperville,IL,AMC Naperville 16 & IMAX,IMAX,D,3D,F,284,27.3 x 50.8 ft./ 8.3 x 15.5 m.,2010/11/05,CM
+1199,USA,New Lenox,IL,AMC Showplace New Lenox 14 & IMAX,IMAX,D,3D,F,236,25.4 x 46.0 ft./ 7.7 x 14.0 m.,2011/06/24,CM
+1200,USA,Niles,IL,AMC Niles 12 & IMAX,IMAX,D,3D,F,388,33.4 x 62.8 ft./ 10.2 x 19.1 m.,2012/11/08,CM
+1201,USA,Oak Brook,IL,AMC Oakbrook 12 & IMAX,IMAX,D,3D,F,,29.8 x 53.4 ft./ 9.1 x 16.3 m.,2016/10/21,CM
+1202,USA,Peoria,IL,AMC Grand Prairie 18 & IMAX,IMAX,D,3D,F,341,30.0 x 60.0 ft./ 9.1 x 18.3 m.,2011/04/29,CM
+1203,USA,Peoria,IL,Peoria Riverfront Museum,GI,D,3D,F,200,52.0 x 70.0 ft./ 21.3 x 15.8 m.,2012/10/20,N
+1204,USA,Rockford,IL,AMC Rockford 16 & IMAX,IMAX,D,3D,F,251,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2011/12/15,CM
+1205,USA,Schaumburg,IL,AMC Streets of Woodfield & IMAX,IMAX,D,3D,F,303,27.9 x 50.9 ft./ 8.5 x 15.5 m.,2010/09/03,CM
+1206,USA,Skokie,IL,AMC Village Crossing 18 & IMAX,IMAX,D,3D,F,363,29.9 x 53.5 ft./ 9.1 x 16.3 m.,2010/09/24,CM
+1207,USA,South Barrington,IL,AMC South Barrington 30 & IMAX,IMAX,D,3D,F,439,34.1 x 62.7 ft./ 10.4 x 19.1 m.,2009/03/20,CM
+1208,USA,Springfield,IL,AMC Springfield 12 & IMAX,IMAX,D,3D,F,,25.5 x 46.0 ft./ 7.8 x 14.0 m.,2017/05/27,CM
+1209,USA,Woodridge,IL,Cinemark @ Seven Bridges & IMAX,IMAX,1570+D,3D,F,252,50.0 x 70.0 ft./ 15.2 x 21.3 m.,2000/02/25,CM
+1210,USA,Evansville,IN,Showplace Cinemas East & IMAX,IMAX,D,3D,F,296,44.3 x 69.8 ft./ 13.5 x 21.3 m.,2004/11/19,CM
+1211,USA,Fort Wayne,IN,AMC Jefferson Pointe 18 & IMAX,IMAX,D,3D,F,312,,2011/03/11,CM
+1212,USA,Indianapolis,IN,AMC Castleton Square 14 & IMAX,IMAX,D,3D,F,,28.5 x 51.2 ft./ 8.7 x 15.6 m.,2017/05/04,CM
+1213,USA,Indianapolis,IN,AMC Indianapolis 17 & IMAX,IMAX,D,3D,F,351,42.0 x 70.0 ft./ 12.8 x 21.3 m.,2007/09,CM
+1214,USA,Indianapolis,IN,AMC Traders Point 12 & IMAX,IMAX,D,3D,F,280,25.9 x 50.1 ft./ 7.9 x 15.3 m.,2011/10/07,CM
+1215,USA,Indianapolis,IN,Indiana State Museum,IMAX,1570+D,3D,F,404,62.0 x 84.0 ft./ 19.2 x 25.6 m.,1996/12/19,N
+1216,USA,Lafayette,IN,Goodrich Eastside 10 Theater,IMAX,D,3D,F,,,2019/06/14,CM
+1217,USA,Muncie,IN,AMC Muncie 12 & IMAX,IMAX,D,3D,F,,24.3 x 45.3 ft./ 7.4 x 13.8 m.,2017/10/27,CM
+1218,USA,Schererville,IN,AMC Schererville 16 & IMAX,IMAX,D,3D,F,301,25.3 x 50.0 ft./ 7.7 x 15.2 m.,2011/10/13,CM
+1219,MEXICO,Guadalajara,Jalisco,Cinepolis Forum Tlaquepaque & IMAX,IMAX,D,3D,F,,30.3 x 54.8 ft./ 9.2 x 16.7 m.,2013/12/27,CM
+1220,MEXICO,Guadalajara,Jalisco,Cinepolis Galerias & IMAX,IMAX,D,3D,F,320,32.8 x 60.7 ft./ 10.0 x 18.5 m.,2005/06/15,CM
+1221,CHINA,Changzhou,Jiangsu,Changzhou Longcheng Paradise W,IMAX,D,3D,F,,33.7 x 58.9 ft./ 10.3 x 18.0 m.,2018/09/28,CM
+1222,CHINA,Kunshan,Jiangsu,Yangzhou Jiangdu Jiayuan Mall,IMAX,D,3D,F,,42.7 x 75.8 ft./ 13.0 x 23.1 m.,2018,CM
+1223,CHINA,Lianyungang,Jiangsu,Lianyungang Bestar,IMAX,D,3D,F,,35.4 x 63.6 ft./ 10.8 x 19.4 m.,2018/02/03,CM
+1224,CHINA,Nanjing,Jiangsu,Nanjing Blue Ocean Jiangsu,IMAX,D,3D,F,,37.4 x 67.0 ft./ 11.4 x 20.4 m.,2018/12/07,CM
+1225,CHINA,Nanjing,Jiangsu,Nanjing Fengsheng Commercial AMG,IMAX,D,3D,F,,40.2 x 71.5 ft./ 12.3 x 21.8 m.,2017/09/19,CM
+1226,CHINA,Nanjing,Jiangsu,Nanjing Lumiere,IMAX,D,3D,F,,,2018/05/02,CM
+1227,CHINA,Nantong,Jiangsu,Nantong Haimen Omnijoi & IMAX,IMAX,D,3D,F,,37.1 x 69.9 ft./ 11.3 x 21.3 m.,2017/12/23,CM
+1228,CHINA,Nantong,Jiangsu,Nantong Rugao Injoy Bestar & IMAX,IMAX,D,3D,F,,37.1 x 65.9 ft./ 11.3 x 20.1 m.,2017/11/17,CM
+1229,CHINA,Suqian,Jiangsu,Suqian The Central Omnijoi & IMAX,IMAX,D,3D,F,,41.9 x 73.8 ft./ 12.8 x 22.5 m.,2017/12/15,CM
+1230,CHINA,Suzhou,Jiangsu,Suzhou Center CGV & IMAX,IMAX,D,3D,F,,40.2 x 69.3 ft./ 12.3 x 21.1 m.,2017/11/11,CM
+1231,CHINA,Suzhou,Jiangsu,Suzhou SND Culture & Sports Centre Omnijoi & IMAX,IMAX,D,3D,F,,39.9 x 69.9 ft./ 12.2 x 21.3 m.,2017/08/25,CM
+1232,CHINA,Taizhou,Jiangsu,Taixing Wuyue Bestar & IMAX,IMAX,D,3D,F,,40.5 x 70.7 ft./ 12.3 x 21.6 m.,2018/11/23,CM
+1233,CHINA,Yangzhou,Jiangsu,Yangzhou Injoy Bestar & IMAX,IMAX,D,3D,F,,45.5 x 78.7 ft./ 13.9 x 24.0 m.,2018/09/28,CM
+1234,CHINA,Zhenjiang,Jiangsu,Zhenjiang Injoy Bestar & IMAX,IMAX,D,3D,F,,33.9 x 61.4 ft./ 10.3 x 18.7 m.,2017/08/25,CM
+1235,CHINA,Nanjing,Jiangsu Prov.,Nanjing Juvenile Science & Technology Center,IMAX,1570,2D,D,237,68.9 ft./ 21.0 m.,2005/10/28,N
+1236,CHINA,Xinyu,Jiangxi,Xinyu Jinyi & IMAX,IMAX,D,3D,F,,35.6 x 63.7 ft./ 10.9 x 19.4 m.,2017/01/25,CM
+1237,CHINA,Changchun,Jilin,Changchun Century Plaza CGV & IMAX,IMAX,D,3D,F,,34.9 x 61.8 ft./ 10.6 x 18.8 m.,2018/10/30,CM
+1238,CHINA,Changchun,Jilin,Changchun Injoy Bestar & IMAX,IMAX,D,3D,F,,43.4 x 76.8 ft./ 13.2 x 23.4 m.,2017/07/27,CM
+1239,SOUTH AFRICA,Durban,K.N.,Gateway IMAX Theatre,IMAX,D,3D,F,,34.1 x 61.8 ft./ 10.4 x 18.8 m.,2013/11/08,CM
+1240,JAPAN,Kagawa-gun,Kagawa Pref.,Sanuki Children's Center,GOTO,D,2D,D,200,66.0 ft./ 20.1 m.,1995,N
+1241,JAPAN,Kagoshima City,Kagoshima Pref.,Kagoshima Municipal Science Center,IMAX,1570+DL,2D,D,284,75.5 ft./ 23.0 m.,1990/12/25,N
+1242,JAPAN,Yokohama,Kanagawa,Yokohama Burg13 & IMAX,IMAX,D,3D,F,,34.4 x 62.5 ft./ 10.5 x 19.1 m.,2016/06/30,CM
+1243,JAPAN,Fujisawa-shi,Kanagawa Pref.,Shonandai Cultural Center,GOTO,D,2D,D,200,66.0 ft./ 20.1 m.,1989/07/18,N
+1244,JAPAN,Sagamihara-shi,Kanagawa Pref.,Sagamihara City Museum,LIB,D,2D,D,250,76.0 ft./ 23.2 m.,1995/07,N
+1245,USA,Hutchinson,KS,Cosmosphere,BARCO,D,2D,D,114,44.0 ft./ 13.4 m.,1980/10/26,N
+1246,USA,Kansas City,KS,AMC Legends 14 & IMAX,IMAX,D,3D,F,,47.6 x 84.0 ft./ 14.5 x 25.6 m.,2016/09/09,CM
+1247,USA,Leawood,KS,AMC Town Center 20 & IMAX,IMAX,D,3D,F,299,27.8 x 50.0 ft./ 8.5 x 15.2 m.,2010/11/12,CM
+1248,USA,Manhattan,KS,AMC Dine-In Manhattan 13 & IMAX,IMAX,D,3D,F,,40.0 x 75.0 ft./ 12.2 x 22.9 m.,2016/12/15,CM
+1249,USA,Olathe,KS,AMC Studio 28 & IMAX,IMAX,D,3D,F,288,31.5 x 52.2 ft./ 9.6 x 15.9 m.,2005/06/15,CM
+1250,USA,Wichita,KS,"Exploration Place, Inc.",SS,D,2D,D,165,60.0 ft./ 18.3 m.,2003,N
+1251,USA,Wichita,KS,Regal Warren West 17 & IMAX,IMAX,D,3D,F,600,58.0 x 86.0 ft./ 17.7 x 26.2 m.,2010/12/17,CM
+1252,USA,Lexington,KY,Regal Hamburg Pavilion Stadium,IMAX,D,3D,F,,26.8 x 46.2 ft./ 8.2 x 14.1 m.,2017/11/03,CM
+1253,USA,Louisville,KY,AMC Stonybrook 20 & IMAX,IMAX,D,3D,F,207,24.0 x 46.8 ft./ 7.3 x 14.3 m.,2004/11/10,CM
+1254,USA,Louisville,KY,Kentucky Science Center,BARCO,D,3D,F,230,41.0 x 58.0 ft./ 12.5 x 17.7 m.,1988/06/23,N
+1255,USA,Newport,KY,AMC Newport On The Levee 20 & IMAX,IMAX,D,3D,F,349,29.8 x 49.3 ft./ 9.1 x 15.0 m.,2009/04/17,CM
+1256,USA,Baton Rouge,LA,AMC Baton Rouge 16 & IMAX,IMAX,D,3D,F,,33.1 x 60.0 ft./ 10.1 x 18.3 m.,2011/03/11,CM
+1257,USA,Baton Rouge,LA,AMC Mall of Louisiana 15 & IMAX,IMAX,D,3D,F,330,35.0 x 61.0 ft./ 10.7 x 18.6 m.,2011/03/10,CM
+1258,USA,Baton Rouge,LA,Louisiana Art and Science Museum,SS,D,2D,D,150,60.0 ft./ 18.3 m.,2003/05/24,N
+1259,USA,Bossier City,LA,Regal Louisiana Boardwalk 14 & IMAX,IMAX,D,3D,F,413,38.1 x 60.0 ft./ 11.6 x 18.3 m.,2011/02/16,CM
+1260,USA,Harahan,LA,AMC Elmwood Palace 20 & IMAX,IMAX,D,3D,F,400,37.0 x 59.5 ft./ 11.3 x 18.1 m.,2009/01/23,CM
+1261,USA,Harvey,LA,AMC Westbank Palace 16 & IMAX,IMAX,D,3D,F,,29.9 x 54.2 ft./ 9.1 x 16.5 m.,2013/12/14,CM
+1262,USA,Kenner,LA,Kenner Planetarium & MegaDome Cinema,EPLAN,870+D,2D,D,118,55.0 ft./ 16.8 m.,2003/08,N
+1263,USA,Metairie,LA,AMC Clearview Palace 12 & IMAX,IMAX,D,3D,F,235,30.0 x 49.0 ft./ 9.1 x 14.9 m.,2012/03/02,CM
+1264,USA,Shreveport,LA,Sci-Port,IMAX,1570,2D,D,178,60.0 ft./ 18.3 m.,1998/11/12,N
+1265,USA,Slidell,LA,Grand 16 & IMAX,IMAX,D,3D,F,246,31.8 x 51.5 ft./ 9.7 x 15.7 m.,2011/06/28,CM
+1266,USA,Boston,MA,AMC Boston Common 19 & IMAX,IMAX,D,3D,F,409,29.5 x 61.0 ft./ 9.0 x 18.6 m.,2010/05/07,CM
+1267,USA,Boston,MA,Museum of Science Boston,IMAX,DL,2D,D,335,72.0 ft./ 23.2 m.,1987/05/21,N
+1268,USA,Boston,MA,New England Aquarium,BARCO,DL2,3D,F,378,43.0 x 80.0 ft./ 13.1 x 24.4 m.,2001/12/06,N
+1269,USA,Danvers,MA,AMC Liberty Tree Mall 20 & IMAX,IMAX,D,3D,F,400,29.0 x 53.4 ft./ 8.8 x 16.3 m.,2009/06/24,CM
+1270,USA,Dorchester,MA,AMC South Bay 12 & IMAX,IMAX,D,3D,F,,33.5 x 60.4 ft./ 10.2 x 18.4 m.,2017,CM
+1271,USA,Methuen,MA,AMC Methuen 20 & IMAX,IMAX,DL,3D,F,315,30.7 x 53.9 ft./ 9.4 x 16.4 m.,2009/07/24,CM
+1272,USA,Natick,MA,"Sunbrella IMAX 3D Theater, Jordan's Furniture Natick",IMAX,D,3D,F,264,52.9 x 68.0 ft./ 16.1 x 20.7 m.,2002/08/22,C
+1273,USA,Randolph,MA,Showcase Cinema de Lux Randolph & IMAX,IMAX,D,3D,F,441,27.7 x 55.0 ft./ 8.5 x 16.8 m.,2010/10/21,CM
+1274,USA,Reading,MA,"Sunbrella IMAX 3D Theater, Jordan's Furniture Reading",IMAX,DL2,3D,F,502,65.5 x 84.4 ft./ 20.0 x 25.7 m.,2004/10/29,C
+1275,USA,Somerville,MA,AMC Assembly Row 12 & IMAX,IMAX,D,3D,F,,30.8 x 55.1 ft./ 9.4 x 16.8 m.,2014/04/24,CM
+1276,INDIA,Mumbai,Maharashtra,Carnival IMAX Wadala,IMAX,D,3D,F,519,38.8 x 69.4 ft./ 11.8 x 21.2 m.,2001/03/24,CM
+1277,CANADA,Winnipeg,MB,Scotiabank Theatre Winnipeg,IMAX,D,3D,F,408,35.4 x 65.0 ft./ 10.8 x 19.8 m.,2011/06/28,CM
+1278,USA,Baltimore,MD,AMC White Marsh 16 & IMAX,IMAX,D,3D,F,445,28.0 x 53.0 ft./ 8.5 x 16.2 m.,2008/09/05,CM
+1279,USA,Baltimore,MD,Maryland Science Center,IMAX,D,3D,F,400,54.5 x 72.0 ft./ 16.6 x 22.0 m.,1987/06/20,N
+1280,USA,Columbia,MD,AMC Columbia 14 & IMAX,IMAX,DL,3D,F,271,24.0 x 52.0 ft./ 7.3 x 15.9 m.,2008/07/18,CM
+1281,USA,Frederick,MD,Regal Westview Stadium 16 & IMAX,IMAX,D,3D,F,280,25.2 x 46.8 ft./ 7.7 x 14.3 m.,2011/10/28,CM
+1282,USA,Gaithersburg,MD,AMC DINE-IN Rio Cinemas 18,IMAX,DL,3D,F,248,27.0 x 45.0 ft./ 8.2 x 13.7 m.,2011/06/17,CM
+1283,USA,Gambrills,MD,Regal Waugh Chapel Stadium 12 & IMAX,IMAX,D,3D,F,369,34.0 x 56.0 ft./ 10.4 x 17.1 m.,2012/09/14,CM
+1284,USA,Largo,MD,AMC Magic Johnson Capital Center 12 & IMAX,IMAX,D,3D,F,322,33.0 x 60.1 ft./ 10.1 x 18.3 m.,2012/02/10,CM
+1285,USA,Owings Mills,MD,AMC Owings Mills 17 & IMAX,IMAX,D,3D,F,230,24.0 x 45.0 ft./ 7.3 x 13.7 m.,2012/02/10,CM
+1286,USA,Silver Spring,MD,Regal Majestic Cinema 20 & IMAX,IMAX,D,3D,F,434,32.0 x 65.0 ft./ 9.8 x 19.8 m.,2010/11/19,CM
+1287,USA,Auburn Hills,MI,AMC Star Great Lakes 25 & IMAX,IMAX,D,3D,F,494,30.8 x 59.7 ft./ 9.4 x 18.2 m.,2009/10/16,CM
+1288,USA,Dearborn,MI,AMC Star Fairlane 21 & IMAX,IMAX,D,3D,F,303,28.6 x 54.5 ft./ 8.7 x 16.6 m.,2012/12/14,CM
+1289,USA,Dearborn,MI,The Henry Ford,CHRIS,D,3D,F,422,62.0 x 85.0 ft./ 18.9 x 25.9 m.,1999/11/19,N
+1290,USA,Detroit,MI,Michigan Science Center,IMAX,1570,2D,D,238,67.5 ft./ 20.6 m.,2012/12/26,N
+1291,USA,Grand Blanc,MI,NCG Trillium & IMAX,IMAX,D,3D,F,327,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2007/10/16,CM
+1292,USA,Grand Rapids,MI,Celebration! Cinema Grand Rapids North & IMAX,IMAX,1570+D,3D,F,281,52.9 x 70.0 ft./ 16.1 x 21.3 m.,2001/11/16,CM
+1293,USA,Lansing,MI,Celebration! Cinema & IMAX,IMAX,D,3D,F,330,45.0 x 70.0 ft./ 13.4 x 21.3 m.,2003/11/25,CM
+1294,USA,Livonia,MI,AMC Livonia 20 & IMAX,IMAX,D,3D,F,320,29.9 x 54.5 ft./ 9.1 x 16.6 m.,2009/10/02,CM
+1295,USA,Portage,MI,Celebration! Cinema Crossroads & IMAX,IMAX,D,3D,F,270,42.0 x 64.0 ft./ 12.8 x 19.5 m.,2012/05/23,CM
+1296,USA,Sterling Heights,MI,AMC Forum 30 & IMAX,IMAX,D,3D,F,259,33.0 x 51.0 ft./ 10.1 x 15.5 m.,2005/07/22,CM
+1297,USA,Traverse City,MI,AMC Cherry Blossom 14 & IMAX,IMAX,D,3D,F,,35.9 x 64.4 ft./ 10.9 x 19.6 m.,2015/12/17,CM
+1298,USA,Ypsilanti,MI,Ann Arbor 20 & IMAX,IMAX,D,3D,F,422,28.4 x 54.7 ft./ 8.7 x 16.7 m.,2006/05/12,CM
+1299,JAPAN,Matsusaka City,Mie Pref.,Mie Adventure Park,GOTO,D,2D,D,250,72.6 ft./ 22.1 m.,1988,N
+1300,JAPAN,Sendai,Miyagi,TOHO Cinemas Sendai & IMAX,IMAX,D,3D,F,,30.2 x 55.8 ft./ 9.2 x 17.0 m.,2016/07,CM
+1301,USA,Eden Prairie,MN,AMC Eden Prairie Mall 18 & IMAX,IMAX,D,3D,F,249,26.1 x 47.3 ft./ 8.0 x 14.4 m.,2010/08/13,CM
+1302,USA,Edina,MN,AMC Southdale 16 & IMAX,IMAX,D,3D,F,340,29.9 x 54.1 ft./ 9.1 x 16.5 m.,2009/11/06,CM
+1303,USA,Hibbing,MN,Hibbing Community College,MEGA,870,2D,D,60,40.6 ft./ 12.4 m.,1994,N
+1304,USA,Maple Grove,MN,AMC Arbor Lakes 16 & IMAX,IMAX,D,3D,F,372,30.5 x 54.8 ft./ 9.3 x 16.7 m.,2010/11/05,CM
+1305,USA,Rochester,MN,Marcus Galaxy Cine 14 & IMAX,IMAX,D,3D,F,,36.1 x 65.8 ft./ 11.0 x 20.1 m.,2015/11/05,CM
+1306,USA,Roseville,MN,AMC Rosedale 14 & IMAX,IMAX,DL,3D,F,271,28.9 x 51.5 ft./ 8.8 x 15.7 m.,2009/05/22,CM
+1307,USA,Saint Paul,MN,Science Museum of Minnesota,IMAX,DL,2D,F+D,340,66.0 x 90.0 ft./ 20.1 x 27.4 m.,1999/12/11,N
+1308,USA,Branson,MO,Branson's IMAX Entertainment Complex,IMAX,DL2,3D,F,380,62.3 x 84.0 ft./ 19.0 x 25.6 m.,1993/09/15,C
+1309,USA,Chesterfield,MO,AMC Chesterfield 14 & IMAX,IMAX,D,3D,F,271,28.8 x 51.5 ft./ 8.8 x 15.7 m.,2011/06/24,CM
+1310,USA,Independence,MO,AMC Independence Commons 20 & IMAX,IMAX,D,3D,F,282,24.9 x 49.9 ft./ 7.6 x 15.2 m.,2009/06/19,CM
+1311,USA,Kansas City,MO,AMC BarryWoods 24 & IMAX,IMAX,DL,3D,F,432,33.0 x 58.0 ft./ 10.1 x 17.7 m.,2008/09/19,CM
+1312,USA,Kansas City,MO,Union Station Kansas City,BARCO,D,3D,F,440,47.8 x 77.0 ft./ 14.6 x 23.5 m.,1999/11/20,N
+1313,USA,Saint Louis,MO,Saint Louis Science Center,IMAX,DL,2D,D,270,79.0 ft./ 24.1 m.,1991/11,N
+1314,USA,Sappington,MO,Marcus Ronnies 20 Cine & IMAX,IMAX,D,3D,F,270,52.5 x 69.9 ft./ 16.0 x 21.3 m.,2005/11/18,CM
+1315,USA,Springfield,MO,AMC Springfield 11 & IMAX,IMAX,D,3D,F,300,42.0 x 70.0 ft./ 12.8 x 21.3 m.,2011/11/18,CM
+1316,MEXICO,Cuernavaca,Morelos,Galerias Cuernavaca & IMAX,IMAX,D,3D,F,,33.3 x 60.4 ft./ 10.2 x 18.4 m.,2014/11/21,CM
+1317,USA,Jackson,MS,Davis Planetarium,KM,D,2D,D,190,60.0 ft./ 18.3 m.,2000/09,N
+1318,USA,Madison,MS,Malco Grandview Cinema & IMAX,IMAX,D,3D,F,,,2019/12/13,CM
+1319,USA,Billings,MT,AMC Shiloh 14 & IMAX,IMAX,D,3D,F,,28.2 x 52.3 ft./ 8.6 x 15.9 m.,2015/12/04,CM
+1320,USA,Missoula,MT,AMC Missoula 12 & IMAX,IMAX,D,3D,F,,36.4 x 64.8 ft./ 11.1 x 19.8 m.,2015/12/17,CM
+1321,USA,West Yellowstone,MT,Yellowstone Giant Screen Theatre,NEC,D,2D,F,356,56.9 x 76.8 ft./ 17.3 x 23.4 m.,1994/06/19,C
+1322,JAPAN,Nagasaki-shi,Nagasaki Pref.,Nagasaki Science Museum,ES,D,2D,D,280,75.9 ft./ 23.1 m.,1997,N
+1323,JAPAN,Yamatokoriyama-shi,Nara Pref,IMAX Cinema Sunshine Yamatokoriyama,IMAX,D,3D,F,378,31.5 x 59.9 ft./ 9.6 x 18.3 m.,2011/07,CM
+1324,USA,Cary,NC,Regal Crossroads Stadium 20 & IMAX,IMAX,D,3D,F,238,25.6 x 47.9 ft./ 7.8 x 14.6 m.,2010/09/10,CM
+1325,USA,Charlotte,NC,AMC Northlake 14 & IMAX,IMAX,D,3D,F,272,28.3 x 51.8 ft./ 8.6 x 15.8 m.,2012/10/05,CM
+1326,USA,Charlotte,NC,Discovery Place,IMAX,1570,2D,D,280,79.0 ft./ 24.1 m.,1991/11/02,N
+1327,USA,Charlotte,NC,Regal Stonecrest at Pipers Glen Stadium 22 & IMAX,IMAX,D,3D,F,282,25.6 x 48.2 ft./ 7.8 x 14.7 m.,2009/03/27,CM
+1328,USA,Concord,NC,AMC Concord Mills 24 & IMAX,IMAX,D,3D,F,270,26.9 x 48.2 ft./ 8.2 x 14.7 m.,2009/06/19,CM
+1329,USA,Durham,NC,AMC Southpoint 17 & IMAX,IMAX,D,3D,F,322,34.5 x 62.5 ft./ 10.5 x 19.1 m.,2011/05/13,CM
+1330,USA,Fayetteville,NC,AMC Fayetteville 14 & MAX,IMAX,D,3D,F,,35.7 x 65.8 ft./ 10.9 x 20.1 m.,2014/11/20,CM
+1331,USA,High Point,NC,Regal Palladium Stadium 14 & IMAX,IMAX,D,3D,F,279,29.8 x 50.0 ft./ 9.1 x 15.2 m.,2011/12/15,CM
+1332,USA,Raleigh,NC,Marbles Kids Museum,IMAX,D,3D,F,267,52.0 x 70.0 ft./ 16.1 x 21.3 m.,2001/11/16,N
+1333,USA,Wilmington,NC,Regal Mayfaire Stadium 16 & IMAX,IMAX,D,3D,F,296,29.5 x 48.9 ft./ 9.0 x 14.9 m.,2012/06/15,CM
+1334,USA,Winston-Salem,NC,Grand 18 & IMAX,IMAX,D,3D,F,352,32.9 x 58.7 ft./ 10.0 x 17.9 m.,2011/06/28,CM
+1335,USA,Hastings,NE,Hastings Museum,NEC,D,3D,F,211,52.0 x 65.0 ft./ 15.9 x 19.8 m.,2011/10/26,N
+1336,USA,Omaha,NE,AMC Westroads 14 & IMAX,IMAX,D,3D,F,,34.1 x 62.1 ft./ 10.4 x 18.9 m.,2013/12/20,CM
+1337,USA,Omaha,NE,Henry Doorly Zoo,CHRIS,DL,3D,F,358,41.0 x 75.0 ft./ 12.5 x 23.0 m.,1997/03/27,N
+1338,USA,Atlantic City,NJ,Tropicana Casino And Resort,IMAX,D,3D,F,287,55.0 x 75.0 ft./ 16.0 x 21.3 m.,2004/11/23,C
+1339,USA,Cherry Hill,NJ,AMC Cherry Hill 24 & IMAX,IMAX,DL,3D,F,480,28.0 x 54.0 ft./ 8.5 x 16.5 m.,2008/08/15,CM
+1340,USA,Clifton,NJ,AMC Clifton Commons 16 & IMAX,IMAX,D,3D,F,225,24.0 x 45.0 ft./ 7.3 x 13.7 m.,2011/08/26,CM
+1341,USA,Eatontown,NJ,AMC Monmouth Mall 15 & IMAX,IMAX,D,3D,F,230,29.5 x 52.7 ft./ 9.0 x 16.1 m.,2010/07/31,CM
+1342,USA,Elizabeth,NJ,AMC Jersey Gardens 20 & IMAX,IMAX,D,3D,F,585,31.4 x 58.9 ft./ 9.6 x 18.0 m.,2009/11/06,CM
+1343,USA,Jersey City,NJ,Liberty Science Center,ES,D,2D,D,392,88.6 ft./ 27.0 m.,1993/01/24,N
+1344,USA,Linden,NJ,AMC Aviation 12 & IMAX,IMAX,D,3D,F,209,28.3 x 51.4 ft./ 8.6 x 15.7 m.,2014/12/16,CM
+1345,USA,New Brunswick,NJ,AMC New Brunswick 18 & IMAX,IMAX,DL,3D,F,416,31.8 x 58.3 ft./ 9.7 x 17.8 m.,2009/09/11,CM
+1346,USA,Northfield,NJ,Tilton Square Theatre,IMAX,D,3D,F,192,,2020,CM
+1347,USA,Paramus,NJ,AMC Garden State 16 & IMAX,IMAX,DL,3D,F,324,37.5 x 63.5 ft./ 11.4 x 19.4 m.,2009/11/20,CM
+1348,USA,Rockaway,NJ,AMC Rockaway 16 & IMAX,IMAX,DL,3D,F,291,30.2 x 54.1 ft./ 9.2 x 16.5 m.,2009/11/25,CM
+1349,CANADA,St. John's,NL,Scotiabank St. John's & IMAX,IMAX,D,3D,F,280,30.0 x 56.8 ft./ 9.2 x 17.3 m.,2011/10/21,CM
+1350,MEXICO,Monterrey,NL,Cinepolis Galerias Monterrey & IMAX,IMAX,D,3D,F,,30.4 x 55.0 ft./ 9.3 x 16.8 m.,2015/03/27,CM
+1351,MEXICO,Monterrey,NL,Cinepolis Valle Oriente & IMAX,IMAX,D,3D,F,409,32.8 x 60.7 ft./ 10.0 x 18.5 m.,2005/03/11,CM
+1352,MEXICO,Monterrey,NL,Papalote Museo del Nino,IMAX,DL2,3D,F,360,52.5 x 68.9 ft./ 16.0 x 21.0 m.,2017/06/07,N
+1353,USA,Alamogordo,NM,New Mexico Museum of Space History,SPITZ,DL,2D,D,92,40.0 ft./ 12.2 m.,1980/12/21,N
+1354,USA,Albuquerque,NM,AMC Albuquerque 12 & IMAX,IMAX,D,3D,F,,39.2 x 70.0 ft./ 12.0 x 21.3 m.,2015/12/17,CM
+1355,USA,Albuquerque,NM,New Mexico Museum of Natural History and Science,BARCO,D,3D,F,270,32.0 x 60.0 ft./ 9.8 x 18.3 m.,1999/10/02,N
+1356,USA,Albuquerque,NM,Regal Winrock Stadium 16 & IMAX,IMAX,D,3D,F,,40.4 x 68.8 ft./ 12.3 x 21.0 m.,2013/11/15,CM
+1357,CANADA,Halifax,NS,Scotiabank Halifax & IMAX,IMAX,1570+D,3D,F,271,52.8 x 71.5 ft./ 16.1 x 21.8 m.,1998/01/23,CM
+1358,USA,Henderson,NV,Regal Sunset Station 13 & IMAX,IMAX,D,3D,F,291,24.0 x 48.0 ft./ 7.3 x 14.6 m.,2008/12/19,CM
+1359,USA,Las Vegas,NV,AMC Town Square 18 & IMAX,IMAX,D,3D,F,,36.9 x 66.0 ft./ 11.3 x 20.1 m.,2016/04/15,CM
+1360,USA,Las Vegas,NV,Brenden Theatres & IMAX at the Palms,IMAX,1570+D,3D,F,183,41.0 x 56.0 ft./ 12.5 x 17.1 m.,2003/08/15,CM
+1361,USA,Las Vegas,NV,Regal Red Rock Stadium 16 & IMAX,IMAX,D,3D,F,350,35.0 x 57.5 ft./ 10.7 x 17.5 m.,2007/12/14,CM
+1362,USA,North Las Vegas,NV,Regal Aliante Stadium 16 & IMAX,IMAX,D,3D,F,291,33.0 x 51.0 ft./ 10.1 x 15.5 m.,2008/11/14,CM
+1363,USA,Sparks,NV,Galaxy Theatres Legends IMAX,IMAX,D,3D,F,,40.0 x 75.0 ft./ 12.2 x 22.9 m.,2014/02/14,CM
+1364,USA,Albany,NY,Regal Crossgates Stadium 18 & IMAX,IMAX,D,3D,F,295,27.0 x 51.0 ft./ 8.2 x 15.5 m.,2008/11/07,CM
+1365,USA,Brooklyn,NY,UA Sheepshead Bay Stadium 14 & IMAX,IMAX,D,3D,F,137,27.0 x 47.0 ft./ 8.2 x 14.3 m.,2008/10/24,CM
+1366,USA,Deer Park,NY,Regal Deer Park 16 & IMAX,IMAX,DL,3D,F,339,31.0 x 50.0 ft./ 9.5 x 15.2 m.,2008/10/24,CM
+1367,USA,Farmingdale,NY,UA Farmingdale Stadium 10 & IMAX,IMAX,D,3D,F,270,29.5 x 52.5 ft./ 9.0 x 16.0 m.,2015/12/17,CM
+1368,USA,Fresh Meadows,NY,AMC Fresh Meadows 7 & IMAX,IMAX,D,3D,F,122,,2018/04,CM
+1369,USA,Garden City,NY,Cradle of Aviation Museum,IMAX,1570+D,2D,D,300,76.0 ft./ 24.0 m.,2002/05/20,N
+1370,USA,New Rochelle,NY,Regal New Roc Stadium 18 & IMAX,IMAX,1570+DL,3D,F,232,59.5 x 81.5 ft./ 18.1 x 24.8 m.,1999/09/24,CM
+1371,USA,New York,NY,AMC 34th Street 14 & IMAX,IMAX,DL,3D,F,212,30.2 x 54.1 ft./ 9.2 x 16.5 m.,2009/06/19,CM
+1372,USA,New York,NY,AMC Empire 25 & IMAX,IMAX,DL,3D,F,285,28.0 x 58.0 ft./ 8.5 x 17.7 m.,2008/09/05,CM
+1373,USA,New York,NY,AMC Kips Bay 15 & IMAX,IMAX,DL,3D,F,330,27.5 x 59.9 ft./ 8.4 x 18.3 m.,2010/03/05,CM
+1374,USA,New York,NY,AMC Lincoln Square 13 & IMAX,IMAX,1570+DL2,3D,F,472,75.6 x 101.0 ft./ 23.0 x 29.8 m.,1994/11/18,CM
+1375,USA,New York,NY,American Museum of Natural History,IMAX,1570+D,3D,F,598,40.0 x 60.0 ft./ 12.2 x 20.1 m.,1982/02/09,N
+1376,USA,Niagara Falls,NY,Niagara Falls Adventure Theater,BARCO,D,2D,F,314,25.0 x 45.0 ft./ 7.6 x 13.7 m.,2007/05,C
+1377,USA,Port Chester,NY,AMC Port Chester 14 & IMAX,IMAX,D,3D,F,312,30.2 x 56.1 ft./ 9.2 x 17.1 m.,2010/09/24,CM
+1378,USA,Rochester,NY,Cinemark Tinseltown USA & IMAX,IMAX,1570+D,3D,F,253,52.9 x 70.0 ft./ 16.1 x 21.3 m.,1999/11/04,CM
+1379,USA,Rochester,NY,Rochester Museum and Science Center,ES,D,2D,D,130,65.0 ft./ 19.8 m.,1995/01/26,N
+1380,USA,Staten Island,NY,AMC Staten Island 11 & IMAX,IMAX,D,3D,F,273,30.9 x 55.2 ft./ 9.4 x 16.8 m.,2018,CM
+1381,USA,Stony Brook,NY,AMC Stony Brook 17 & IMAX,IMAX,D,3D,F,392,28.0 x 52.0 ft./ 8.5 x 15.9 m.,2009/02/27,CM
+1382,USA,Syracuse,NY,Museum of Science and Technology,IMAX,1570,2D,D,214,65.5 ft./ 20.0 m.,1997/01/26,N
+1383,USA,Syracuse,NY,Regal Destiny USA Stadium 19 & IMAX,IMAX,D,3D,F,,40.0 x 72.0 ft./ 11.6 x 21.3 m.,2013/06/14,CM
+1384,USA,West Nyack,NY,AMC Palisades Center 21 & IMAX,IMAX,D,3D,F,267,32.7 x 59.7 ft./ 10.0 x 18.2 m.,2015/06/02,CM
+1385,USA,Westbury,NY,UA Westbury Stadium 12 & IMAX,IMAX,D,3D,F,267,30.5 x 53.0 ft./ 9.3 x 16.2 m.,2011/03/22,CM
+1386,USA,White Plains,NY,City Center 15: Cinema De Lux & IMAX,IMAX,D,3D,F,339,27.5 x 59.5 ft./ 8.4 x 18.1 m.,2004/11/10,CM
+1387,USA,Williamsville,NY,Regal Transit Center Stadium 18 & IMAX,IMAX,D,3D,F,260,52.9 x 72.0 ft./ 16.1 x 22.0 m.,1999/12/17,CM
+1388,USA,Beavercreek,OH,The Greene 14 & IMAX,IMAX,D,3D,F,303,31.7 x 56.8 ft./ 9.7 x 17.3 m.,2010/11/19,CM
+1389,USA,Cincinnati,OH,Cincinnati Museum Center,IMAX,DL,2D,D,269,72.0 ft./ 22.0 m.,1990/11/10,N
+1390,USA,Cincinnati,OH,Springdale 18: Cinema de Lux & IMAX,IMAX,D,3D,F,353,27.8 x 53.5 ft./ 8.5 x 16.3 m.,2004/11/10,CM
+1391,USA,Cleveland,OH,Great Lakes Science Center,D3D,DL3,3D,D,320,79.0 ft./ 23.8 m.,1996/06/27,N
+1392,USA,Columbus,OH,AMC Easton Town Center 30 & IMAX,IMAX,D,3D,F,277,32.0 x 50.0 ft./ 9.8 x 15.2 m.,2005/08/26,CM
+1393,USA,Columbus,OH,COSI Columbus,CHRIS,D,3D,F,391,52.0 x 75.5 ft./ 15.9 x 23.0 m.,1999/11/06,N
+1394,USA,Columbus,OH,Lennox Town Center & IMAX,IMAX,DL,3D,F,422,30.1 x 57.9 ft./ 9.2 x 17.7 m.,2009/10/02,CM
+1395,USA,Dayton,OH,National Museum of the U.S. Air Force,BARCO,D,3D,F,400,60.0 x 80.0 ft./ 18.6 x 24.4 m.,1991/05/05,N
+1396,USA,Grove City,OH,AMC Grove City 14 & IMAX,IMAX,D,3D,F,,34.2 x 62.4 ft./ 10.4 x 19.0 m.,2013/09/27,CM
+1397,USA,Toledo,OH,Imagination Station,BARCO,DL2,3D,F,280,32.0 x 58.0 ft./ 9.8 x 17.7 m.,2020/06,N
+1398,USA,West Chester,OH,AMC West Chester 19 & IMAX,IMAX,D,3D,F,,34.1 x 62.0 ft./ 10.4 x 18.9 m.,2013/12/23,CM
+1399,USA,Westlake,OH,Regal Crocker Park Stadium 16 & IMAX,IMAX,D,3D,F,288,29.5 x 46.6 ft./ 9.0 x 14.2 m.,2010/07/16,CM
+1400,USA,Lawton,OK,AMC Patriot 13 & IMAX,IMAX,D,3D,F,,39.9 x 70.5 ft./ 12.2 x 21.5 m.,2015/11/05,CM
+1401,USA,Moore,OK,Regal Warren Moore & IMAX,IMAX,D,3D,F,601,60.0 x 80.0 ft./ 18.3 x 24.4 m.,2012/02/24,CM
+1402,USA,Oklahoma City,OK,AMC Quail Springs Mall 24 & IMAX,IMAX,D,3D,F,450,32.8 x 59.1 ft./ 10.0 x 18.0 m.,2009/11/20,CM
+1403,USA,Tulsa,OK,AMC Southroads 20 & IMAX,IMAX,D,3D,F,405,32.6 x 58.5 ft./ 9.9 x 17.8 m.,2010/12/17,CM
+1404,USA,Tulsa,OK,Cinemark Tulsa & IMAX,IMAX,D,3D,F,260,52.9 x 71.5 ft./ 16.1 x 21.8 m.,2000/03/10,CM
+1405,JAPAN,Kurashiki-shi,Okayama Pref.,Kurashiki Science Center,GOTO,D,2D,D,210,69.3 ft./ 21.1 m.,1993/04/24,N
+1406,CANADA,Ancaster,ON,SilverCity Ancaster Cinemas & IMAX,IMAX,D,3D,F,421,35.5 x 64.2 ft./ 10.8 x 19.6 m.,2011/10/07,CM
+1407,CANADA,Gloucester,ON,Scotiabank Ottawa & IMAX,IMAX,1570+D,3D,F,439,36.3 x 68.2 ft./ 11.1 x 20.8 m.,2006/12/13,CM
+1408,CANADA,Kanata,ON,Landmark Cinemas 24 Kanata & IMAX,IMAX,D,3D,F,430,31.5 x 56.8 ft./ 9.6 x 17.3 m.,2010/10/15,CM
+1409,CANADA,Kingston,ON,Landmark Cinemas 10 Kingston & IMAX,IMAX,D,3D,F,241,29.5 x 52.8 ft./ 9.0 x 16.1 m.,2012/12/18,CM
+1410,CANADA,Kitchener,ON,Landmark Cinemas 12 Kitchener & IMAX,IMAX,D,3D,F,278,30.2 x 53.6 ft./ 9.2 x 16.3 m.,2011/07/15,CM
+1411,CANADA,London,ON,SilverCity London Cinemas & IMAX,IMAX,D,3D,F,309,30.9 x 56.4 ft./ 9.4 x 17.2 m.,2011/12/15,CM
+1412,CANADA,Markham,ON,Cineplex Cinemas Markham VIP & IMAX,IMAX,D,3D,F,,33.8 x 61.2 ft./ 10.3 x 18.7 m.,2015/04,CM
+1413,CANADA,Mississauga,ON,Cineplex Cinemas Courtney Park & IMAX,IMAX,D,3D,F,,29.9 x 53.7 ft./ 9.1 x 16.4 m.,2010/10/16,CM
+1414,CANADA,Mississauga,ON,Cineplex Cinemas Mississauga & IMAX,IMAX,1570+D,3D,F,262,52.8 x 70.5 ft./ 16.1 x 21.5 m.,1999/07,CM
+1415,CANADA,Niagara Falls,ON,Niagara Falls IMAX,IMAX,1570,2D,F,620,61.0 x 82.0 ft./ 18.6 x 25.0 m.,1979/05/19,C
+1416,CANADA,North York,ON,Cineplex Cinemas Empress Walk & IMAX,IMAX,D,3D,F,353,36.3 x 65.5 ft./ 11.1 x 20.0 m.,2012/05/04,CM
+1417,CANADA,Oakville,ON,Cineplex Cinemas Winston Churc,IMAX,D,3D,F,,34.3 x 61.7 ft./ 10.5 x 18.8 m.,2015/07,CM
+1418,CANADA,Sudbury,ON,Science North,IMAX,DL2,3D,F,200,53.6 x 72.5 ft./ 16.3 x 22.1 m.,1994/06/18,N
+1419,CANADA,Toronto,ON,Cineplex Cinemas Yonge Dundas & IMAX,IMAX,D,3D,F,349,29.5 x 55.4 ft./ 9.0 x 16.9 m.,2010/10/15,CM
+1420,CANADA,Toronto,ON,Cineplex Odeon Eglinton Town Centre,IMAX,D,3D,F,,,2017/11/03,CM
+1421,CANADA,Toronto,ON,Ontario Place Corporation,IMAX,1570+DL2,3D,F,723,60.0 x 80.0 ft./ 18.3 x 24.4 m.,1971/05/22,C
+1422,CANADA,Toronto,ON,Ontario Science Centre,IMAX,1570,2D,D,320,78.7 ft./ 24.0 m.,1996/12/07,N
+1423,CANADA,Toronto,ON,Scotiabank Toronto & IMAX,IMAX,DL2,3D,F,408,60.0 x 78.0 ft./ 18.3 x 23.8 m.,1999/05/19,CM
+1424,CANADA,Vaughan,ON,Cineplex Cinemas Vaughan & IMAX,IMAX,1570+D,3D,F,260,52.9 x 71.5 ft./ 16.1 x 21.8 m.,1999/02/12,CM
+1425,CANADA,Whitby,ON,Landmark Cinemas 24 Whitby & IMAX,IMAX,D,3D,F,449,31.4 x 57.4 ft./ 9.6 x 17.5 m.,2010/10/16,CM
+1426,CANADA,Windsor,ON,SilverCity Windsor Cinemas & IMAX,IMAX,D,3D,F,395,35.0 x 64.0 ft./ 10.7 x 19.5 m.,2011/07/15,CM
+1427,USA,Bend,OR,Regal Old Mill Stadium 16 & IMAX,IMAX,D,3D,F,290,25.7 x 47.9 ft./ 7.8 x 14.6 m.,2011/10/07,CM
+1428,USA,Eugene,OR,Regal Valley River Center 15 & IMAX,IMAX,D,3D,F,400,39.0 x 60.0 ft./ 11.9 x 18.3 m.,2011/02/23,CM
+1429,USA,McMinnville,OR,Evergreen Aviation Museum,BARCO,D,3D,F,234,53.0 x 70.0 ft./ 16.2 x 21.3 m.,2007/04/30,N
+1430,USA,Portland,OR,Empirical Theatre,CHRIS,D,3D,F,300,40.0 x 62.0 ft./ 12.2 x 18.9 m.,2013/11/09,N
+1431,USA,Portland,OR,Regal Lloyd Center 10 & IMAX,IMAX,D,3D,F,414,32.1 x 57.0 ft./ 9.8 x 17.4 m.,2011/12/15,CM
+1432,USA,Tigard,OR,Regal Bridgeport Village Stadium 18 & IMAX,IMAX,D,3D,F,318,30.6 x 54.5 ft./ 9.3 x 16.6 m.,2007/05/04,CM
+1433,JAPAN,Osaka-shi,Osaka Pref.,"Science Museum, Osaka",GOTO,D,2D,D,312,87.0 ft./ 26.5 m.,1989/10/07,N
+1434,JAPAN,Kishiawada City,Osaka-fu,United Cinemas Kishiwada IMAX,IMAX,D,3D,F,366,30.5 x 59.4 ft./ 9.3 x 18.1 m.,2010/12/17,CM
+1435,JAPAN,Tondabayashi-shi,Osaka-fu,Tondabayashi Subaru Hall,GOTO,D,2D,D,200,66.0 ft./ 20.1 m.,1991/11,N
+1436,USA,Bensalem,PA,AMC Neshaminy 24 & IMAX,IMAX,D,3D,F,510,32.0 x 60.0 ft./ 9.8 x 18.3 m.,2008/08/15,CM
+1437,USA,Center Valley,PA,AMC Center Valley 16 & IMAX,IMAX,D,3D,F,324,34.6 x 61.8 ft./ 10.5 x 18.9 m.,2011/04/29,CM
+1438,USA,Dickson City,PA,Regal Dickson City Stadium 14 & IMAX,IMAX,D,3D,F,400,42.0 x 70.0 ft./ 12.8 x 21.3 m.,2010/11/05,CM
+1439,USA,Downingtown,PA,Regal Downingtown Cinema Stadium 16 & IMAX,IMAX,D,3D,F,,28.9 x 50.7 ft./ 8.8 x 15.5 m.,2014/04/11,CM
+1440,USA,Erie,PA,Tom Ridge Environmental Center,CHRIS,870+D,2D,F,175,33.0 x 45.0 ft./ 10.1 x 13.7 m.,2006/05/26,N
+1441,USA,Harrisburg,PA,Whitaker Center for Science and the Arts,NEC,D,3D,F,209,38.0 x 70.0 ft./ 11.6 x 21.3 m.,1999/09/09,N
+1442,USA,Homestead,PA,AMC Waterfront 22 & IMAX,IMAX,D,3D,F,345,27.9 x 50.2 ft./ 8.5 x 15.3 m.,2009/01/23,CM
+1443,USA,King of Prussia,PA,UA King Of Prussia Stadium 16 & IMAX,IMAX,1570+DL,3D,F,340,51.0 x 71.0 ft./ 15.9 x 22.3 m.,2000/05/19,CM
+1444,USA,Lititz,PA,Penn Cinema & IMAX,IMAX,D,3D,F,420,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2010/11/19,CM
+1445,USA,Philadelphia,PA,AMC Philadelphia Mills 14 & IMAX,IMAX,D,3D,F,336,26.6 x 50.7 ft./ 8.1 x 15.5 m.,2010/12/17,CM
+1446,USA,Philadelphia,PA,Franklin Institute Science Museum,IMAX,1570,2D,D,350,70.0 ft./ 24.1 m.,1990/04/05,N
+1447,USA,Pittsburgh,PA,Carnegie Science Center,CHRIS,DL2,3D,F,271,38.0 x 70.0 ft./ 11.6 x 21.3 m.,2017/11/17,N
+1448,USA,Reading,PA,RC Reading Movies 11 & IMAX,IMAX,D,3D,F,340,42.0 x 70.0 ft./ 12.8 x 21.3 m.,2009/02/13,CM
+1449,USA,Warrington,PA,Regal Warrington Crossing Stadium 22 & IMAX,IMAX,D,3D,F,322,27.0 x 51.8 ft./ 8.2 x 15.8 m.,2011/10/28,CM
+1450,USA,York,PA,RC Queensgate Stadium 13 & IMAX,IMAX,D,3D,F,210,29.8 x 54.8 ft./ 9.1 x 16.7 m.,2013/02/13,CM
+1451,USA,Carolina,PR,Plaza Carolina Cinema & IMAX,IMAX,D,3D,F,,,2018/11/08,CM
+1452,USA,San Juan,PR,Montehiedra Cinemas & IMAX,IMAX,D,3D,F,,46.1 x 80.0 ft./ 14.1 x 24.4 m.,2016/06/09,CM
+1453,MEXICO,Puebla,Puebla,Cinepolis Angelopolis Puebla & IMAX,IMAX,D,3D,F,,30.5 x 54.4 ft./ 9.3 x 16.6 m.,2013/12/28,CM
+1454,MEXICO,Puebla,Puebla,Planetario Puebla,VIOSO,D,2D,D,270,75.5 ft./ 23.0 m.,1985/02/12,N
+1455,INDIA,Kapurthala,Punjab,Pushpa Gujral Science City,ES,1570+D,2D,D,325,75.9 ft./ 23.1 m.,2005/03/19,N
+1456,CANADA,Deux Montagnes,QC,Mega-Plex Deux-Montagnes 14 & IMAX,IMAX,D,3D,F,,29.9 x 52.8 ft./ 9.1 x 16.1 m.,2013/11,CM
+1457,CANADA,Dollard-Des-Ormeaux,QC,Cinemas Des Sources 10 & IMAX,IMAX,D,3D,F,,42.2 x 72.2 ft./ 12.9 x 22.0 m.,2014/03/20,CM
+1458,CANADA,Gatineau,QC,Canadian Museum of History,BARCO,1570+DL2,3D,F+D,300,62.0 x 88.6 ft./ 18.9 x 27.0 m.,1989,N
+1459,CANADA,Greenfield Park,QC,Mega-Plex Taschereau 18 & IMAX,IMAX,D,3D,F,239,28.2 x 52.4 ft./ 8.6 x 16.0 m.,2012/11/08,CM
+1460,CANADA,Greenfield Park,QC,Mega-Plex Taschereau 18 & IMAX 2,IMAX,D,3D,F,239,28.2 x 52.0 ft./ 8.6 x 15.9 m.,2012/03/30,CM
+1461,CANADA,Laval,QC,Mega-Plex Pont-Viau 16 & IMAX,IMAX,D,3D,F,293,25.7 x 48.0 ft./ 7.8 x 14.6 m.,2012/07/02,CM
+1462,CANADA,Montreal,QC,Cinema Banque Scotia Montreal & IMAX,IMAX,1570+D,3D,F,340,61.4 x 81.7 ft./ 18.7 x 24.9 m.,1999/06/18,CM
+1463,CANADA,Montreal,QC,Cinema Cineplex Forum & IMAX,IMAX,D,3D,F,,28.1 x 55.1 ft./ 8.6 x 16.8 m.,2011/10/06,CM
+1464,CANADA,Montreal,QC,Mega-Plex Marche Central 18 & IMAX,IMAX,D,3D,F,285,25.4 x 50.0 ft./ 7.8 x 15.2 m.,2012/07/02,CM
+1465,CANADA,Montreal,QC,Mega-Plex Marche Central 18 & IMAX 2,IMAX,D,3D,F,285,25.4 x 50.0 ft./ 7.8 x 15.2 m.,2012/05/25,CM
+1466,CANADA,Montreal,QC,Montreal Science Centre,IMAX,DL2,3D,F,380,70.0 x 91.0 ft./ 21.3 x 27.7 m.,1988/06/15,N
+1467,CANADA,Quebec,QC,Cinema Cineplex IMAX aux Galeries de la Capitale,IMAX,1570+D,3D,F,344,75.0 x 92.5 ft./ 22.9 x 28.2 m.,1995/06/18,CM
+1468,CANADA,Saint Félicien,QC,Zoo Sauvage de St-Félicien,CHRIS,D,3D,F,,,2003/07,N
+1469,CANADA,Terrebonne,QC,Mega-Plex Terrebonne 14 & IMAX 1,IMAX,D,3D,F,285,27.9 x 50.7 ft./ 8.5 x 15.5 m.,2012/05/04,CM
+1470,CANADA,Terrebonne,QC,Mega-Plex Terrebonne 14 & IMAX 2,IMAX,D,3D,F,,27.9 x 50.7 ft./ 8.5 x 15.5 m.,2013/11/22,CM
+1471,MEXICO,Cancun,Quintana Roo,Cinepolis Puerto Cancun & IMAX,IMAX,D,3D,F,,33.1 x 59.4 ft./ 10.1 x 18.1 m.,2017/05/17,CM
+1472,USA,Providence,RI,Providence Place Cinemas 16 & IMAX,IMAX,1570+D,3D,F,424,61.0 x 81.0 ft./ 18.6 x 24.7 m.,2000/06/23,CM
+1473,JAPAN,Tokorozawa,Saitama,Tokorozawa Aviation Museum,unk,D,3D,F,206,49.2 x 65.6 ft./ 15.0 x 20.0 m.,1993/04/03,N
+1474,JAPAN,Urawa,Saitama,United Cinemas Urawa & IMAX,IMAX,DL,3D,F,386,30.1 x 59.8 ft./ 9.2 x 18.2 m.,2010/11/19,CM
+1475,JAPAN,Saitama-shi,Saitama Pref.,Saitama City Space Theater,GOTO,D,2D,D,295,75.5 ft./ 23.0 m.,1987/08,N
+1476,JAPAN,Saitama-shi,Saitama Pref.,Saitama Space Science Hall,GOTO,D,2D,D,260,75.9 ft./ 23.1 m.,1988,N
+1477,BRAZIL,Sao Paulo,Sao Paulo,Cineflix The Square Open Mall & IMAX,IMAX,D,3D,F,374,39.7 x 69.6 ft./ 12.1 x 21.2 m.,2012/04/20,CM
+1478,MALAYSIA,Kuching,Sarawak,TGV Vivacity Mall Kuching & IMAX,IMAX,D,3D,F,,59.0 x 79.1 ft./ 18.0 x 24.1 m.,2016/08/18,CM
+1479,USA,Columbia,SC,Regal Sandhill Stadium 16 & IMAX,IMAX,D,3D,F,,30.9 x 53.2 ft./ 9.4 x 16.2 m.,2013/04/18,CM
+1480,USA,Simpsonville,SC,Regal Simpsonville Stadium 14 & IMAX,IMAX,D,3D,F,399,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2010/04/26,CM
+1481,USA,Sioux Falls,SD,Washington Pavilion of Arts and Sciences,BARCO,D,2D,D,172,60.0 ft./ 18.3 m.,1999/06,N
+1482,MALAYSIA,Petaling Jaya,Selangor,TGV Sunway Pyramid & IMAX,IMAX,D,3D,F,292,30.2 x 57.7 ft./ 9.2 x 17.6 m.,2011/12/14,CM
+1483,CHINA,Xi-An,Shan-xi,IMAX Da Ming Palace,IMAX,D,3D,F,288,39.0 x 69.9 ft./ 11.9 x 21.3 m.,2010/10,CM
+1484,CHINA,Ji'nan,Shandong,Ji'nan Haier Greenland OJ,IMAX,D,3D,F,,42.3 x 74.1 ft./ 12.9 x 22.6 m.,2018/02/14,CM
+1485,CHINA,Qingdao,Shandong,Bestar Qingdao Injoy Plaza,IMAX,D,3D,F,,39.0 x 69.1 ft./ 11.9 x 21.1 m.,2017/09/29,CM
+1486,CHINA,Qingdao,Shandong,Nanjing Lishui Hello City Omnijoi,IMAX,D,3D,F,,33.6 x 59.7 ft./ 10.2 x 18.2 m.,2018,CM
+1487,CHINA,Zibo,Shandong,Zibo Inzone Qina & IMAX,IMAX,DL,3D,F,,37.9 x 67.6 ft./ 11.6 x 20.6 m.,2018/12/23,CM
+1488,CHINA,Shangain,Shanghai,Shanghai Baoshan Longfor Omnijoi,IMAX,D,3D,F,,43.7 x 76.1 ft./ 13.3 x 23.2 m.,2017/12/16,CM
+1489,CHINA,Shanghai,Shanghai,Shanghai BFC Bona Palace & IMAX,IMAX,D,3D,F,,27.1 x 48.6 ft./ 8.3 x 14.8 m.,2018/07/25,CM
+1490,CHINA,Shanghai,Shanghai,Shanghai LCM Palace & IMAX,IMAX,D,3D,F,,36.8 x 66.4 ft./ 11.2 x 20.2 m.,2018/09/22,CM
+1491,CHINA,Jinzhong,Shanxi,Jinzhong Shanshan Outlets HBC,IMAX,D,3D,F,,43.1 x 76.2 ft./ 13.1 x 23.2 m.,2017/09/09,CM
+1492,CHINA,Taiyuan,Shanxi,Taiyuan Wanying,IMAX,DL,3D,F,,38.9 x 69.4 ft./ 11.9 x 21.2 m.,2018/09/15,CM
+1493,CHINA,Xi'an,Shanxi,XiAn Joy City Bona & IMAX,IMAX,D,3D,F,,37.0 x 66.9 ft./ 11.3 x 20.4 m.,2018/12/21,CM
+1494,CHINA,Xi'an,Shanxi Prov.,Xi'an Beilin Wanda & IMAX,IMAX,D,3D,F,,28.5 x 51.2 ft./ 8.7 x 15.6 m.,2013/10,CM
+1495,JAPAN,Hamaoka,Shizuoka Pref.,Hamaoka Nuclear Exhibition Center,NEC,DL,3D,D,160,59.0 ft./ 18.0 m.,1988/04/15,N
+1496,CHINA,Chengdu,Sichuan,Chengdu Omnijoi,IMAX,D,3D,F,,36.4 x 65.6 ft./ 11.1 x 20.0 m.,2018/11/23,CM
+1497,CHINA,Mianyang,Sichuan,Mianyang Jinyi & IMAX,IMAX,D,3D,F,,43.0 x 75.2 ft./ 13.1 x 22.9 m.,2018/07/28,CM
+1498,CHINA,Chengdu,Sichuan Prov.,Chengdu UA IFC & IMAX,IMAX,D,3D,F,,39.1 x 69.2 ft./ 11.9 x 21.1 m.,2014/01/21,CM
+1499,CANADA,Regina,SK,Saskatchewan Science Centre,IMAX,1570,3D,F,159,52.0 x 72.0 ft./ 15.9 x 22.0 m.,1991/04/25,N
+1500,CANADA,Saskatoon,SK,Scotiabank Saskatoon & VIP - IMAX,IMAX,D,3D,F,,31.4 x 56.8 ft./ 9.6 x 17.3 m.,2018/04/26,CM
+1501,BRAZIL,Sao Paulo,SP,UCI Analia Franco IMAX,IMAX,D,3D,F,323,30.3 x 58.3 ft./ 9.2 x 17.8 m.,2012/03/30,CM
+1502,TAIWAN,Hualein,Taiwan,Hualien Paradiso VieSho,IMAX,DL,3D,F,,39.5 x 70.0 ft./ 12.0 x 21.3 m.,2018/12/26,CM
+1503,INDONESIA,Jakarta,Timur,Keong Emas IMAX Theatre,IMAX,1570,2D,F,811,70.5 x 96.1 ft./ 21.5 x 29.3 m.,1984/05/20,N
+1504,USA,Chattanooga,TN,AMC Chattanooga 18 & IMAX,IMAX,D,3D,F,347,32.8 x 61.4 ft./ 10.0 x 18.7 m.,2010/11/19,CM
+1505,USA,Chattanooga,TN,Tennessee Aquarium,IMAX,DL2,3D,F,291,69.0 x 87.2 ft./ 21.0 x 26.6 m.,1996/05/03,N
+1506,USA,Franklin,TN,AMC Thoroughbred 20 & IMAX,IMAX,D,3D,F,,38.1 x 69.3 ft./ 11.6 x 21.1 m.,2014/02/14,CM
+1507,USA,Hendersonville,TN,Regal Streets of Indian Lake Stadium 16 & IMAX,IMAX,D,3D,F,318,27.8 x 50.3 ft./ 8.5 x 15.3 m.,2011/06/09,CM
+1508,USA,Knoxville,TN,Regal Pinnacle Stadium 18 & IMAX,IMAX,D,3D,F,443,36.7 x 61.0 ft./ 11.2 x 18.6 m.,2007/12/14,CM
+1509,USA,Memphis,TN,Malco Paradiso Cinema Grill,IMAX,D,3D,F,,36.2 x 65.7 ft./ 11.0 x 20.0 m.,2003/02,CM
+1510,USA,Memphis,TN,"Memphis Museums, Inc.",BARCO,D,3D,F,240,40.0 x 50.9 ft./ 12.2 x 15.5 m.,1995/01/21,N
+1511,USA,Nashville,TN,Regal Opry Mills Stadium 20 & IMAX,IMAX,1570+DL,3D,F,496,65.6 x 90.0 ft./ 20.0 x 27.4 m.,2000/05/11,CM
+1512,JAPAN,Chiyodaku,Tokyo,Chiyodaku Hibiya Toho,IMAX,D,3D,F,,,2018/03/27,CM
+1513,JAPAN,Minato-Ku,Tokyo,T-Joy Prince Shinagawa & IMAX,IMAX,D,3D,F,,37.5 x 66.5 ft./ 11.4 x 20.3 m.,2016/06/30,CM
+1514,USA,Amarillo,TX,UA Amarillo Star Stadium 14 & IMAX,IMAX,D,3D,F,375,30.5 x 52.2 ft./ 9.3 x 15.9 m.,2011/02/18,CM
+1515,USA,Arlington,TX,AMC The Parks At Arlington 18 & IMAX,IMAX,D,3D,F,285,25.9 x 46.9 ft./ 7.9 x 14.3 m.,2010/08/14,CM
+1516,USA,Austin,TX,AMC Barton Creek Square 14 & IMAX,IMAX,D,3D,F,245,25.0 x 45.0 ft./ 7.6 x 13.7 m.,2011/08/26,CM
+1517,USA,Austin,TX,Bullock Texas State History Museum,IMAX,DL2,3D,F,329,62.3 x 82.4 ft./ 19.0 x 25.1 m.,2001/04/21,N
+1518,USA,Austin,TX,Regal Gateway Stadium 16 & IMAX,IMAX,D,3D,F,255,29.5 x 50.0 ft./ 9.0 x 15.2 m.,2011/12/15,CM
+1519,USA,Bryan,TX,Premiere Cinema Bryan + IMAX,IMAX,D,3D,F,,40.0 x 70.0 ft./ 12.2 x 21.3 m.,2013/08/23,CM
+1520,USA,Corpus Christi,TX,Cinemark Century 16 & IMAX,IMAX,D,3D,F,293,30.8 x 54.9 ft./ 9.4 x 16.7 m.,2011/04/22,CM
+1521,USA,Corpus Christi,TX,USS Lexington Museum,BARCO,DL2,3D,F,193,30.0 x 40.0 ft./ 9.1 x 12.2 m.,2001/03/09,N
+1522,USA,Dallas,TX,AMC Northpark 15 & IMAX,IMAX,DL,3D,F,410,36.3 x 65.6 ft./ 11.1 x 20.0 m.,2010/11/12,CM
+1523,USA,Dallas,TX,Cinemark 17 & IMAX,IMAX,1570+D,3D,F,257,52.9 x 70.7 ft./ 16.1 x 21.6 m.,1999/09/03,CM
+1524,USA,Dallas,TX,Perot Museum of Nature and Science,BARCO,D,3D,F,298,19.0 x 35.0 ft./ 5.8 x 10.7 m.,2012/12,N
+1525,USA,Edinburg,TX,AMC 20 & IMAX,IMAX,D,3D,F,,,2017/01/31,CM
+1526,USA,El Paso,TX,Premiere Cinema El Paso Bassett + IMAX,IMAX,D,3D,F,,50.0 x 70.0 ft./ 15.2 x 21.3 m.,2013/11/21,CM
+1527,USA,Fort Worth,TX,Fort Worth Museum of Science and History,IMAX,1570,2D,D,390,80.0 ft./ 24.4 m.,1983/04/17,N
+1528,USA,Frisco,TX,AMC Stonebriar 24 & IMAX,IMAX,D,3D,F,338,28.9 x 52.2 ft./ 8.8 x 15.9 m.,2009/09/04,CM
+1529,USA,Galveston,TX,Moody Gardens,CHRIS,DL2,3D,F,400,60.0 x 79.2 ft./ 18.3 x 24.1 m.,1993/03/27,N
+1530,USA,Garland,TX,AMC Firewheel 18 & IMAX,IMAX,D,3D,F,271,28.9 x 51.5 ft./ 8.8 x 15.7 m.,2009/06/12,CM
+1531,USA,Grapevine,TX,AMC Grapevine Mills 30 & IMAX,IMAX,D,3D,F,,32.5 x 60.0 ft./ 9.9 x 18.3 m.,2014/11/26,CM
+1532,USA,Highland Village,TX,AMC Highland Village 12 & IMAX,IMAX,D,3D,F,299,29.2 x 52.2 ft./ 8.9 x 15.9 m.,2011/10/07,CM
+1533,USA,Houston,TX,AMC Gulf Pointe 30 & IMAX,IMAX,D,3D,F,464,35.0 x 60.8 ft./ 10.7 x 18.5 m.,2008/10/10,CM
+1534,USA,Houston,TX,AMC Willowbrook 24 & IMAX,IMAX,D,3D,F,151,31.2 x 56.0 ft./ 9.5 x 17.1 m.,2017/07/27,CM
+1535,USA,Houston,TX,Edwards Houston Marq*e 23 & IMAX,IMAX,DL,3D,F,409,57.0 x 75.0 ft./ 17.4 x 22.9 m.,1999,CM
+1536,USA,Houston,TX,Houston Museum of Natural Science,BARCO,D,3D,F,395,59.0 x 80.0 ft./ 18.0 x 24.4 m.,1989/09/15,N
+1537,USA,Houston,TX,Space Center Houston,BARCO,D,2D,F,420,66.0 x 88.0 ft./ 20.1 x 26.8 m.,1992,N
+1538,USA,Humble,TX,AMC Deerbrook 24 & IMAX,IMAX,D,3D,F,140,28.0 x 50.2 ft./ 8.5 x 15.3 m.,2018/04/27,CM
+1539,USA,Killeen,TX,Central Texas College,SCISS,D,2D,D,180,60.0 ft./ 18.3 m.,2003/08/22,N
+1540,USA,Lubbock,TX,Premiere Cinema Lubbock + IMAX,IMAX,D,3D,F,383,39.3 x 70.0 ft./ 12.0 x 21.3 m.,2012/10/25,CM
+1541,USA,Lubbock,TX,Science Spectrum,CDC,1570,2D,D,176,58.0 ft./ 18.1 m.,1993/10/23,N
+1542,USA,Mesquite,TX,AMC Mesquite 30 & IMAX,IMAX,D,3D,F,441,34.1 x 62.7 ft./ 10.4 x 19.1 m.,2009/03/06,CM
+1543,USA,Midland,TX,Regal Tall City Stadium 14 & IMAX,IMAX,D,3D,F,,29.5 x 48.3 ft./ 9.0 x 14.7 m.,2013/11/21,CM
+1544,USA,Odessa,TX,Regal Permian Palace Stadium 11 & IMAX,IMAX,D,3D,F,,30.8 x 47.8 ft./ 9.4 x 14.6 m.,2015/12/17,CM
+1545,USA,Richmond,TX,Regal Grand Parkway 22 & IMAX,IMAX,DL,3D,F,368,,2019,CM
+1546,USA,San Antonio,TX,AMC Rivercenter 11 & IMAX,IMAX,1570+D,3D,F,320,52.9 x 70.0 ft./ 16.1 x 21.3 m.,2001/05,CM
+1547,USA,San Antonio,TX,AMC Rivercenter 11 & IMAX,IMAX,D,3D,F,426,62.0 x 85.0 ft./ 18.9 x 25.9 m.,1988/03/06,CM
+1548,USA,San Antonio,TX,Santikos Palladium IMAX,IMAX,D,3D,F,393,44.0 x 70.0 ft./ 13.4 x 21.3 m.,2006/12/22,CM
+1549,USA,Shenandoah,TX,AMC Metropark Square 10,IMAX,DL,3D,F,170,32.8 x 52.5 ft./ 10.0 x 16.0 m.,2019/04,CM
+1550,USA,Stafford,TX,AMC Fountains 18 & IMAX,IMAX,D,3D,F,243,29.8 x 54.0 ft./ 9.1 x 16.5 m.,2017/08/07,CM
+1551,USA,Sugar Land,TX,AMC First Colony 24 & IMAX,IMAX,D,3D,F,420,34.0 x 56.5 ft./ 10.4 x 17.2 m.,2008/10/03,CM
+1552,USA,Temple,TX,Premiere Cinema Temple + IMAX,IMAX,D,3D,F,,39.6 x 70.0 ft./ 12.1 x 21.3 m.,2014/07/23,CM
+1553,USA,Tomball,TX,Regal Lone Star 19 & IMAX,IMAX,1570+D,3D,F,411,45.0 x 71.0 ft./ 13.7 x 21.6 m.,2008/02/29,CM
+1554,USA,Tyler,TX,AMC Tyler 14 & IMAX,IMAX,D,3D,F,,28.5 x 53.1 ft./ 8.7 x 16.2 m.,2013/12/14,CM
+1555,USA,Waco,TX,AMC Galaxy 16 & IMAX,IMAX,D,3D,F,,31.5 x 56.8 ft./ 9.6 x 17.3 m.,2017/05/27,CM
+1556,USA,Centerville,UT,Megaplex 14 & IMAX at Legacy Crossing,IMAX,D,3D,F,603,41.8 x 76.0 ft./ 12.8 x 23.2 m.,2011/10/14,CM
+1557,USA,Lehi,UT,North American Museum of Ancient Life,CHRIS,D,3D,F,325,46.0 x 66.0 ft./ 14.0 x 20.1 m.,2009/09/30,N
+1558,USA,Salt Lake City,UT,Clark Planetarium,IMAX,D,3D,F,292,55.0 x 69.8 ft./ 16.0 x 21.3 m.,2003/04/11,N
+1559,USA,Sandy,UT,"Megaplex 17 & IMAX, Jordan Commons",IMAX,D,3D,F,446,56.3 x 80.8 ft./ 17.2 x 24.6 m.,2010/05/07,CM
+1560,USA,South Jordan,UT,Megaplex 20 & IMAX at The District,IMAX,D,3D,F,514,38.0 x 68.7 ft./ 11.6 x 21.0 m.,2010/09/24,CM
+1561,USA,Vineyard,UT,Megaplex Theatres @ Geneva & IMAX,IMAX,D,3D,F,,45.1 x 80.0 ft./ 13.8 x 24.4 m.,2015/03/13,CM
+1562,USA,West Valley City,UT,Megaplex Theatres & IMAX at Valley Fair Mall,IMAX,D,3D,F,639,42.5 x 76.2 ft./ 13.0 x 23.2 m.,2012/11/08,CM
+1563,INDIA,Lucknow,Uttar Pradesh,"Regional Science City, Lucknow",GOTO,1070,2D,D,220,,2005/05,N
+1564,INDIA,Noida,Uttar Pradesh,PVR Superplex & IMAX,IMAX,D,3D,F,,39.6 x 70.5 ft./ 12.1 x 21.5 m.,2016/04/28,CM
+1565,USA,Alexandria,VA,AMC Hoffman Center 22 & IMAX,IMAX,D,3D,F,330,28.0 x 51.0 ft./ 8.5 x 15.5 m.,2008/07/18,CM
+1566,USA,Ashburn,VA,Regal Fox Stadium 16 & IMAX,IMAX,D,3D,F,314,31.0 x 55.0 ft./ 9.5 x 16.8 m.,2011/11/18,CM
+1567,USA,Chantilly,VA,Steven F. Udvar-Hazy Center,IMAX,DL2,3D,F,478,62.3 x 85.5 ft./ 19.0 x 26.1 m.,2003/12/15,N
+1568,USA,Charlottesville,VA,Regal Stonefield Stadium 14 & IMAX,IMAX,D,3D,F,293,29.3 x 51.9 ft./ 8.9 x 15.8 m.,2012/11/08,CM
+1569,USA,Fredericksburg,VA,Regal Fredericksburg 14 & IMAX,IMAX,D,3D,F,,28.4 x 48.8 ft./ 8.7 x 14.9 m.,2018/03/18,CM
+1570,USA,Hampton,VA,AMC Hampton Towne Center 24 & IMAX,IMAX,D,3D,F,420,32.8 x 59.1 ft./ 10.0 x 18.0 m.,2009/10/02,CM
+1571,USA,Hampton,VA,Virginia Air and Space Science Center,IMAX,D,3D,F,285,50.0 x 70.0 ft./ 16.8 x 21.3 m.,1992/04/04,N
+1572,USA,Manassas,VA,Regal Manassas Stadium 14 & IMAX,IMAX,D,3D,F,404,30.1 x 51.7 ft./ 9.2 x 15.8 m.,2011/03/25,CM
+1573,USA,McLean,VA,AMC Tysons Corner 16 & IMAX,IMAX,DL,3D,F,510,40.0 x 65.0 ft./ 12.2 x 19.8 m.,2010/03/05,CM
+1574,USA,Midlothian,VA,Regal Commonwealth 20 & IMAX,IMAX,D,3D,F,299,26.6 x 49.2 ft./ 8.1 x 15.0 m.,2009/02/06,CM
+1575,USA,Richmond,VA,Regal Short Pump Stadium 14 & IMAX,IMAX,D,3D,F,,29.1 x 50.9 ft./ 8.9 x 15.5 m.,2013/05/02,CM
+1576,USA,Richmond,VA,Science Museum of Virginia,ES,D,3D,D,250,76.0 ft./ 23.2 m.,1983/04/23,N
+1577,USA,Triangle,VA,National Museum of the Marine Corps,CHRIS,DL2,2D,F,369,54.0 x 72.0 ft./ 16.5 x 22.0 m.,2017/07/23,N
+1578,USA,Virginia Beach,VA,AMC Lynnhaven 18 & IMAX,IMAX,D,3D,F,294,29.9 x 51.8 ft./ 9.1 x 15.8 m.,2008/11/07,CM
+1579,USA,Virginia Beach,VA,Virginia Aquarium and Marine Science Center,BARCO,D,3D,F,267,50.0 x 80.0 ft./ 18.0 x 25.0 m.,1996/07/08,N
+1580,USA,Woodbridge,VA,AMC Potomac Mills 18 & IMAX,IMAX,D,3D,F,269,29.5 x 52.5 ft./ 9.0 x 16.0 m.,2008/07/18,CM
+1581,MEXICO,Veracruz,Veracruz,Cinépolis IMAX - Acuario de Veracruz,IMAX,1570+D,3D,F,263,30.9 x 55.1 ft./ 9.4 x 16.8 m.,2005/02/28,CM
+1582,AUSTRALIA,Melbourne,Victoria,IMAX Theatre Melbourne,IMAX,1570+DL2,3D,F,484,76.1 x 102.0 ft./ 23.2 x 31.1 m.,1998/05/23,N
+1583,USA,Bellevue,WA,IMAX Lincoln Square Cinemas,IMAX,D,3D,F,438,36.7 x 65.3 ft./ 11.2 x 19.9 m.,2009/03/27,CM
+1584,USA,Bellingham,WA,Regal Barkley Village Stadium 16 & IMAX,IMAX,D,3D,F,356,33.6 x 55.1 ft./ 10.2 x 16.8 m.,2012/12/14,CM
+1585,USA,Gig Harbor,WA,Galaxy Uptown Luxury+ & IMAX,IMAX,D,3D,F,35,40.0 x 71.0 ft./ 12.2 x 21.6 m.,2017/03,CM
+1586,USA,Issaquah,WA,Regal Issaquah Highlands 12 & IMAX,IMAX,D,3D,F,,35.0 x 62.6 ft./ 10.7 x 19.1 m.,2013/07/02,CM
+1587,USA,Kent,WA,AMC Kent Station 14 & IMAX,IMAX,D,3D,F,272,28.9 x 51.5 ft./ 8.8 x 15.7 m.,2009/06/12,CM
+1588,USA,Lacey,WA,Regal Martin Village Stadium 16 & IMAX,IMAX,D,3D,F,387,35.4 x 56.8 ft./ 10.8 x 17.3 m.,2008/11/07,CM
+1589,USA,Lynnwood,WA,AMC Alderwood Mall 16 & IMAX,IMAX,DL,3D,F,371,35.0 x 63.0 ft./ 10.7 x 19.2 m.,2010/03/27,CM
+1590,USA,Seattle,WA,Boeing IMAX Theatre,IMAX,DL2,3D,F,370,59.4 x 80.0 ft./ 18.1 x 24.4 m.,1998/10/21,N
+1591,USA,Seattle,WA,PACCAR IMAX Theatre,IMAX,1570+D,3D,F,290,34.5 x 58.0 ft./ 10.5 x 17.7 m.,1979/07,N
+1592,USA,Seattle,WA,Regal Thornton Place Stadium 14 & IMAX,IMAX,D,3D,F,299,26.5 x 48.0 ft./ 8.1 x 14.6 m.,2009/05/22,CM
+1593,USA,Spokane,WA,AMC River Park Square 20 & IMAX,IMAX,D,3D,F,315,26.9 x 52.8 ft./ 8.2 x 16.1 m.,2009/11/26,CM
+1594,USA,Tukwila,WA,AMC Southcenter 16 & IMAX,IMAX,D,3D,F,271,28.7 x 51.8 ft./ 8.7 x 15.8 m.,2008/11/07,CM
+1595,USA,Vancouver,WA,Regal Cascade Stadium 16 & IMAX,IMAX,D,3D,F,,29.0 x 53.1 ft./ 8.8 x 16.2 m.,2013/05/02,CM
+1596,INDIA,Kolkata,West Bengal,Science City,ZEISS,D,2D,D,360,75.9 ft./ 23.1 m.,1997,N
+1597,USA,Fitchburg,WI,AMC Fitchburg 18 & IMAX,IMAX,D,3D,F,349,44.0 x 70.0 ft./ 13.4 x 21.3 m.,2005/12/23,CM
+1598,USA,Milwaukee,WI,Milwaukee Public Museum,ES,D,3D,D,275,73.8 ft./ 22.5 m.,1996/10/05,N
+1599,USA,Wauwatosa,WI,AMC Mayfair Mall 18 & IMAX,IMAX,D,3D,F,340,26.2 x 49.5 ft./ 8.0 x 15.1 m.,2009/10/16,CM
+1600,USA,Charleston,WV,Clay Center for the Arts and Sciences,ES,D,3D,D,175,61.0 ft./ 18.6 m.,2003/07/12,N
+1601,JAPAN,Kofu-shi,Yamanashi Pref.,Yamanashi Science Museum,GOTO,D,2D,D,200,66.0 ft./ 20.1 m.,1998/07/21,N
+1602,CHINA,Kunming,Yunnan,Kunming Chenggong CGV & IMAX,IMAX,D,3D,F,,46.3 x 80.0 ft./ 14.1 x 24.4 m.,2016/06/18,CM
+1603,CHINA,Hangzhou,Zhejiang,CGV Hangzhou Longfor,IMAX,D,3D,F,,43.2 x 75.8 ft./ 13.2 x 23.1 m.,2017/09/23,CM
+1604,CHINA,Hangzhou,Zhejiang,Hangzhou E39-Zhejiang Xinyuan,IMAX,D,3D,F,,,2018/02/09,CM
+1605,CHINA,Hangzhou,Zhejiang,Hangzhou Xixi Bona & IMAX,IMAX,D,3D,F,,40.7 x 71.8 ft./ 12.4 x 21.9 m.,2017/11/27,CM
+1606,CHINA,Hangzhou,Zhejiang,Hangzhou Yunhe CGV & IMAX,IMAX,D,3D,F,,45.1 x 78.1 ft./ 13.8 x 23.8 m.,2017/06/29,CM
+1607,CHINA,Hangzhou,Zhejiang,Zhejiang Sinake-Hangzhou Xixi Happy,IMAX,D,3D,F,,36.8 x 65.8 ft./ 11.2 x 20.1 m.,2018/02/02,CM
+1608,CHINA,Jiaxing,Zhejiang,Jiaxing Haining Saga & IMAX,IMAX,D,3D,F,,36.0 x 64.1 ft./ 11.0 x 19.5 m.,2018/01,CM
+1609,CHINA,Jiaxing,Zhejiang,Jiaxing Tongxiang Bestar & IMAX,IMAX,D,3D,F,,45.7 x 79.1 ft./ 13.9 x 24.1 m.,2017/05/26,CM
+1610,CHINA,Ningbo,Zhejiang,Ningbo Beilun Bona & IMAX,IMAX,D,3D,F,,39.3 x 70.1 ft./ 12.0 x 21.4 m.,2017/10/27,CM
+1611,CHINA,Ningbo,Zhejiang,Ningbo Zhenhai Injoy Bestar & IMAX,IMAX,D,3D,F,,45.3 x 78.4 ft./ 13.8 x 23.9 m.,2017/11/24,CM
+1612,CHINA,Quzhou,Zhejiang,Quzjou Injoy Bestar & IMAX,IMAX,D,3D,F,,42.0 x 73.8 ft./ 12.8 x 22.5 m.,2017/06/16,CM
+1613,CHINA,Shaoxing,Zhejiang,Shaoxing Jinyi,IMAX,D,3D,F,,36.6 x 65.0 ft./ 11.2 x 19.8 m.,2018/05/21,CM
+1614,CHINA,Shaoxing,Zhejiang,Shaoxing Shengzhou Injoy Bestar,IMAX,D,3D,F,,45.7 x 79.1 ft./ 13.9 x 24.1 m.,2017/10/27,CM
+1615,CHINA,Wenling,Zhejiang,Wenling 0090 & IMAX,IMAX,D,3D,F,,41.1 x 73.0 ft./ 12.5 x 22.3 m.,2017/07/27,CM
+1616,CHINA,Ningbo,Zhejiang Prov.,CGV Ningbo Cultural Square & IMAX,IMAX,D,3D,F,,38.7 x 68.6 ft./ 11.8 x 20.9 m.,2013/10/25,CM
+1617,CHINA,Ningbo,Zhejiang Prov.,Yuyao Wanda Plaza & IMAX,IMAX,D,3D,F,,36.3 x 65.1 ft./ 11.1 x 19.8 m.,2013/11,CM
