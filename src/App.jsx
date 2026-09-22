@@ -3,7 +3,8 @@ import theatersCsv from '../Theaters.csv?raw'
 import { parseCsv } from './csv.js'
 
 const records = parseCsv(theatersCsv)
-const columns = ['Number', 'Country', 'City', 'State', 'Organization', 'Proj', 'Fmt', '2D/3D', 'Flat/ Dome', 'Seats', 'Screen Width (m)', 'Screen Height (m)', 'Screen Size Review', 'LieMAX', 'Opened', 'Type']
+const columns = ['Country', 'City', 'State', 'Organization', 'Proj', 'Fmt', 'Screen Width (m)', 'Screen Height (m)', 'Screen Size Review', 'LieMAX', 'Type']
+const numericColumns = new Set(['Seats', 'Screen Width (m)', 'Screen Height (m)'])
 const laserFormats = (format) => format.includes('DL')
 const multipleLaser = (format) => format.includes('DL2') || format.includes('DL5') || format.includes('DL8')
 const unique = (key, includeBlank = false) => [...new Set(records.map((record) => record[key] || '').filter((value) => includeBlank || value))].sort()
@@ -27,6 +28,8 @@ export default function App() {
   const [review, setReview] = useState('')
   const [hideLieMAX, setHideLieMAX] = useState(true)
   const [laserOnly, setLaserOnly] = useState(true)
+  const [hideDome, setHideDome] = useState(true)
+  const [sort, setSort] = useState({ key: '', direction: 'asc' })
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase()
@@ -41,11 +44,31 @@ export default function App() {
         && (!review || record['Screen Size Review'] === review)
         && (!hideLieMAX || record.LieMAX !== 'Yes')
         && (!laserOnly || laserFormats(fmt))
+        && (!hideDome || record['Flat/ Dome'] !== 'D')
     })
-  }, [search, country, format, laserType, type, review, hideLieMAX, laserOnly])
+  }, [search, country, format, laserType, type, review, hideLieMAX, laserOnly, hideDome])
 
-  const totalSeats = filtered.reduce((total, record) => total + (Number.parseInt(String(record.Seats).replace(/\D/g, ''), 10) || 0), 0)
-  const cards = [['Matching theaters', filtered.length], ['Countries', new Set(filtered.map((record) => record.Country)).size], ['Digital venues', filtered.filter((record) => record.Fmt.startsWith('D')).length], ['Known seats', totalSeats]]
+  const sorted = useMemo(() => {
+    if (!sort.key) return filtered
+    return [...filtered].sort((first, second) => {
+      const firstValue = first[sort.key] || ''
+      const secondValue = second[sort.key] || ''
+      if (!firstValue) return 1
+      if (!secondValue) return -1
+      const comparison = numericColumns.has(sort.key)
+        ? Number.parseFloat(String(firstValue).replace(/[^\d.]/g, '')) - Number.parseFloat(String(secondValue).replace(/[^\d.]/g, ''))
+        : String(firstValue).localeCompare(String(secondValue), undefined, { numeric: true })
+      return sort.direction === 'asc' ? comparison : -comparison
+    })
+  }, [filtered, sort])
+
+  function toggleSort(key) {
+    setSort((current) => current.key === key
+      ? { key, direction: current.direction === 'asc' ? 'desc' : 'asc' }
+      : { key, direction: 'asc' })
+  }
+
+  const cards = [['Matching theaters', filtered.length], ['Countries', new Set(filtered.map((record) => record.Country)).size], ['Digital venues', filtered.filter((record) => record.Fmt.startsWith('D')).length]]
 
   return <main>
     <header><h1>LF Examiner Theater Explorer</h1><p>Explore the theater records by location, format, and venue type.</p></header>
@@ -58,10 +81,11 @@ export default function App() {
       <Select label="Screen size review" value={review} onChange={setReview} options={unique('Screen Size Review')} />
       <label className="toggle"><input type="checkbox" checked={hideLieMAX} onChange={(event) => setHideLieMAX(event.target.checked)} />Hide LieMAX (&lt; 22.8 m wide)</label>
       <label className="toggle"><input type="checkbox" checked={laserOnly} onChange={(event) => setLaserOnly(event.target.checked)} />Laser formats (DL*)</label>
+      <label className="toggle"><input type="checkbox" checked={hideDome} onChange={(event) => setHideDome(event.target.checked)} />Hide dome screens</label>
     </section>
     <section className="cards">{cards.map(([label, value]) => <article className="card" key={label}><span>{label}</span><b>{Number(value).toLocaleString()}</b></article>)}</section>
     <section className="charts"><BarChart title="Top countries" entries={countBy(filtered, 'Country').slice(0, 12)} /><BarChart title="Formats" entries={countBy(filtered, 'Fmt').slice(0, 12)} /></section>
-    <p className="status">Showing {Math.min(filtered.length, 200).toLocaleString()} of {filtered.length.toLocaleString()} matching records.</p>
-    <section className="panel table-panel"><table><thead><tr>{columns.map((column) => <th key={column}>{column}</th>)}</tr></thead><tbody>{filtered.slice(0, 200).map((record) => <tr className={record['Screen Size Review'] ? 'review' : ''} key={record.Number}>{columns.map((column) => <td key={column}>{record[column]}</td>)}</tr>)}</tbody></table></section>
+    <p className="status">Showing {Math.min(sorted.length, 200).toLocaleString()} of {sorted.length.toLocaleString()} matching records.</p>
+    <section className="panel table-panel"><table><thead><tr>{columns.map((column) => <th key={column} aria-sort={sort.key === column ? `${sort.direction}ending` : 'none'}><button type="button" onClick={() => toggleSort(column)}>{column}<span aria-hidden="true"> {sort.key === column ? (sort.direction === 'asc' ? '↑' : '↓') : '↕'}</span></button></th>)}</tr></thead><tbody>{sorted.slice(0, 200).map((record) => <tr className={record['Screen Size Review'] ? 'review' : ''} key={record.Number}>{columns.map((column) => <td key={column}>{record[column]}</td>)}</tr>)}</tbody></table></section>
   </main>
 }
