@@ -4,6 +4,8 @@ It is a backup from <https://lfexaminer.com/theaters/>.
 
 The extracted dataset is available as [Theaters.csv](Theaters.csv).
 
+To use the interactive visualization, serve this directory (for example, run `python3 -m http.server`) and open `http://localhost:8000/visualize_theaters.html`. The dashboard loads `Theaters.csv` from that path.
+
 This list includes IMAX theaters, whether film or digital, and theaters that originally had one of the 70mm film formats listed below, as well as digital fulldome theaters larger than 60 feet in diameter.
 
 Updated Oct. 17, 2021.
