@@ -13,7 +13,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 12,AUSTRIA,Vienna,,CineplexX Donau Plex IMAX Vienna,IMAX,DL,3D,F,478,20.5,11.0,OK,Yes,2012/10/31,CM
 13,AZERBAIJAN,Astrakhan,,Kinomax IMAX,IMAX,D,3D,F,298,17.1,9.5,OK,Yes,2012/03/06,CM
 14,AZERBAIJAN,Baku,,Azercell & IMAX,IMAX,D,3D,F,,21.1,12.0,OK,Yes,2014/12/13,CM
-15,BAHAMAS,Nassau,,Fusion Superplex & IMAX,IMAX,DL2,3D,F,,,,Missing screen size,,2018,CM
+15,BAHAMAS,Nassau,,Fusion Superplex & IMAX,IMAX,DL2,3D,F,,16.0,9.0,OK,Yes,2018,CM
 16,BAHRAIN,Manama,,VOX Cineco & IMAX,IMAX,D,3D,F,,21.3,11.8,OK,Yes,2017/11,CM
 17,BAHRAIN,Muharraq,,Novo Cinemas & IMAX,IMAX,D,3D,F,,17.9,9.6,OK,Yes,2015/07/30,CM
 18,BANGLADESH,Dhaka,,Bhasani Novo Theatre,GOTO,1070+D,2D,D,275,23.2,,Height missing — width only,No,2004/09/25,N
@@ -60,7 +60,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 59,CHINA,Beijing,,Beijing U-Town Bona & IMAX,IMAX,D,3D,F,,15.0,8.2,OK,Yes,2014/12/18,CM
 60,CHINA,Beijing,,Beijing Xitieying Wanda & IMAX,IMAX,D,3D,F,,20.0,11.3,OK,Yes,2017,CM
 61,CHINA,Beijing,,Beijing Yangqiao Huayi Brothers & IMAX,IMAX,D,3D,F,,18.9,10.7,OK,Yes,2015/08/15,CM
-62,CHINA,Beijing,,China National Film Museum,IMAX,DL2,3D,F,402,27.2,20.5,,No,2006/08/25,N
+62,CHINA,Beijing,,China National Film Museum,IMAX,DL2,3D,F,402,27.2,20.5,OK,No,2006/08/25,N
 63,CHINA,Beijing,,"IMAX 3D Theater, China Science and Technology Museum",IMAX,1570,3D,F,632,30.0,22.0,OK,No,2009/10,N
 64,CHINA,Beijing,,"IMAX Dome, China Science and Technology Museum",IMAX,1570,2D,D,632,27.1,,Height missing — width only,No,1995,N
 65,CHINA,Bejing,,Beijing Daxing Longfor SFC & IMAX,IMAX,D,3D,F,,22.4,12.3,OK,Yes,2016/07,CM
@@ -393,7 +393,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 392,CHINA,Shanghai,,Shanghai Broadway Cinema & IMAX,IMAX,D,3D,F,,,,Missing screen size,,2013/08/05,CM
 393,CHINA,Shanghai,,Shanghai Chuansha SFC Bailian,IMAX,D,3D,F,,19.5,11.1,OK,Yes,2017/06/08,CM
 394,CHINA,Shanghai,,Shanghai Daning Aurora & IMAX,IMAX,D,3D,F,,20.2,11.4,OK,Yes,2016/05/28,CM
-395,CHINA,Shanghai,,Shanghai Daning IMIX Park Hoyts & IMAX,IMAX,D,3D,F,300,25.9,13.5,,No,2018,CM
+395,CHINA,Shanghai,,Shanghai Daning IMIX Park Hoyts & IMAX,IMAX,D,3D,F,300,25.9,13.5,OK,No,2018,CM
 396,CHINA,Shanghai,,Shanghai Emperior UA & IMAX,IMAX,D,3D,F,,21.3,12.2,OK,Yes,2015/10/03,CM
 397,CHINA,Shanghai,,Shanghai Fengxian Powerlong Hengdian & IMAX,IMAX,D,3D,F,,19.1,10.8,OK,Yes,2016/01,CM
 398,CHINA,Shanghai,,Shanghai Hongqiao Lingkong & IMAX,IMAX,D,3D,F,,16.8,9.2,OK,Yes,2016/01/09,CM
@@ -609,7 +609,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 608,FRANCE,Grand Quevilly,,Gaumont Rouen Grand Quevilly & IMAX,IMAX,D,3D,F,408,21.3,10.3,OK,Yes,2010/07/21,CM
 609,FRANCE,Ivry-sur-Seine,,Cinema Pathe Quai d'Ivry & IMAX,IMAX,D,3D,F,519,20.8,10.9,OK,Yes,2010/06/30,CM
 610,FRANCE,Jaunay-Clan,,Futuroscope - Dome Theatre,IMAX,1570,2D,D,330,25.0,,Height missing — width only,No,1990/06,C
-611,FRANCE,Jaunay-Clan,,Futuroscope - Kinemax IMAX Theatre,IMAX,DL2,3D,F,420,27.1,20.4,,No,1987/05/31,C
+611,FRANCE,Jaunay-Clan,,Futuroscope - Kinemax IMAX Theatre,IMAX,DL2,3D,F,420,27.1,20.4,OK,No,1987/05/31,C
 612,FRANCE,La Valette-Du-Var,,Pathe La Valette & IMAX,IMAX,DL2,3D,F,,25.5,14.1,OK,No,2016/04/13,CM
 613,FRANCE,Labege Innopole,,Cinema Gaumont Labege & IMAX,IMAX,DL,3D,F,462,21.3,10.8,OK,Yes,2010/10/13,CM
 614,FRANCE,Les Pennes Mirabeaux,,Pathe Plan de Campagne & IMAX,IMAX,DL2,3D,F,,25.0,13.9,OK,No,2018/10/05,CM
@@ -618,7 +618,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 617,FRANCE,Paris,,La Geode,IMAX,1570,2D,D,400,25.9,,Height missing — width only,No,1985/03/09,C
 618,FRANCE,Paris,,Pathe La Villette & IMAX,IMAX,D,3D,F,,16.6,9.3,OK,Yes,2016/12/14,CM
 619,FRANCE,Saran,,Pathe Saran & IMAX,IMAX,DL2,3D,F,,22.0,12.3,OK,Yes,2017/11/22,CM
-620,FRANCE,St. Ours-Les-Roche,,Vulcania,CHRIS,D,3D,F,,23.5,17.7,,No,2002/02/22,N
+620,FRANCE,St. Ours-Les-Roche,,Vulcania,CHRIS,D,3D,F,,23.5,17.7,OK,No,2002/02/22,N
 621,FRANCE,Thillois,,Gaumont Parc Millesime & IMAX,IMAX,DL2,3D,F,,22.0,12.3,OK,Yes,2017/10/04,CM
 622,FRANCE,Toulouse,,Cité De L'Espace,IMAX,1570,3D,F,300,21.1,16.1,OK,Yes,2005/05/10,N
 623,FRANCE,Tours,,Cinema Loire & IMAX,IMAX,DL,3D,F,,18.8,10.5,OK,Yes,2018/10/03,CM
@@ -629,7 +629,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 628,GERMANY,Hamburg,,UCI Kinowelt Othmarschen Park,IMAX,D,3D,F,,21.0,11.8,OK,Yes,2018/12/15,CM
 629,GERMANY,Hamburg,,UCI KINOWELT Wandsbek & IMAX,IMAX,D,3D,F,,20.4,11.3,OK,Yes,2018/07/04,CM
 630,GERMANY,Karlsruhe,,Filmpalast am ZKM,IMAX,DL2,3D,F,,21.3,15.8,OK,Yes,2000/01,CM
-631,GERMANY,Leonberg,,IMAX Leonberg,IMAX,DL,3D,F,574,38.2,21.0,,No,2021/09/28,CM
+631,GERMANY,Leonberg,,IMAX Leonberg,IMAX,DL,3D,F,574,38.2,21.0,OK,No,2021/09/28,CM
 632,GERMANY,Sinsheim,,IMAX 3D Theatre Sinsheim,IMAX,DL2,3D,F,350,24.8,18.1,OK,No,1996/04/28,C
 633,GERMANY,Speyer,,IMAX Dome Speyer,IMAX,1570,2D,D,330,24.0,,Height missing — width only,No,1997/08/02,C
 634,GREECE,Athens,,Eugenides Planetarium,SS,1570+DL,2D,D,278,24.4,,Height missing — width only,No,2004/02,N
@@ -671,7 +671,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 670,ISRAEL,Jerusalem,,Yes Planet Jerusalem & IMAX,IMAX,D,3D,F,,16.5,8.8,OK,Yes,2015/08/12,CM
 671,ISRAEL,Rishon Lezion,,Yes Planet Rishon Lezion & LG IMAX,IMAX,D,3D,F,403,17.4,9.7,OK,Yes,2012/07/19,CM
 672,ITALY,Afragola,,Happy MaxiCinema & IMAX,IMAX,D,3D,F,,19.2,10.3,OK,Yes,2015/11/05,CM
-673,ITALY,Bergamo,,UCI Cinemas Orio & IMAX,IMAX,DL2,3D,F,,,,Missing screen size,,2017/07,CM
+673,ITALY,Bergamo,,UCI Cinemas Orio & IMAX,IMAX,DL2,3D,F,,29.5,16.5,OK,No,2017/07,CM
 674,ITALY,Florence,,UCI Luxe Campi Bisenzio & IMAX,IMAX,D,3D,F,,19.5,10.7,OK,Yes,2018/11/15,CM
 675,ITALY,Milan,,UCI Pioltello IMAX,IMAX,D,3D,F,343,19.6,11.0,OK,Yes,2011/05/18,CM
 676,ITALY,Rome,,UCI Cinemas Porta di Roma & IMAX,IMAX,D,3D,F,,,,Missing screen size,,2020/01,CM
@@ -690,7 +690,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 689,JAPAN,Minamisaitama-gun,,109 Cinemas Shobu & IMAX,IMAX,D,3D,F,349,18.4,9.8,OK,Yes,2009/06/19,CM
 690,JAPAN,Nagoya-shi,,109 Cinemas Nagoya IMAX,IMAX,DL,3D,F,316,17.1,8.8,OK,Yes,2009/12/22,CM
 691,JAPAN,Narita,,Narita Humax Cinemas IMAX,IMAX,D,3D,F,467,24.4,13.8,OK,No,2012/05/25,CM
-692,JAPAN,Okinawa,,United Cinemas Parco City Urasoe & IMAX,IMAX,DL,2D,F,,,,Missing screen size,,2020/03,CM
+692,JAPAN,Okinawa,,United Cinemas Parco City Urasoe & IMAX,IMAX,DL,2D,F,,17.5,9.5,OK,Yes,2020/03,CM
 693,JAPAN,Osaka,,109 Cinemas Minoh IMAX,IMAX,D,3D,F,273,16.0,8.7,OK,Yes,2009/06/19,CM
 694,JAPAN,Osaka,,TOHO Cinemas Namba & IMAX,IMAX,D,3D,F,,,,Missing screen size,,2016/12/15,CM
 695,JAPAN,Sapporo,,United Cinemas Sapporo Factory & IMAX,IMAX,DL,3D,F,467,24.9,13.9,OK,No,2010/11/19,CM
@@ -745,7 +745,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 744,PHILIPPINES,Cebu,,SM Cinema Cebu,IMAX,D,3D,F,457,21.3,11.9,OK,Yes,2010/07/09,CM
 745,PHILIPPINES,Davao City,,SM Cinema Lanang Premier & IMAX,IMAX,D,3D,F,457,22.0,12.4,OK,Yes,2012/09/27,CM
 746,PHILIPPINES,Las Pinas,,SM Southmall IMAX,IMAX,D,3D,F,440,21.1,11.7,OK,Yes,2011/07/14,CM
-747,PHILIPPINES,Las Pinas,,Vista Cinemas & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2018/11/19,CM
+747,PHILIPPINES,Las Pinas,,Vista Cinemas & IMAX,IMAX,DL,3D,F,,19.1,10.3,OK,Yes,2018/11/19,CM
 748,PHILIPPINES,Mandaluyong City,,IMAX Megamall,IMAX,D,3D,F,,22.4,12.3,OK,Yes,2013/11/15,CM
 749,PHILIPPINES,Manila,,IMAX SM North Edsa,IMAX,D,3D,F,472,16.0,8.9,OK,Yes,2009/07/16,CM
 750,PHILIPPINES,Manila,,SM Mall of Asia IMAX,IMAX,1570+D,3D,F,586,29.0,22.0,OK,No,2006/05/21,CM
@@ -784,7 +784,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 783,RUSSIA,Moscow,,Kinomax Kozhukhovskaya & IMAX,IMAX,D,3D,F,,21.3,11.6,OK,Yes,2015/05/21,CM
 784,RUSSIA,Moscow,,Kinomax Prazhskaya & IMAX,IMAX,D,3D,F,,21.0,11.6,OK,Yes,2015/05/28,CM
 785,RUSSIA,Moscow,,Kinomax Titan Moscow & IMAX,IMAX,DL2,3D,F,,28.0,15.7,OK,No,2018/08/03,CM
-786,RUSSIA,Moscow,,Kinosfera IMAX,IMAX,D,3D,F,371,22.0,17.0,,Yes,2003/04/03,CM
+786,RUSSIA,Moscow,,Kinosfera IMAX,IMAX,D,3D,F,371,22.0,17.0,OK,Yes,2003/04/03,CM
 787,RUSSIA,Mytischy,,MORI Cinema & IMAX Mytishchi,IMAX,D,3D,F,,22.6,12.9,OK,Yes,2013/02,CM
 788,RUSSIA,Naberezhnye Chelny,,Cinema Park SLC TORGOVYI KVARTAL & IMAX,IMAX,D,3D,F,,16.9,9.3,OK,Yes,2013/03/29,CM
 789,RUSSIA,Nizhny Novgorod,,Cinema Park Deluxe IMAX,IMAX,D,3D,F,387,21.3,12.1,OK,Yes,2012/04/26,CM
@@ -826,7 +826,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 825,SINGAPORE,Singapore,,Shaw Theatres Jcube & IMAX,IMAX,D,3D,F,159,17.1,9.5,OK,Yes,2012/04/05,CM
 826,SINGAPORE,Singapore,,Shaw Theatres Lido & IMAX,IMAX,D,3D,F,425,19.0,9.0,OK,Yes,2011/05/19,CM
 827,SINGAPORE,Singapore,,Shaw Theatres Waterway Point & IMAX,IMAX,D,3D,F,,18.1,10.2,OK,Yes,2016/01/21,CM
-828,SINGAPORE,Singapore,,"Singapore Discovery Centre, Ltd.",unk,D,3D,F,344,18.1,13.1,,Yes,1996/12,N
+828,SINGAPORE,Singapore,,"Singapore Discovery Centre, Ltd.",unk,D,3D,F,344,18.1,13.1,OK,Yes,1996/12,N
 829,SLOVAKIA,Bratislava,,Cinemax Bratislava & IMAX,IMAX,D,3D,F,476,23.0,13.0,OK,No,2015/06/11,CM
 830,SOUTH AFRICA,Bedfordview,,Ster-Kinekor Eastgate & IMAX,IMAX,D,3D,F,,20.8,11.6,OK,Yes,2015/12/04,CM
 831,SOUTH AFRICA,Cape Town,,Ster Kinekor Blue Route Mall,IMAX,D,3D,F,,,,Missing screen size,,2020/03,CM
@@ -855,7 +855,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 854,SPAIN,Madrid,,Cinesa Las Rozas Madrid & IMAX,IMAX,D,3D,F,,17.8,10.0,OK,Yes,2018/10/11,CM
 855,SPAIN,Madrid,,Cinesa Parquesur IMAX,IMAX,D,3D,F,418,19.0,10.2,OK,Yes,2011/05/20,CM
 856,SPAIN,Valencia,,Hemisferic,IMAX,1570+D,2D,D,306,24.0,,Height missing — width only,No,1998/04/16,N
-857,SWEDEN,Gothenburg,,Filmstaden Bergakungen & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2021,CM
+857,SWEDEN,Gothenburg,,Filmstaden Bergakungen & IMAX,IMAX,DL,3D,F,,18.5,10.3,OK,Yes,2021,CM
 858,SWEDEN,Stockholm,,Filmstaden Scandinavia & IMAX,IMAX,D,3D,F,,21.0,11.4,OK,Yes,2015/11/12,CM
 859,SWEDEN,Stockholm,,Swedish Museum of Natural History,IMAX,1570+D,2D,D,291,23.0,,Height missing — width only,No,1992/10/16,N
 860,SWITZERLAND,Ebikon-Lucerne,,Pathe Mall of Switzerland & IMAX,IMAX,DL2,3D,F,,22.5,12.5,OK,Yes,2017/11/08,CM
@@ -870,7 +870,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 869,TAIWAN,Taichung,,Taichung FE VieShow IMAX Cinema,IMAX,D,3D,F,403,18.3,9.4,OK,Yes,2011/12/30,CM
 870,TAIWAN,Taichung,,Vie Show Cinemas Taichung Tiger City IMAX,IMAX,D,3D,F,307,15.4,8.6,OK,Yes,2011/11/25,CM
 871,TAIWAN,Tainan,,Vie Show T.S. Dream Mall & IMAX,IMAX,D,3D,F,,21.8,12.2,OK,Yes,2015/01/26,CM
-872,TAIWAN,Taipei,,"Miramar IMAX, Miramar Cinemas",IMAX,DL2,3D,F,406,28.4,21.2,,No,2004/11/19,CM
+872,TAIWAN,Taipei,,"Miramar IMAX, Miramar Cinemas",IMAX,DL2,3D,F,406,28.4,21.2,OK,No,2004/11/19,CM
 873,TAIWAN,Taipei,,Sun VieShow IMAX,IMAX,D,3D,F,623,21.1,11.3,OK,Yes,2009/04/03,CM
 874,TAIWAN,Taipei,,Taipei Astronomical Museum,GI,D,3D,D,304,25.0,,Height missing — width only,No,1997/02/05,N
 875,TAIWAN,Taipei,,VieShow Cinemas Banqiao Mega City IMAX,IMAX,D,3D,F,427,21.3,11.5,OK,Yes,2011,CM
@@ -893,7 +893,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 892,UAE,Abu Dhabi,,VOX Al Maryah & IMAX,IMAX,DL,3D,F,410,,,Missing screen size,,2019/09/04,CM
 893,UAE,Dubai,,Novo Cinemas Festival City & IMAX,IMAX,D,3D,F,,18.4,10.2,OK,Yes,2016/09/05,CM
 894,UAE,Dubai,,Novo Cinemas Ibn Battuta Mall & IMAX,IMAX,D,3D,F,348,20.6,13.1,OK,Yes,2005/06/22,CM
-895,UAE,Dubai,,Novo IMG Dubai & IMAX,IMAX,DL2,3D,F,,,,Missing screen size,,2019/02/14,CM
+895,UAE,Dubai,,Novo IMG Dubai & IMAX,IMAX,DL2,3D,F,,24.4,13.8,OK,No,2019/02/14,CM
 896,UAE,Dubai,,Vox Cinemas & IMAX,IMAX,DL2,3D,F,350,23.9,12.7,OK,No,2015/09/28,CM
 897,UAE,Dubai,,VOX Cinemas Mirdif & IMAX,IMAX,D,3D,F,,,,Missing screen size,,2018/06/07,CM
 898,UAE,Sharjah,,Cinemacity IMAX zero6,IMAX,D,3D,F,,,,Missing screen size,,2018/04/10,CM
@@ -902,7 +902,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 901,UK,Birmingham,,Cineworld Birmingham & IMAX,IMAX,D,3D,F,353,18.3,9.3,OK,Yes,2012/10,CM
 902,UK,Birmingham,,Cineworld Birmingham NEC & IMAX,IMAX,D,3D,F,,16.7,9.4,OK,Yes,2015/10/23,CM
 903,UK,Birmingham,,Empire Birmingham Great Park & IMAX,IMAX,D,3D,F,,17.0,9.2,OK,Yes,2015/06/11,CM
-904,UK,Bradford,,National Media Museum,IMAX,D,3D,F,349,18.9,15.9,,Yes,1983/07/16,N
+904,UK,Bradford,,National Media Museum,IMAX,D,3D,F,349,18.9,15.9,OK,Yes,1983/07/16,N
 905,UK,Cambridge,,Light Cinema Cambridge & IMAX,IMAX,D,3D,F,,15.9,8.4,OK,Yes,2017/07/21,CM
 906,UK,Cardiff,,ODEON Cardiff & IMAX,IMAX,D,3D,F,286,16.8,7.7,OK,Yes,2009/12/16,CM
 907,UK,Cheltenham,,Cineworld Cheltenham & IMAX,IMAX,D,3D,F,,15.2,7.9,OK,Yes,2014/11/07,CM
@@ -939,14 +939,14 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 938,UK,Telford,,Cineworld Telford & IMAX,IMAX,D,3D,F,,15.5,8.5,OK,Yes,2014/08/07,CM
 939,UK,Uxbridge,,ODEON Uxbridge & IMAX,IMAX,D,3D,F,275,15.2,7.4,OK,Yes,2010/11/12,CM
 940,UK,Wallsend,,ODEON Silverlink & IMAX,IMAX,D,3D,F,,17.5,9.8,OK,Yes,2017/11/27,CM
-941,UK,Watford,,Cineworld Watford & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2018/11,CM
+941,UK,Watford,,Cineworld Watford & IMAX,IMAX,DL,3D,F,,17.0,,OK,Yes,2018/11,CM
 942,UK,Wimbledon,,ODEON Wimbledon & IMAX,IMAX,D,3D,F,343,15.2,7.9,OK,Yes,2008/11/29,CM
-943,UK,York,,Cineworld York & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2019/12/13,CM
+943,UK,York,,Cineworld York & IMAX,IMAX,DL,3D,F,,17.0,,OK,Yes,2019/12/13,CM
 944,UKRAINE,Dnieper,,Multiplex & IMAX,IMAX,D,3D,F,,22.4,12.9,OK,Yes,2016/12/14,CM
 945,UKRAINE,Kharkiv,,Planeta Kino IMAX,IMAX,D,3D,F,378,,,Missing screen size,,2012/12/20,CM
-946,UKRAINE,Kiev,,Multiplex Lavina Mall & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2020/01,CM
+946,UKRAINE,Kiev,,Multiplex Lavina Mall & IMAX,IMAX,DL,3D,F,,21.0,11.0,OK,Yes,2020/01,CM
 947,UKRAINE,Kiev,,Planeta Kino Kyiv & IMAX,IMAX,D,3D,F,326,21.1,13.5,OK,Yes,2008/09/20,CM
-948,Ukraine,Kiev,,Planeta Kino River Mall & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2021,CM
+948,Ukraine,Kiev,,Planeta Kino River Mall & IMAX,IMAX,DL,3D,F,,16.0,8.5,OK,Yes,2021,CM
 949,UKRAINE,Lviv,,Planeta Kino LVIV & IMAX,IMAX,D,3D,F,374,21.2,12.0,OK,Yes,2010/12/16,CM
 950,UKRAINE,Odessa,,Planeta Kino & IMAX Odessa,IMAX,D,3D,F,,21.3,12.1,OK,Yes,2014/05/15,CM
 951,UKRAINE,Yalta,,Planeta Kino IMAX Yalta,IMAX,D,3D,F,,21.3,11.9,OK,Yes,2013/05/26,CM
@@ -988,13 +988,13 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 987,USA,Tempe,AZ,Harkins Arizona Mills 25 & IMAX,IMAX,1570+D,3D,F,412,24.4,18.3,OK,No,1998/03/05,CM
 988,USA,Tucson,AZ,AMC Foothills 15 & IMAX,IMAX,D,3D,F,342,14.5,7.3,OK,Yes,2010/09/03,CM
 989,INDONESIA,Tangerang,Banten,Cinema XXI & IMAX,IMAX,D,3D,F,,22.9,12.8,OK,No,2014/04/30,CM
-990,GERMANY,Nuremberg,Bavaria,Cinecitta Multiplexkino,SONY,D,3D,F,511,29.0,21.1,,No,2001/12/22,CM
+990,GERMANY,Nuremberg,Bavaria,Cinecitta Multiplexkino,SONY,D,3D,F,511,29.0,21.1,OK,No,2001/12/22,CM
 991,CANADA,Langley,BC,Cineplex Cinemas Langley & IMAX,IMAX,1570+D,3D,F,254,21.3,16.0,OK,Yes,1999/05/12,CM
 992,CANADA,Richmond,BC,SilverCity Riverport & IMAX,IMAX,D,3D,F,259,21.3,16.1,OK,Yes,1998/12/18,CM
 993,CANADA,Vancouver,BC,Science World at Telus World of Science,IMAX,1570,2D,D,401,27.0,,Height missing — width only,No,1989/05/06,N
 994,CANADA,Victoria,BC,Royal British Columbia Museum,IMAX,DL2,3D,F,369,25.6,18.7,OK,No,1998/06/26,C
 995,CANADA,Victoria,BC,SilverCity Victoria Cinemas & IMAX,IMAX,D,3D,F,426,19.7,11.4,OK,Yes,2011/12/15,CM
-996,MEXICO,Mexicali,BC,Museo Sol del Niño,IMAX,1570,3D,F,301,21.3,16.1,,Yes,2006/12,N
+996,MEXICO,Mexicali,BC,Museo Sol del Niño,IMAX,1570,3D,F,301,21.3,16.1,OK,Yes,2006/12,N
 997,MEXICO,Tijuana,BC,Centro Cultural Tijuana,IMAX,1570,2D,D,300,23.0,,Height missing — width only,No,1982/10/20,N
 998,USA,Alhambra,CA,Edwards Renaissance Stadium 14 & IMAX,IMAX,D,3D,F,350,15.4,10.1,OK,Yes,2009/10/30,CM
 999,USA,Aliso Viejo,CA,Edwards Aliso Viejo Stadium 20 & IMAX,IMAX,D,3D,F,384,16.5,10.4,OK,Yes,2009/03/06,CM
@@ -1005,7 +1005,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1004,USA,Camarillo,CA,Edwards Camarillo Palace Stadium 12 & IMAX,IMAX,D,3D,F,230,14.6,8.8,OK,Yes,2009/02/27,CM
 1005,USA,Concord,CA,Veranda Luxe & IMAX,IMAX,D,3D,F,,22.7,13.0,OK,Yes,2017/12/14,CM
 1006,USA,Covina,CA,AMC Covina 30 & IMAX,IMAX,D,3D,F,375,16.6,8.5,OK,Yes,2009/09/11,CM
-1007,USA,Daly City,CA,Century 20 Daly City,IMAX,DL,3D,F,,,,Missing screen size,,2019/10/05,CM
+1007,USA,Daly City,CA,Century 20 Daly City,IMAX,DL,3D,F,,16.0,,OK,Yes,2019/10/05,CM
 1008,USA,Dublin,CA,Regal Hacienda Crossings Stadium 21 & IMAX,IMAX,1570+D,3D,F,385,23.3,17.0,OK,No,2000/05/05,CM
 1009,USA,El Cajon,CA,Regal Parkway Plaza 18 & IMAX,IMAX,D,3D,F,316,15.4,8.4,OK,Yes,2011/03/25,CM
 1010,USA,El Dorado Hills,CA,Regal El Dorado Hills Stadium 14 & IMAX,IMAX,D,3D,F,290,15.1,9.6,OK,Yes,2008/10/24,CM
@@ -1019,7 +1019,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1018,USA,Long Beach,CA,Edwards Long Beach Stadium 26 & IMAX,IMAX,D,3D,F,265,16.5,10.3,OK,Yes,2009/05/07,CM
 1019,USA,Los Angeles,CA,AMC Century City 15 & IMAX,IMAX,DL,3D,F,271,16.8,9.5,OK,Yes,2008/10/03,CM
 1020,USA,Los Angeles,CA,IMAX Theater,IMAX,DL2,3D,F,420,27.4,20.3,OK,No,1998/02/07,N
-1021,USA,Montclair,CA,AMC DINE-IN Montclair 12 & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2021,CM
+1021,USA,Montclair,CA,AMC DINE-IN Montclair 12 & IMAX,IMAX,DL,3D,F,,16.0,,OK,Yes,2021,CM
 1022,USA,National City,CA,AMC Plaza Bonita 14 & IMAX,IMAX,D,3D,F,276,15.5,10.0,OK,Yes,2009/05/22,CM
 1023,USA,Newark,CA,AMC Newpark 12 & IMAX,IMAX,D,3D,F,,18.5,10.2,OK,Yes,2016/02/12,CM
 1024,USA,Norwalk,CA,AMC Norwalk 20 & IMAX,IMAX,D,3D,F,334,16.5,8.2,OK,Yes,2012/04/13,CM
@@ -1047,18 +1047,18 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1046,USA,Simi Valley,CA,Regal Civic Center Stadium 16 & IMAX,IMAX,D,3D,F,283,14.3,8.5,OK,Yes,2008/11/07,CM
 1047,USA,South Gate,CA,Edwards South Gate Stadium 20 & IMAX,IMAX,D,3D,F,343,17.7,11.3,OK,Yes,2009/03/27,CM
 1048,USA,Stockton,CA,Regal Stockton City Center Stadium 16 & IMAX,IMAX,D,3D,F,405,16.1,9.6,OK,Yes,2008/11/07,CM
-1049,USA,Sunnyvale,CA,AMC Dine-In Sunnyvale 12 & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2021,CM
+1049,USA,Sunnyvale,CA,AMC Dine-In Sunnyvale 12 & IMAX,IMAX,DL,3D,F,,16.0,,OK,Yes,2021,CM
 1050,USA,Temecula,CA,Edwards Temecula Stadium 15 & IMAX,IMAX,D,3D,F,325,15.5,10.2,OK,Yes,2009/11/04,CM
 1051,USA,Torrance,CA,AMC Del Amo 18 & IMAX,IMAX,DL,3D,F,248,15.9,9.8,OK,Yes,2008/11/07,CM
 1052,USA,Torrance,CA,AMC Rolling Hills 20 & IMAX,IMAX,D,3D,F,,14.2,7.7,OK,Yes,2015/05,CM
 1053,USA,Universal City,CA,Universal Cinema AMC at CityWalk Hollywood,IMAX,1570+DL2,3D,F,422,24.1,17.7,OK,No,2000/04/14,CM
 1054,USA,Woodland Hills,CA,AMC Promenade 16 & IMAX,IMAX,D,3D,F,361,15.5,8.2,OK,Yes,2009/05/07,CM
-1055,USA,Yorba Linda,CA,Regal Yorba Linda 10 & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2019,CM
+1055,USA,Yorba Linda,CA,Regal Yorba Linda 10 & IMAX,IMAX,DL,3D,F,,16.0,,OK,Yes,2019,CM
 1056,SPAIN,Las Palmas,CANARY ISLANDS,Museo Elder de la Ciencia y la Tecnologia,unk,D,3D,F,172,,,Missing screen size,,1999/12/10,N
 1057,MEXICO,Juarez,Chihuahua,Cinepolis Las Misiones Cd. Juarez & IMAX,IMAX,D,3D,F,407,19.2,10.7,OK,Yes,2009/06/05,CM
 1058,CHINA,Chongqing,Chong Qing,Chongqing Guanyinqiao CGV & IMAX,IMAX,D,3D,F,,21.1,11.9,OK,Yes,2017/06/23,CM
 1059,CHINA,Chongqing,Chong Qing,Chongqing Hometown CGV & IMAX,IMAX,D,3D,F,,20.9,11.9,OK,Yes,2017/06/16,CM
-1060,CHINA,Chongqing,Chong Qing,Chongqing Wanying,IMAX,DL,3D,F,,,,Missing screen size,,2018/09/15,CM
+1060,CHINA,Chongqing,Chong Qing,Chongqing Wanying,IMAX,DL,3D,F,,21.0,11.5,OK,Yes,2018/09/15,CM
 1061,NETHERLANDS,Rotterdam,CL,Pathe Schouwburgplein & IMAX,IMAX,DL,3D,F,396,18.0,9.0,OK,Yes,2009/12/16,CM
 1062,USA,Aurora,CO,AMC Arapahoe Crossing 16 & IMAX,IMAX,D,3D,F,335,17.7,9.1,OK,Yes,2011/10/28,CM
 1063,USA,Broomfield,CO,AMC Flatiron Crossing 14 & IMAX,IMAX,D,3D,F,,13.9,8.6,OK,Yes,2017/02/16,CM
@@ -1079,7 +1079,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1078,USA,Washington,DC,National Air and Space Museum,IMAX,DL2,3D,F,487,23.0,14.0,OK,No,1976/07,N
 1079,USA,Wilmington,DE,Penn Cinema Riverfront & IMAX,IMAX,D,3D,F,300,22.9,14.6,OK,No,2012/12/14,CM
 1080,MEXICO,Mexico City,DF,Cinepolis Forum Buenavista & IMAX,IMAX,D,3D,F,,16.7,9.2,OK,Yes,2013/12/28,CM
-1081,MEXICO,Mexico City,DF,Cinepolis Perisur & IMAX,IMAX,D,3D,F,271,17.5,12.7,,Yes,2004/11/16,CM
+1081,MEXICO,Mexico City,DF,Cinepolis Perisur & IMAX,IMAX,D,3D,F,271,17.5,12.7,OK,Yes,2004/11/16,CM
 1082,MEXICO,Mexico City,DF,Cinepolis Universidad & IMAX,IMAX,D,3D,F,304,21.4,13.8,OK,Yes,2006/07/06,CM
 1083,MEXICO,Mexico City,DF,Papalote Museo del Nino,IMAX,1570,3D,F,333,24.0,17.0,OK,No,1993/11/05,N
 1084,CHINA,Dongguan,Dongguan,Dongguan Wanda & IMAX,IMAX,DL2,3D,F,561,28.6,21.9,OK,No,2007/08/11,CM
@@ -1118,7 +1118,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1117,USA,St. Petersburg,FL,AMC Sundial 20 & IMAX,IMAX,DL,3D,F,416,18.9,9.8,OK,Yes,2007/05/04,CM
 1118,USA,Sunrise,FL,Regal Sawgrass 23 & IMAX,IMAX,D,3D,F,375,16.3,9.1,OK,Yes,2010/03/05,CM
 1119,USA,Tallahassee,FL,AMC Tallahassee Mall 20 & IMAX,IMAX,D,3D,F,366,18.1,10.1,OK,Yes,2009/09/18,CM
-1120,USA,Tallahassee,FL,Challenger Learning Center,IMAX,D,3D,F,287,21.3,16.1,,Yes,2003/03/22,N
+1120,USA,Tallahassee,FL,Challenger Learning Center,IMAX,D,3D,F,287,21.3,16.1,OK,Yes,2003/03/22,N
 1121,USA,Tampa,FL,AMC Veterans 24 & IMAX,IMAX,D,3D,F,372,16.6,9.8,OK,Yes,2008/09/05,CM
 1122,USA,West Melbourne,FL,AMC West Melbourne 12 & IMAX,IMAX,D,3D,F,,19.6,10.6,OK,Yes,2014/08/13,CM
 1123,USA,West Palm Beach,FL,AMC Rosemary Square 12,IMAX,DL,3D,F,283,16.6,9.3,OK,Yes,2007/07/11,CM
@@ -1146,7 +1146,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1145,USA,Pooler,GA,Royal Cinemas & IMAX,IMAX,D,3D,F,350,21.3,12.2,OK,Yes,2012/09/14,CM
 1146,CHINA,Lanzhou,Gansu,Lanzhou Centre Space Station & IMAX,IMAX,DL,3D,F,,20.4,11.4,OK,Yes,2018/12/28,CM
 1147,NETHERLANDS,Arnhem,GE,Pathe Arnhem & IMAX,IMAX,D,3D,F,308,21.0,12.0,OK,Yes,2015/10/19,CM
-1148,MEXICO,Leon,Guanajuato,Patronato de Explora,IMAX,1570,3D,F,296,23.6,17.4,,No,1994/11/23,N
+1148,MEXICO,Leon,Guanajuato,Patronato de Explora,IMAX,1570,3D,F,296,23.6,17.4,OK,No,1994/11/23,N
 1149,CHINA,Dongguan,Guangdong,Dongguan Science & Technology Museum,IMAX,1570,2D,D,276,23.0,,Height missing — width only,No,2006/01/29,N
 1150,CHINA,Foshan,Guangdong,Foshan Shunde Metro-Mall Jinyi,IMAX,D,3D,F,,23.9,13.7,OK,No,2018/12/30,CM
 1151,CHINA,Guangzhou,Guangdong,Guangzhou Lisheng Plaza,IMAX,D,3D,F,,18.4,10.6,OK,Yes,2018/12/13,CM
@@ -1168,7 +1168,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1167,INDIA,Ahmedabad,Gujarat,Gujarat Science City,IMAX,1570,3D,F,651,29.0,20.4,OK,No,2002/10/24,N
 1168,JAPAN,Tatebayashi-shi,Gunma Pref.,Mukai Chiaki Children's Science Museum,GOTO,D,2D,D,240,24.4,,Height missing — width only,No,1991/05/05,N
 1169,SOUTH KOREA,Gwangju,Gwangju,CGV Gwangju IMAX,IMAX,D,3D,F,357,18.2,10.1,OK,Yes,2009/05/30,CM
-1170,SOUTH KOREA,Suwon,Gyeonggi-do,CGV Gwangyo & IMAX,IMAX,DL,3D,F,,,,Missing screen size,,2020/01/31,CM
+1170,SOUTH KOREA,Suwon,Gyeonggi-do,CGV Gwangyo & IMAX,IMAX,DL,3D,F,,19.3,10.5,OK,Yes,2020/01/31,CM
 1171,CHINA,Langfang,Hebei,Langfang Yanjiao HBC & IMAX,IMAX,D,3D,F,,15.6,8.6,OK,Yes,2017/12/22,CM
 1172,CHINA,Shijiazhuang,Hebei,Hebei Science and Technology Museum,GOTO,1070,2D,D,315,23.2,,Height missing — width only,No,2007,N
 1173,CHINA,Shijiazhuang,Hebei,Shijiazhuang Jinyi MixC & IMAX,IMAX,DL,3D,F,,23.0,13.2,OK,No,2018/11/10,CM
@@ -1184,7 +1184,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1183,CHINA,Hengyang,Hunan,Hengyang Better Life Jinyi & IMAX,IMAX,D,3D,F,,20.0,10.8,OK,Yes,2018/09/30,CM
 1184,USA,Council Bluffs,IA,AMC Star Council Bluffs 17 & IMAX,IMAX,D,3D,F,346,21.3,13.4,OK,Yes,2008/03/21,CM
 1185,USA,Davenport,IA,Davenport 53 & IMAX,IMAX,D,3D,F,388,16.7,8.8,OK,Yes,2010/11/19,CM
-1186,USA,Davenport,IA,Putnam Museum and Science Center,BARCO,D,3D,F,270,21.3,17.1,,Yes,2002/03/16,N
+1186,USA,Davenport,IA,Putnam Museum and Science Center,BARCO,D,3D,F,270,21.3,17.1,OK,Yes,2002/03/16,N
 1187,USA,Des Moines,IA,Science Center of Iowa,IMAX,1570,2D,D,222,20.0,,Height missing — width only,Yes,2005/05/14,N
 1188,USA,Waukee,IA,The Palms Theatre & IMAX,IMAX,DL2,3D,F,,26.2,18.3,OK,No,2018,CM
 1189,USA,Boise,ID,Edwards Boise Stadium 22 & IMAX,IMAX,1570+D,3D,F,268,21.3,18.3,OK,Yes,1999/04/30,CM
@@ -1213,7 +1213,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1212,USA,Indianapolis,IN,AMC Castleton Square 14 & IMAX,IMAX,D,3D,F,,15.6,8.7,OK,Yes,2017/05/04,CM
 1213,USA,Indianapolis,IN,AMC Indianapolis 17 & IMAX,IMAX,D,3D,F,351,21.3,12.8,OK,Yes,2007/09,CM
 1214,USA,Indianapolis,IN,AMC Traders Point 12 & IMAX,IMAX,D,3D,F,280,15.3,7.9,OK,Yes,2011/10/07,CM
-1215,USA,Indianapolis,IN,Indiana State Museum,IMAX,1570+D,3D,F,404,25.6,19.2,,No,1996/12/19,N
+1215,USA,Indianapolis,IN,Indiana State Museum,IMAX,1570+D,3D,F,404,25.6,19.2,OK,No,1996/12/19,N
 1216,USA,Lafayette,IN,Goodrich Eastside 10 Theater,IMAX,D,3D,F,,,,Missing screen size,,2019/06/14,CM
 1217,USA,Muncie,IN,AMC Muncie 12 & IMAX,IMAX,D,3D,F,,13.8,7.4,OK,Yes,2017/10/27,CM
 1218,USA,Schererville,IN,AMC Schererville 16 & IMAX,IMAX,D,3D,F,301,15.2,7.7,OK,Yes,2011/10/13,CM
@@ -1291,7 +1291,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1290,USA,Detroit,MI,Michigan Science Center,IMAX,1570,2D,D,238,20.6,,Height missing — width only,Yes,2012/12/26,N
 1291,USA,Grand Blanc,MI,NCG Trillium & IMAX,IMAX,D,3D,F,327,21.3,12.2,OK,Yes,2007/10/16,CM
 1292,USA,Grand Rapids,MI,Celebration! Cinema Grand Rapids North & IMAX,IMAX,1570+D,3D,F,281,21.3,16.1,OK,Yes,2001/11/16,CM
-1293,USA,Lansing,MI,Celebration! Cinema & IMAX,IMAX,D,3D,F,330,21.3,13.4,,Yes,2003/11/25,CM
+1293,USA,Lansing,MI,Celebration! Cinema & IMAX,IMAX,D,3D,F,330,21.3,13.4,OK,Yes,2003/11/25,CM
 1294,USA,Livonia,MI,AMC Livonia 20 & IMAX,IMAX,D,3D,F,320,16.6,9.1,OK,Yes,2009/10/02,CM
 1295,USA,Portage,MI,Celebration! Cinema Crossroads & IMAX,IMAX,D,3D,F,270,19.5,12.8,OK,Yes,2012/05/23,CM
 1296,USA,Sterling Heights,MI,AMC Forum 30 & IMAX,IMAX,D,3D,F,259,15.5,10.1,OK,Yes,2005/07/22,CM
@@ -1330,13 +1330,13 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1329,USA,Durham,NC,AMC Southpoint 17 & IMAX,IMAX,D,3D,F,322,19.1,10.5,OK,Yes,2011/05/13,CM
 1330,USA,Fayetteville,NC,AMC Fayetteville 14 & MAX,IMAX,D,3D,F,,20.1,10.9,OK,Yes,2014/11/20,CM
 1331,USA,High Point,NC,Regal Palladium Stadium 14 & IMAX,IMAX,D,3D,F,279,15.2,9.1,OK,Yes,2011/12/15,CM
-1332,USA,Raleigh,NC,Marbles Kids Museum,IMAX,D,3D,F,267,21.3,16.1,,Yes,2001/11/16,N
+1332,USA,Raleigh,NC,Marbles Kids Museum,IMAX,D,3D,F,267,21.3,16.1,OK,Yes,2001/11/16,N
 1333,USA,Wilmington,NC,Regal Mayfaire Stadium 16 & IMAX,IMAX,D,3D,F,296,14.9,9.0,OK,Yes,2012/06/15,CM
 1334,USA,Winston-Salem,NC,Grand 18 & IMAX,IMAX,D,3D,F,352,17.9,10.0,OK,Yes,2011/06/28,CM
 1335,USA,Hastings,NE,Hastings Museum,NEC,D,3D,F,211,19.8,15.9,OK,Yes,2011/10/26,N
 1336,USA,Omaha,NE,AMC Westroads 14 & IMAX,IMAX,D,3D,F,,18.9,10.4,OK,Yes,2013/12/20,CM
 1337,USA,Omaha,NE,Henry Doorly Zoo,CHRIS,DL,3D,F,358,23.0,12.5,OK,No,1997/03/27,N
-1338,USA,Atlantic City,NJ,Tropicana Casino And Resort,IMAX,D,3D,F,287,21.3,16.0,,Yes,2004/11/23,C
+1338,USA,Atlantic City,NJ,Tropicana Casino And Resort,IMAX,D,3D,F,287,21.3,16.0,OK,Yes,2004/11/23,C
 1339,USA,Cherry Hill,NJ,AMC Cherry Hill 24 & IMAX,IMAX,DL,3D,F,480,16.5,8.5,OK,Yes,2008/08/15,CM
 1340,USA,Clifton,NJ,AMC Clifton Commons 16 & IMAX,IMAX,D,3D,F,225,13.7,7.3,OK,Yes,2011/08/26,CM
 1341,USA,Eatontown,NJ,AMC Monmouth Mall 15 & IMAX,IMAX,D,3D,F,230,16.1,9.0,OK,Yes,2010/07/31,CM
@@ -1372,8 +1372,8 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1371,USA,New York,NY,AMC 34th Street 14 & IMAX,IMAX,DL,3D,F,212,16.5,9.2,OK,Yes,2009/06/19,CM
 1372,USA,New York,NY,AMC Empire 25 & IMAX,IMAX,DL,3D,F,285,17.7,8.5,OK,Yes,2008/09/05,CM
 1373,USA,New York,NY,AMC Kips Bay 15 & IMAX,IMAX,DL,3D,F,330,18.3,8.4,OK,Yes,2010/03/05,CM
-1374,USA,New York,NY,AMC Lincoln Square 13 & IMAX,IMAX,1570+DL2,3D,F,472,29.8,23.0,,No,1994/11/18,CM
-1375,USA,New York,NY,American Museum of Natural History,IMAX,1570+D,3D,F,598,20.1,12.2,,Yes,1982/02/09,N
+1374,USA,New York,NY,AMC Lincoln Square 13 & IMAX,IMAX,1570+DL2,3D,F,472,29.8,23.0,OK,No,1994/11/18,CM
+1375,USA,New York,NY,American Museum of Natural History,IMAX,1570+D,3D,F,598,20.1,12.2,OK,Yes,1982/02/09,N
 1376,USA,Niagara Falls,NY,Niagara Falls Adventure Theater,BARCO,D,2D,F,314,13.7,7.6,OK,Yes,2007/05,C
 1377,USA,Port Chester,NY,AMC Port Chester 14 & IMAX,IMAX,D,3D,F,312,17.1,9.2,OK,Yes,2010/09/24,CM
 1378,USA,Rochester,NY,Cinemark Tinseltown USA & IMAX,IMAX,1570+D,3D,F,253,21.3,16.1,OK,Yes,1999/11/04,CM
@@ -1381,7 +1381,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1380,USA,Staten Island,NY,AMC Staten Island 11 & IMAX,IMAX,D,3D,F,273,16.8,9.4,OK,Yes,2018,CM
 1381,USA,Stony Brook,NY,AMC Stony Brook 17 & IMAX,IMAX,D,3D,F,392,15.9,8.5,OK,Yes,2009/02/27,CM
 1382,USA,Syracuse,NY,Museum of Science and Technology,IMAX,1570,2D,D,214,20.0,,Height missing — width only,Yes,1997/01/26,N
-1383,USA,Syracuse,NY,Regal Destiny USA Stadium 19 & IMAX,IMAX,D,3D,F,,21.3,11.6,,Yes,2013/06/14,CM
+1383,USA,Syracuse,NY,Regal Destiny USA Stadium 19 & IMAX,IMAX,D,3D,F,,21.3,11.6,OK,Yes,2013/06/14,CM
 1384,USA,West Nyack,NY,AMC Palisades Center 21 & IMAX,IMAX,D,3D,F,267,18.2,10.0,OK,Yes,2015/06/02,CM
 1385,USA,Westbury,NY,UA Westbury Stadium 12 & IMAX,IMAX,D,3D,F,267,16.2,9.3,OK,Yes,2011/03/22,CM
 1386,USA,White Plains,NY,City Center 15: Cinema De Lux & IMAX,IMAX,D,3D,F,339,18.1,8.4,OK,Yes,2004/11/10,CM
@@ -1393,7 +1393,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1392,USA,Columbus,OH,AMC Easton Town Center 30 & IMAX,IMAX,D,3D,F,277,15.2,9.8,OK,Yes,2005/08/26,CM
 1393,USA,Columbus,OH,COSI Columbus,CHRIS,D,3D,F,391,23.0,15.9,OK,No,1999/11/06,N
 1394,USA,Columbus,OH,Lennox Town Center & IMAX,IMAX,DL,3D,F,422,17.7,9.2,OK,Yes,2009/10/02,CM
-1395,USA,Dayton,OH,National Museum of the U.S. Air Force,BARCO,D,3D,F,400,24.4,18.6,,No,1991/05/05,N
+1395,USA,Dayton,OH,National Museum of the U.S. Air Force,BARCO,D,3D,F,400,24.4,18.6,OK,No,1991/05/05,N
 1396,USA,Grove City,OH,AMC Grove City 14 & IMAX,IMAX,D,3D,F,,19.0,10.4,OK,Yes,2013/09/27,CM
 1397,USA,Toledo,OH,Imagination Station,BARCO,DL2,3D,F,280,17.7,9.8,OK,Yes,2020/06,N
 1398,USA,West Chester,OH,AMC West Chester 19 & IMAX,IMAX,D,3D,F,,18.9,10.4,OK,Yes,2013/12/23,CM
@@ -1441,7 +1441,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1440,USA,Erie,PA,Tom Ridge Environmental Center,CHRIS,870+D,2D,F,175,13.7,10.1,OK,Yes,2006/05/26,N
 1441,USA,Harrisburg,PA,Whitaker Center for Science and the Arts,NEC,D,3D,F,209,21.3,11.6,OK,Yes,1999/09/09,N
 1442,USA,Homestead,PA,AMC Waterfront 22 & IMAX,IMAX,D,3D,F,345,15.3,8.5,OK,Yes,2009/01/23,CM
-1443,USA,King of Prussia,PA,UA King Of Prussia Stadium 16 & IMAX,IMAX,1570+DL,3D,F,340,22.3,15.9,,Yes,2000/05/19,CM
+1443,USA,King of Prussia,PA,UA King Of Prussia Stadium 16 & IMAX,IMAX,1570+DL,3D,F,340,22.3,15.9,OK,Yes,2000/05/19,CM
 1444,USA,Lititz,PA,Penn Cinema & IMAX,IMAX,D,3D,F,420,21.3,12.2,OK,Yes,2010/11/19,CM
 1445,USA,Philadelphia,PA,AMC Philadelphia Mills 14 & IMAX,IMAX,D,3D,F,336,15.5,8.1,OK,Yes,2010/12/17,CM
 1446,USA,Philadelphia,PA,Franklin Institute Science Museum,IMAX,1570,2D,D,350,24.1,,Height missing — width only,No,1990/04/05,N
@@ -1543,7 +1543,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1542,USA,Mesquite,TX,AMC Mesquite 30 & IMAX,IMAX,D,3D,F,441,19.1,10.4,OK,Yes,2009/03/06,CM
 1543,USA,Midland,TX,Regal Tall City Stadium 14 & IMAX,IMAX,D,3D,F,,14.7,9.0,OK,Yes,2013/11/21,CM
 1544,USA,Odessa,TX,Regal Permian Palace Stadium 11 & IMAX,IMAX,D,3D,F,,14.6,9.4,OK,Yes,2015/12/17,CM
-1545,USA,Richmond,TX,Regal Grand Parkway 22 & IMAX,IMAX,DL,3D,F,368,,,Missing screen size,,2019,CM
+1545,USA,Richmond,TX,Regal Grand Parkway 22 & IMAX,IMAX,DL,3D,F,368,16.0,,OK,Yes,2019,CM
 1546,USA,San Antonio,TX,AMC Rivercenter 11 & IMAX,IMAX,1570+D,3D,F,320,21.3,16.1,OK,Yes,2001/05,CM
 1547,USA,San Antonio,TX,AMC Rivercenter 11 & IMAX,IMAX,D,3D,F,426,25.9,18.9,OK,No,1988/03/06,CM
 1548,USA,San Antonio,TX,Santikos Palladium IMAX,IMAX,D,3D,F,393,21.3,13.4,OK,Yes,2006/12/22,CM
@@ -1556,7 +1556,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1555,USA,Waco,TX,AMC Galaxy 16 & IMAX,IMAX,D,3D,F,,17.3,9.6,OK,Yes,2017/05/27,CM
 1556,USA,Centerville,UT,Megaplex 14 & IMAX at Legacy Crossing,IMAX,D,3D,F,603,23.2,12.8,OK,No,2011/10/14,CM
 1557,USA,Lehi,UT,North American Museum of Ancient Life,CHRIS,D,3D,F,325,20.1,14.0,OK,Yes,2009/09/30,N
-1558,USA,Salt Lake City,UT,Clark Planetarium,IMAX,D,3D,F,292,21.3,16.0,,Yes,2003/04/11,N
+1558,USA,Salt Lake City,UT,Clark Planetarium,IMAX,D,3D,F,292,21.3,16.0,OK,Yes,2003/04/11,N
 1559,USA,Sandy,UT,"Megaplex 17 & IMAX, Jordan Commons",IMAX,D,3D,F,446,24.6,17.2,OK,No,2010/05/07,CM
 1560,USA,South Jordan,UT,Megaplex 20 & IMAX at The District,IMAX,D,3D,F,514,21.0,11.6,OK,Yes,2010/09/24,CM
 1561,USA,Vineyard,UT,Megaplex Theatres @ Geneva & IMAX,IMAX,D,3D,F,,24.4,13.8,OK,No,2015/03/13,CM
@@ -1569,7 +1569,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1568,USA,Charlottesville,VA,Regal Stonefield Stadium 14 & IMAX,IMAX,D,3D,F,293,15.8,8.9,OK,Yes,2012/11/08,CM
 1569,USA,Fredericksburg,VA,Regal Fredericksburg 14 & IMAX,IMAX,D,3D,F,,14.9,8.7,OK,Yes,2018/03/18,CM
 1570,USA,Hampton,VA,AMC Hampton Towne Center 24 & IMAX,IMAX,D,3D,F,420,18.0,10.0,OK,Yes,2009/10/02,CM
-1571,USA,Hampton,VA,Virginia Air and Space Science Center,IMAX,D,3D,F,285,21.3,16.8,,Yes,1992/04/04,N
+1571,USA,Hampton,VA,Virginia Air and Space Science Center,IMAX,D,3D,F,285,21.3,16.8,OK,Yes,1992/04/04,N
 1572,USA,Manassas,VA,Regal Manassas Stadium 14 & IMAX,IMAX,D,3D,F,404,15.8,9.2,OK,Yes,2011/03/25,CM
 1573,USA,McLean,VA,AMC Tysons Corner 16 & IMAX,IMAX,DL,3D,F,510,19.8,12.2,OK,Yes,2010/03/05,CM
 1574,USA,Midlothian,VA,Regal Commonwealth 20 & IMAX,IMAX,D,3D,F,299,15.0,8.1,OK,Yes,2009/02/06,CM
@@ -1577,7 +1577,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1576,USA,Richmond,VA,Science Museum of Virginia,ES,D,3D,D,250,23.2,,Height missing — width only,No,1983/04/23,N
 1577,USA,Triangle,VA,National Museum of the Marine Corps,CHRIS,DL2,2D,F,369,22.0,16.5,OK,Yes,2017/07/23,N
 1578,USA,Virginia Beach,VA,AMC Lynnhaven 18 & IMAX,IMAX,D,3D,F,294,15.8,9.1,OK,Yes,2008/11/07,CM
-1579,USA,Virginia Beach,VA,Virginia Aquarium and Marine Science Center,BARCO,D,3D,F,267,25.0,18.0,,No,1996/07/08,N
+1579,USA,Virginia Beach,VA,Virginia Aquarium and Marine Science Center,BARCO,D,3D,F,267,25.0,18.0,OK,No,1996/07/08,N
 1580,USA,Woodbridge,VA,AMC Potomac Mills 18 & IMAX,IMAX,D,3D,F,269,16.0,9.0,OK,Yes,2008/07/18,CM
 1581,MEXICO,Veracruz,Veracruz,Cinépolis IMAX - Acuario de Veracruz,IMAX,1570+D,3D,F,263,16.8,9.4,OK,Yes,2005/02/28,CM
 1582,AUSTRALIA,Melbourne,Victoria,IMAX Theatre Melbourne,IMAX,1570+DL2,3D,F,484,31.1,23.2,OK,No,1998/05/23,N
