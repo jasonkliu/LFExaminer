@@ -29,7 +29,7 @@ export default function App() {
   const [hideLieMAX, setHideLieMAX] = useState(true)
   const [laserOnly, setLaserOnly] = useState(true)
   const [hideDome, setHideDome] = useState(true)
-  const [sort, setSort] = useState({ key: '', direction: 'asc' })
+  const [sort, setSort] = useState({ key: 'Screen Width (m)', direction: 'desc' })
 
   const filtered = useMemo(() => {
     const query = search.trim().toLowerCase()

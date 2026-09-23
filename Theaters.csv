@@ -1143,7 +1143,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1142,USA,Lithonia,GA,Stonecrest 16 & IMAX,IMAX,D,3D,F,305,15.8,8.7,OK,Yes,2011/04/29,CM
 1143,USA,Macon,GA,AmStar 16 & IMAX,IMAX,D,3D,F,251,14.0,7.1,OK,Yes,2011/06/28,CM
 1144,USA,Morrow,GA,AMC Southlake 24 & IMAX,IMAX,D,3D,F,423,17.8,9.9,OK,Yes,2009/03/06,CM
-1145,USA,Pooler,GA,Royal Cinemas & IMAX,IMAX,D,3D,F,350,21.3,12.2,OK,Yes,2012/09/14,CM
+1145,USA,Pooler,GA,Royal Cinemas & IMAX,IMAX,DL2,3D,F,350,30.8,23.2,OK,No,2012/09/14,CM
 1146,CHINA,Lanzhou,Gansu,Lanzhou Centre Space Station & IMAX,IMAX,DL,3D,F,,20.4,11.4,OK,Yes,2018/12/28,CM
 1147,NETHERLANDS,Arnhem,GE,Pathe Arnhem & IMAX,IMAX,D,3D,F,308,21.0,12.0,OK,Yes,2015/10/19,CM
 1148,MEXICO,Leon,Guanajuato,Patronato de Explora,IMAX,1570,3D,F,296,23.6,17.4,OK,No,1994/11/23,N
@@ -1580,7 +1580,7 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1579,USA,Virginia Beach,VA,Virginia Aquarium and Marine Science Center,BARCO,D,3D,F,267,25.0,18.0,OK,No,1996/07/08,N
 1580,USA,Woodbridge,VA,AMC Potomac Mills 18 & IMAX,IMAX,D,3D,F,269,16.0,9.0,OK,Yes,2008/07/18,CM
 1581,MEXICO,Veracruz,Veracruz,Cinépolis IMAX - Acuario de Veracruz,IMAX,1570+D,3D,F,263,16.8,9.4,OK,Yes,2005/02/28,CM
-1582,AUSTRALIA,Melbourne,Victoria,IMAX Theatre Melbourne,IMAX,1570+DL2,3D,F,484,31.1,23.2,OK,No,1998/05/23,N
+1582,AUSTRALIA,Melbourne,Victoria,IMAX Theatre Melbourne,IMAX,1570+DL2,3D,F,484,32.0,23.0,OK,No,1998/05/23,CM
 1583,USA,Bellevue,WA,IMAX Lincoln Square Cinemas,IMAX,D,3D,F,438,19.9,11.2,OK,Yes,2009/03/27,CM
 1584,USA,Bellingham,WA,Regal Barkley Village Stadium 16 & IMAX,IMAX,D,3D,F,356,16.8,10.2,OK,Yes,2012/12/14,CM
 1585,USA,Gig Harbor,WA,Galaxy Uptown Luxury+ & IMAX,IMAX,D,3D,F,35,21.6,12.2,OK,Yes,2017/03,CM
@@ -1616,3 +1616,5 @@ Number,Country,City,State,Organization,Proj,Fmt,2D/3D,Flat/ Dome,Seats,Screen Wi
 1615,CHINA,Wenling,Zhejiang,Wenling 0090 & IMAX,IMAX,D,3D,F,,22.3,12.5,OK,Yes,2017/07/27,CM
 1616,CHINA,Ningbo,Zhejiang Prov.,CGV Ningbo Cultural Square & IMAX,IMAX,D,3D,F,,20.9,11.8,OK,Yes,2013/10/25,CM
 1617,CHINA,Ningbo,Zhejiang Prov.,Yuyao Wanda Plaza & IMAX,IMAX,D,3D,F,,19.8,11.1,OK,Yes,2013/11,CM
+1618,USA,Los Angeles,CA,Regal LA Live & IMAX,IMAX,1570+DL2,3D,F,,24.4,13.0,OK,No,,CM
+1619,AUSTRALIA,Sydney,New South Wales,IMAX Sydney,IMAX,DL2,3D,F,,30.0,23.0,OK,No,,CM
